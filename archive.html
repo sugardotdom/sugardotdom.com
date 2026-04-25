@@ -181,14 +181,21 @@
         
         <div class="controls">
             <div class="controls-group">
-                <span>By Date</span>
-                <span>By Impact</span>
-                <span>Themes</span>
+                <span onclick="sortArchive('date')">By Date</span>
+                <span onclick="sortArchive('impact')">By Impact</span>
+                <span onclick="sortArchive('themes')">Themes</span>
             </div>
             <div class="controls-group">
                 <span>Newest First ↓</span>
             </div>
         </div>
+
+    <script>
+        function sortArchive(criteria) {
+            console.log("Sorting by: " + criteria);
+            alert("Archive sorting by " + criteria + " initialized.");
+        }
+    </script>
 
         <div class="year-marker">2026</div>
 
