@@ -133,16 +133,25 @@
         }
 
         .palette {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
             display: flex;
-            justify-content: flex-start;
-            gap: 0.3rem;
-            margin-top: 0.6rem;
+            flex-direction: column;
+            gap: 0.5rem;
+            z-index: 20;
             pointer-events: auto;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .photo-card:hover .palette, .photo-card.in-view .palette {
+            opacity: 1;
         }
 
         .color-swatch {
-            width: 16px;
-            height: 16px;
+            width: 20px;
+            height: 20px;
             border-radius: 3px;
             border: 1px solid rgba(255,255,255,0.3);
             padding: 0;
@@ -286,11 +295,11 @@
 
                 card.innerHTML = `
                     ${mediaElement}
+                    ${paletteHtml}
                     <div class="tags-overlay">
                         <div>${img.tags.join(' • ')}</div>
                         ${img.camera ? `<div class="meta-data">${img.camera.focalLength} • ${img.camera.fstop} • ${img.camera.iso}</div>` : ''}
                         ${img.location ? `<div class="meta-data">${img.location}</div>` : ''}
-                        ${paletteHtml}
                     </div>
                 `;
                 gallery.appendChild(card);

@@ -104,11 +104,20 @@
         }
 
         .palette {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
             display: flex;
-            justify-content: flex-start;
-            gap: 0.4rem;
-            margin-top: 0.8rem;
+            flex-direction: column;
+            gap: 0.5rem;
+            z-index: 20;
             pointer-events: auto;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .photo-card:hover .palette, .photo-card.in-view .palette {
+            opacity: 1;
         }
 
         .color-swatch {
@@ -138,12 +147,12 @@
 
         .graded-layer {
             position: absolute;
-            top: 0; left: 0; bottom: 0;
+            top: 0; right: 0; bottom: 0;
             width: 50%;
-            /* Left side: Almost Grayscale + Contrast */
-            backdrop-filter: grayscale(0.85) contrast(1.15) brightness(0.95);
+            /* Right side: S-log / De-saturated with slight saturation */
+            backdrop-filter: grayscale(0.5) contrast(0.85) brightness(1.05);
             pointer-events: none;
-            border-right: 1px dashed rgba(255,255,255,0.5);
+            border-left: 1px dashed rgba(255,255,255,0.5);
             z-index: 5;
         }
 
@@ -294,11 +303,11 @@
                     ${mediaElement}
                     <div class="graded-layer"></div>
                     <input type="range" min="0" max="100" value="50" class="wipe-slider" aria-label="Toggle Color Grade">
+                    ${paletteHtml}
                     <div class="tags-overlay">
                         <div>${img.tags.join(' • ')}</div>
                         ${img.camera ? `<div class="meta-data">${img.camera.focalLength} • ${img.camera.fstop} • ${img.camera.iso}</div>` : ''}
                         ${img.location ? `<div class="meta-data">${img.location}</div>` : ''}
-                        ${paletteHtml}
                     </div>
                 `;
                 
@@ -306,7 +315,7 @@
                 const gradedLayer = card.querySelector('.graded-layer');
                 if (slider && gradedLayer) {
                     slider.addEventListener('input', (e) => {
-                        gradedLayer.style.width = e.target.value + '%';
+                        gradedLayer.style.width = (100 - e.target.value) + '%';
                     });
                 }
                 
