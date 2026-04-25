@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Photography - Sugar.Dom</title>
+    <title>Erotic Cinema - Sugar.Dom</title>
     <style>
         :root {
             --bg-color: #0c0c0c;
@@ -145,7 +145,7 @@
 <body oncontextmenu="return false;">
 
     <header>
-        <h1>Photography</h1>
+        <h1>Erotic Cinema</h1>
         <a href="index.html">← Back to Foundation</a>
     </header>
 
@@ -165,7 +165,7 @@
             try {
                 const response = await fetch('pics_data.json?v=' + new Date().getTime());
                 const allData = await response.json();
-                allImages = allData.filter(img => img.type === 'image' && !img.filename.endsWith('.mp4') && !img.filename.endsWith('.webm'));
+                allImages = allData.filter(img => img.type === 'video' || img.filename.endsWith('.mp4') || img.filename.endsWith('.webm'));
                 
                 // Extract unique tags
                 const tagSet = new Set();
@@ -188,7 +188,7 @@
 
             } catch (error) {
                 console.error("Error loading images data:", error);
-                document.getElementById('gallery').innerHTML = "<p>Unable to load photography collection at this moment.</p>";
+                document.getElementById('gallery').innerHTML = "<p>Unable to load cinema collection at this moment.</p>";
             }
         }
 
