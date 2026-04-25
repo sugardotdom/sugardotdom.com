@@ -5,21 +5,250 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Outtakes / Play - Sugar.Dom</title>
     <style>
-        :root { --bg-color: #fcfcfc; --text-color: #111111; --accent-color: #555555; }
-        @media (prefers-color-scheme: dark) { :root { --bg-color: #0c0c0c; --text-color: #efefef; --accent-color: #a0a0a0; } }
-        body { background-color: var(--bg-color); color: var(--text-color); font-family: sans-serif; margin: 0; padding: 2rem; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1rem; }
-        .item img { width: 100%; height: auto; opacity: 0.8; transition: opacity 0.3s; }
-        .item img:hover { opacity: 1; }
+        :root {
+            --bg-color: #050505;
+            --text-color: #e0e0e0;
+            --accent-color: #d90000;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 2rem;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 4rem;
+            border-bottom: 1px solid #222;
+            padding-bottom: 2rem;
+        }
+
+        h1 {
+            font-weight: 300;
+            letter-spacing: 0.1rem;
+            text-transform: uppercase;
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        a {
+            color: var(--accent-color);
+            text-decoration: none;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1rem;
+        }
+
+        /* Mosaic Layout */
+        .mosaic-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            grid-auto-rows: 200px;
+            grid-auto-flow: dense;
+            gap: 10px;
+            padding: 10px;
+        }
+
+        .mosaic-item {
+            overflow: hidden;
+            background: #111;
+        }
+
+        .mosaic-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            filter: grayscale(100%);
+            transition: filter 0.5s ease, transform 0.5s ease;
+        }
+
+        .mosaic-item img:hover {
+            filter: grayscale(0%);
+            transform: scale(1.05);
+        }
+
+        .mosaic-item.tall { grid-row: span 2; }
+        .mosaic-item.wide { grid-column: span 2; }
     </style>
 </head>
 <body>
-    <header style="text-align:center; margin-bottom: 3rem;">
+    <header>
         <h1>Outtakes / Play</h1>
         <a href="index.html">← Foundation</a>
     </header>
-    <div class="grid">
-        <!-- Add image tags here -->
-    </div>
+
+    <div class="mosaic-grid">
+  <div class="mosaic-item"><img src="pics/polaroids/98fc89a7-150f-4df5-875d-a7b058b33e5d.jpg" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-002da75a.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-0059eaa3.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-00627760.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-0301f132.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-032410eb.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-0394ac2f.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-075e8efe.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-07d1add3.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-0a561178.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-0b22e915.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-0b6fae86.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-0fae4cca.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-0fba03be.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-0ff4b919.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-14ccbad5.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-178d18d9.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-17a388d9.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-192305ab.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-195a5a29.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-19a21a92.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-19e55b11.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-1e4ed8ec.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-1e50d0d8.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-1e623465.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-2186ab21.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-241a4970.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-24f2b81d.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-254e4508.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-299f1f47.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-2ac8d0d4.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-2d4d206a.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-2e62d6fa.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-2fd0a8cb.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-324090ce.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-32995775.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-32dcc28c.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-340c2c79.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-3417b25f.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-3419f65b.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-348d9550.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-3a220354.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-3adfb01d.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-3ba1346e.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-3e27685e.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-3f2a4ccd.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-3f69bc87.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-40f1167e.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-44174445.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-4507b43b.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-4780bed4.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-47f20ea4.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-47f62ed3.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-4c5627d7.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-4e979f91.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-4ea0c8a7.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-4ee2f6c7.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-4fd08535.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-50417c02.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-52267bdf.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-52b499d3.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-5372a866.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-5692113b.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-574ff7b8.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-5926a3cc.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-5ddf6181.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-5f324ec2.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-60b29db2.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-61d93221.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-6638c00d.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-66e08d3c.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-680846cd.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-6ad39317.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-6edcb3b9.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-7033dc6d.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-70cb5646.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-72afdb88.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-73b29526.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-758c90f8.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-7761b2d1.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-78aa9e3a.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-78f5699d.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-7ae26582.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-7bcc6b93.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-7cb6fdc7.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-8076ea09.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-82d87772.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-84894ec1.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-84b00beb.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-863e6e38.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-87457a56.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-885aefe5.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-886ddab9.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-89506776.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-8aa6869b.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-8d84c590.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-8fbb8d5f.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-8ff7da56.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-91508e32.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-92187941.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-96eeb593.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-96ff9df1.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-98fc89a7.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-9ac67a40.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-9bb3d2c8.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-9e29c3d1.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-9e447a52.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-9faf1b45.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-a0267cc0.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-a428323d.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-a629e775.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-a6ba7e40.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-a73fa70d.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-a8960fd6.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-a8dda22e.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-a9c31f86.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-ac5616ad.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-ac63d246.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-b51a8bd1.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-bb65621f.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-bc50bc3f.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-bca0fae2.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-bcb21e14.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-be14e7c5.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-c76b2632.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-cd1e630f.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-ce050e5e.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-d16b7d07.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-d20508d5.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-d5545c47.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-d76fa6f1.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-d9ef570d.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-dac9ef77.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-dc582135.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-ddfeb60a.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-de456f43.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-de6b7f0b.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-df1be333.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-dfa25022.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-e1110502.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-e20d4c31.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-e467275d.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-e60ba2f0.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-e678859d.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-ea7ba8cd.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-ea95ec29.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-ebe401c6.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-ecfbf0ef.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-ed0c6eaf.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-f30a81dc.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-f68a2fd0.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-fdf3a8a1.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/polaroids/imagine-ffa03c8d.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/e5df18c8-0714-438b-91dd-163e3f32989d.jpg" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-018da51a.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-094a2255.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-19dee69a.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-1b2371b0.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-3a33ef6e.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-3d5a8426.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-53b06411.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-85c527f2.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-92dee418.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-95df7cc1.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-a2838d15.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-a96158a7.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-abf751b2.png" loading="lazy"></div>
+  <div class="mosaic-item"><img src="pics/cinematic-stills/imagine-cdb852c4.png" loading="lazy"></div>
+</div>
 </body>
 </html>
