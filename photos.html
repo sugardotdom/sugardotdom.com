@@ -101,7 +101,7 @@
             pointer-events: none;
         }
 
-        .photo-card:hover img {
+        .photo-card:hover img, .photo-card.in-view img {
             transform: scale(1.05);
             filter: contrast(1.2) grayscale(0);
         }
@@ -112,7 +112,7 @@
             left: 0;
             right: 0;
             padding: 1rem;
-            background: linear-gradient(transparent, rgba(0,0,0,0.8));
+            background: linear-gradient(transparent, rgba(0,0,0,0.85));
             color: #fff;
             font-size: 0.7rem;
             text-transform: uppercase;
@@ -121,8 +121,16 @@
             transition: opacity 0.3s ease;
         }
 
-        .photo-card:hover .tags-overlay {
+        .photo-card:hover .tags-overlay, .photo-card.in-view .tags-overlay {
             opacity: 1;
+        }
+
+        .meta-data {
+            display: block;
+            font-size: 0.55rem;
+            color: #b0b0b0;
+            margin-top: 0.4rem;
+            letter-spacing: 0.08rem;
         }
 
     </style>
@@ -144,6 +152,7 @@
 
     <script>
         let allImages = [];
+        let observer;
 
         async function init() {
             try {
@@ -154,6 +163,17 @@
                 const tagSet = new Set();
                 allImages.forEach(img => img.tags.forEach(t => tagSet.add(t)));
                 const uniqueTags = ["All", ...Array.from(tagSet).sort()];
+
+                // Setup Intersection Observer for mobile scrolling effects
+                observer = new IntersectionObserver((entries) => {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting) {
+                            entry.target.classList.add('in-view');
+                        } else {
+                            entry.target.classList.remove('in-view');
+                        }
+                    });
+                }, { threshold: 0.6 });
 
                 renderFilters(uniqueTags);
                 renderGallery(allImages);
@@ -196,9 +216,14 @@
                 card.className = 'photo-card';
                 card.innerHTML = `
                     <img src="pics/${img.filename}" alt="${img.tags.join(', ')}" loading="lazy" draggable="false">
-                    <div class="tags-overlay">${img.tags.join(' • ')}</div>
+                    <div class="tags-overlay">
+                        <div>${img.tags.join(' • ')}</div>
+                        ${img.camera ? `<div class="meta-data">${img.camera.focalLength} • ${img.camera.fstop} • ${img.camera.iso}</div>` : ''}
+                        ${img.location ? `<div class="meta-data">${img.location}</div>` : ''}
+                    </div>
                 `;
                 gallery.appendChild(card);
+                if (observer) observer.observe(card);
             });
         }
 

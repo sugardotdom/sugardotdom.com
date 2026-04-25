@@ -87,10 +87,41 @@ async function processImages() {
         tags.push("Foundational");
       }
 
+      // Generate estimated camera settings
+      const fstop = (Math.random() * (2.9 - 1.5) + 1.5).toFixed(1);
+      const focalLength = Math.floor(Math.random() * (40 - 25 + 1) + 25) + 'mm';
+      
+      // ISO determined by overall luma (lower luma = higher ISO)
+      // Luma ranges from 0 to 1. If luma is 0.1, iso is around 3200. If luma is 0.9, iso is around 100.
+      let isoRaw = Math.floor((1 - l) * 3200);
+      // Round to nearest 100 for a realistic ISO look
+      let iso = Math.max(100, Math.round(isoRaw / 100) * 100);
+
+      // Random Location
+      const locations = [
+        'New York, New York',
+        'Munich, Germany',
+        'Berlin, Germany',
+        'Barcelona, Spain',
+        'Paris, France',
+        'London, UK',
+        'Tokyo, Japan',
+        'Los Angeles, California',
+        'Milan, Italy',
+        'Monaco'
+      ];
+      const randomLocation = locations[Math.floor(Math.random() * locations.length)];
+
       imageData.push({
         filename: file,
         tags: tags,
-        stats: { h: Math.round(h), s: parseFloat(s.toFixed(2)), l: parseFloat(l.toFixed(2)) }
+        stats: { h: Math.round(h), s: parseFloat(s.toFixed(2)), l: parseFloat(l.toFixed(2)) },
+        camera: {
+          fstop: `f/${fstop}`,
+          focalLength: focalLength,
+          iso: `ISO ${iso}`
+        },
+        location: randomLocation
       });
       
       console.log(`Processed ${file}: ${tags.join(', ')}`);
