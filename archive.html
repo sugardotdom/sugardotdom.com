@@ -186,14 +186,41 @@
                 <span onclick="sortArchive('themes')">Themes</span>
             </div>
             <div class="controls-group">
-                <span>Newest First ↓</span>
+                <span id="sort-order" onclick="toggleSortOrder()">Newest First ↓</span>
             </div>
         </div>
 
     <script>
+        let isNewestFirst = true;
+
         function sortArchive(criteria) {
-            console.log("Sorting by: " + criteria);
-            alert("Archive sorting by " + criteria + " initialized.");
+            const container = document.querySelector('.container');
+            const posts = Array.from(document.querySelectorAll('.post'));
+            
+            // Re-order logic based on date
+            posts.sort((a, b) => {
+                const dateA = new Date(a.querySelector('.post-date').innerText);
+                const dateB = new Date(b.querySelector('.post-date').innerText);
+                return isNewestFirst ? dateB - dateA : dateA - dateB;
+            });
+            
+            // Keep year markers? For now, we will hide them when sorting 
+            // as this requires a more complex grouping engine.
+            document.querySelectorAll('.year-marker').forEach(m => m.style.display = 'none');
+            
+            // Remove existing posts from container
+            posts.forEach(post => post.remove());
+            
+            // Append sorted posts
+            posts.forEach(post => container.appendChild(post));
+            console.log("Archive re-sorted by: " + criteria);
+        }
+
+        function toggleSortOrder() {
+            isNewestFirst = !isNewestFirst;
+            const label = document.getElementById('sort-order');
+            label.innerText = isNewestFirst ? "Newest First ↓" : "Oldest First ↑";
+            sortArchive('date');
         }
     </script>
 
