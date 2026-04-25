@@ -79,7 +79,25 @@
             object-fit: cover;
             filter: grayscale(100%);
             transition: filter 0.5s ease, transform 0.5s ease;
-            -webkit-user-select: none; /* Help with mobile interactions */
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -o-user-select: none;
+            user-select: none;
+            pointer-events: auto;
+        }
+
+        /* Prevent context menu on images */
+        .mosaic-item img {
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+        }
+
+        /* Focused View State */
+        .focused {
+            filter: grayscale(0%) !important;
+            transform: scale(1.05);
+            z-index: 10;
         }
 
         .mosaic-item img:hover {
@@ -99,14 +117,30 @@
     </header>
 
     <script>
+        // Disable Right Click & Context Menu
+        document.addEventListener('contextmenu', event => event.preventDefault());
+
         function toggleGrayscale() {
-            const images = document.querySelectorAll('.mosaic-item img');
-            images.forEach(img => {
-                const current = img.style.filter;
-                img.style.filter = (current === 'grayscale(0%)') ? 'grayscale(100%)' : 'grayscale(0%)';
-            });
+            const container = document.querySelector('.mosaic-grid');
+            container.classList.toggle('force-color');
         }
+
+        // Handle focused view on click for mobile
+        const items = document.querySelectorAll('.mosaic-item');
+        items.forEach(item => {
+            item.addEventListener('click', () => {
+                // Remove focus from others
+                items.forEach(i => i.querySelector('img').classList.remove('focused'));
+                // Toggle focus on clicked
+                item.querySelector('img').classList.add('focused');
+            });
+        });
     </script>
+    <style>
+        .force-color .mosaic-item img {
+            filter: grayscale(0%) !important;
+        }
+    </style>
 
     <div class="mosaic-grid">
   <div class="mosaic-item"><img src="pics/polaroids/98fc89a7-150f-4df5-875d-a7b058b33e5d.jpg" loading="lazy"></div>
