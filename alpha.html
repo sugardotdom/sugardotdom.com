@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Alpha Place - Sugar.Dom</title>
+    <style>
+        :root {
+            --bg-color: #fcfcfc;
+            --text-color: #111111;
+            --accent-color: #555555;
+            --font-main: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #0c0c0c;
+                --text-color: #efefef;
+                --accent-color: #a0a0a0;
+            }
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: var(--font-main);
+            margin: 0;
+            padding: 2rem;
+            line-height: 1.8;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 4rem;
+            margin-top: 2rem;
+        }
+
+        h1 {
+            font-weight: 300;
+            letter-spacing: 0.1rem;
+            text-transform: uppercase;
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        header a {
+            color: var(--accent-color);
+            text-decoration: none;
+            font-size: 0.8rem;
+            letter-spacing: 0.05rem;
+            text-transform: uppercase;
+            transition: color 0.3s ease;
+        }
+        
+        header a:hover {
+            color: var(--text-color);
+        }
+
+        .container {
+            max-width: 700px;
+            width: 100%;
+            padding: 0 1rem;
+        }
+
+        .manifesto-section {
+            margin-bottom: 4rem;
+            opacity: 0;
+            transform: translateY(20px);
+            animation: fadeUp 1s ease forwards;
+        }
+
+        .manifesto-section:nth-child(2) { animation-delay: 0.2s; }
+        .manifesto-section:nth-child(3) { animation-delay: 0.4s; }
+        .manifesto-section:nth-child(4) { animation-delay: 0.6s; }
+
+        h2 {
+            font-weight: 400;
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid var(--accent-color);
+            padding-bottom: 0.5rem;
+            display: inline-block;
+        }
+
+        p {
+            font-weight: 300;
+            color: var(--text-color);
+            margin-bottom: 1.5rem;
+            text-align: justify;
+            font-size: 0.95rem;
+        }
+
+        .quote {
+            font-style: italic;
+            font-size: 1.2rem;
+            color: var(--accent-color);
+            margin: 3rem 0;
+            text-align: center;
+            border: none;
+        }
+
+        @keyframes fadeUp {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>The Alpha Place</h1>
+        <a href="index.html">← Back to Foundation</a>
+    </header>
+
+    <div class="container">
+        
+        <div class="manifesto-section">
+            <h2>Foundation</h2>
+            <p>
+                True alpha is not loud. It is not garish. It does not demand attention, it simply commands respect through unyielding foundation. It is the Greek ideal—stoicism, restraint, and an unwavering commitment to excellence in every facet of life. 
+            </p>
+            <p>
+                Sugar.Dom is built on the philosophy that leadership begins internally. Before you can guide others, direct a room, or capture an audience, you must first master the self. We reject the modern, cartoonish interpretations of the 'Alpha Male' in favor of something far older and far more dangerous: quiet, absolute competence.
+            </p>
+        </div>
+
+        <div class="manifesto-section">
+            <p class="quote">"He who is not a good servant will not be a good master."</p>
+        </div>
+
+        <div class="manifesto-section">
+            <h2>The Movement</h2>
+            <p>
+                This space serves as the central node for a lifestyle that refuses compromise. Whether it is through the meticulous curation of our visual presence in Photography and Cinema, or the raw, unfiltered reality of the Live Stream, every output is a reflection of this core ethos.
+            </p>
+            <p>
+                We are building a captive audience of individuals who recognize quality. The stream is not just broadcast—it is a demonstration of the lifestyle. It is an invitation to observe, learn, and ascend to the Alpha standard.
+            </p>
+        </div>
+
+        <div class="manifesto-section">
+            <h2>Engagement</h2>
+            <p>
+                The door is open, but the standard remains high. Engage with the content, study the aesthetic, and join the live broadcasts to witness the philosophy in real-time. This is not a community for the passive; it is a movement for those ready to step into their own power.
+            </p>
+        </div>
+
+    </div>
+
+</body>
+</html>
