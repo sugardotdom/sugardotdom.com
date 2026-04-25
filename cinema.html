@@ -73,13 +73,14 @@
             border-color: var(--text-color);
         }
 
+        /* Cinema specific styles: Single column stack */
         .gallery {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-            gap: 2px;
-            max-width: 1200px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 4rem;
+            max-width: 800px;
             margin: 0 auto;
-            grid-auto-flow: dense;
         }
 
         .photo-card {
@@ -87,24 +88,21 @@
             overflow: hidden;
             background-color: #1a1a1a;
             cursor: pointer;
+            width: 100%;
         }
 
-        /* Aspect ratio classes applied dynamically via JS */
-        .ar-portrait { grid-row: span 2; aspect-ratio: 4 / 5; }
-        .ar-landscape { grid-column: span 2; aspect-ratio: 16 / 9; }
-        .ar-square { aspect-ratio: 1 / 1; }
-        .ar-widescreen { grid-column: span 2; grid-row: span 2; aspect-ratio: 21 / 9; }
-
-        /* Optimize low res: slight contrast boost and a grainy overlay to make it look intentional */
-        .photo-card img, .photo-card video {
+        /* Enforce native aspect ratio and fit logic */
+        .photo-card video {
             width: 100%;
-            height: 100%;
-            object-fit: cover;
+            height: auto;
+            max-height: 80vh; /* Don't exceed screen height */
+            object-fit: contain; /* Show full frame, don't crop */
             filter: contrast(1.1) grayscale(0.1);
             transition: transform 0.5s ease, filter 0.5s ease;
             user-select: none;
             -webkit-user-drag: none;
             pointer-events: none;
+            background-color: #0c0c0c;
         }
 
         .photo-card:hover img, .photo-card.in-view img,
@@ -222,23 +220,8 @@
             images.forEach(img => {
                 const card = document.createElement('div');
                 card.className = 'photo-card';
-                
-                // Determine aspect ratio class based on metadata
-                const ratio = parseFloat(img.aspectRatio);
-                if (ratio > 2.0) {
-                    card.classList.add('ar-widescreen'); // ultra-wide (e.g. 21:9)
-                } else if (ratio >= 1.2) {
-                    card.classList.add('ar-landscape'); // standard landscape (e.g. 16:9, 3:2)
-                } else if (ratio >= 0.8 && ratio < 1.2) {
-                    card.classList.add('ar-square'); // square-ish (1:1)
-                } else {
-                    card.classList.add('ar-portrait'); // tall (e.g. 4:5, 9:16)
-                }
 
-                const isVideo = img.type === 'video' || img.filename.endsWith('.mp4') || img.filename.endsWith('.webm');
-                const mediaElement = isVideo 
-                    ? `<video src="pics/${img.filename}" autoplay loop muted playsinline disablePictureInPicture draggable="false"></video>` 
-                    : `<img src="pics/${img.filename}" alt="${img.tags.join(', ')}" loading="lazy" draggable="false">`;
+                const mediaElement = `<video src="pics/${img.filename}" autoplay loop muted playsinline disablePictureInPicture draggable="false"></video>`;
 
                 card.innerHTML = `
                     ${mediaElement}

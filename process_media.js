@@ -185,8 +185,18 @@ async function processMedia() {
         // Generate Camera Settings Overlay
         const fstop = (Math.random() * (2.9 - 1.5) + 1.5).toFixed(1);
         const focalLength = Math.floor(Math.random() * (40 - 25 + 1) + 25) + 'mm';
-        let isoRaw = Math.floor((1 - l) * 3200);
-        let iso = Math.max(100, Math.round(isoRaw / 100) * 100);
+        
+        // ISO logic updated per user instruction: Darker (luma < 0.5) = 100-500, Lighter (luma >= 0.5) = 500-1600
+        let iso;
+        if (l < 0.5) {
+          // Darker: 100 to 500
+          iso = Math.floor(Math.random() * (500 - 100 + 1)) + 100;
+        } else {
+          // Lighter: 500 to 1600
+          iso = Math.floor(Math.random() * (1600 - 500 + 1)) + 500;
+        }
+        // Round to nearest 100 for a realistic look, except if it drops below 100
+        iso = Math.max(100, Math.round(iso / 100) * 100);
 
         const locations = ['New York, New York', 'Munich, Germany', 'Berlin, Germany', 'Barcelona, Spain', 'Paris, France', 'London, UK', 'Tokyo, Japan', 'Los Angeles, California', 'Milan, Italy', 'Monaco'];
         

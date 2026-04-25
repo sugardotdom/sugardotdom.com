@@ -17,11 +17,11 @@
       "l": 0.42
     },
     "camera": {
-      "fstop": "f/1.8",
+      "fstop": "f/2.6",
       "focalLength": "30mm",
-      "iso": "ISO 1900"
+      "iso": "ISO 400"
     },
-    "location": "Barcelona, Spain"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "image",
@@ -41,11 +41,36 @@
       "l": 0.49
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "36mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.4",
+      "focalLength": "27mm",
+      "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "London, UK"
+  },
+  {
+    "type": "video",
+    "original_filename": "02e5f99bc910f142ca2a9344fc8f39e02caf7ed5d3ee6e59e52ee28f806c6515.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b51451e74f5f5e434da4d4515da7b2b7e9c04032ffbfa238c3617ba5e3ef9bcf.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "25mm",
+      "iso": "ISO 400"
+    },
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -65,9 +90,9 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "32mm",
-      "iso": "ISO 1500"
+      "fstop": "f/1.6",
+      "focalLength": "30mm",
+      "iso": "ISO 1400"
     },
     "location": "Monaco"
   },
@@ -89,11 +114,11 @@
       "l": 0.5
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "40mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.3",
+      "focalLength": "30mm",
+      "iso": "ISO 600"
     },
-    "location": "Tokyo, Japan"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -113,11 +138,186 @@
       "l": 0.14
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "36mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.2",
+      "focalLength": "39mm",
+      "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Monaco"
+  },
+  {
+    "type": "video",
+    "original_filename": "0c8d1a3e0094e3096becda20b62175929a0be9bc4c2cbbdf9b8efba742d7a7db.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b62bf973b620a6a605d70839af6160920458596cc2755e0a849688964e160568.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "38mm",
+      "iso": "ISO 200"
+    },
+    "location": "London, UK"
+  },
+  {
+    "type": "video",
+    "original_filename": "10545e6a19a8cab6e96508cf2481c2804aabbc9ccdb5ab9b6364475e62069915.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "c86b0835d4ce31818308ddc028b8054ef48219a466e294f6609cbdd1b985787e.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "40mm",
+      "iso": "ISO 300"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "160dbce99b8a593e3bd8238dade54837b6ffe32c978136ea36607e858e85e483.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b1ad148b4112f6f74667bd75db0ff494c8d272c0cdbf3cd60e92bb4eb2e427d3.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "28mm",
+      "iso": "ISO 500"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "186086e5c7a90b1c481260139dc4123756fe74e88b1b9c68f100316cb7bac112.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "a731e04ce857628c4421e736f8e8a76d3019b2b10039359707ada085e7985729.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "39mm",
+      "iso": "ISO 300"
+    },
+    "location": "Berlin, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "1879037ee855a452b878b1ff97e03f12b36f08a4d22403d5ec1b7f8d806ca928.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "1fddcb0cbfb10413962ea06bb2e4c8c3d564aadad488f60633fbf931ddffa6a4.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "25mm",
+      "iso": "ISO 200"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "1c3f5f301d57a0ff4f2f7fae36e0443649d887cf0959498c3736eba5f8d73f69.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "8b49f32c0ee4f1f41e7a7dc5ac4ec0729aaaadb9427b4dd37b61370dd7bae435.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "29mm",
+      "iso": "ISO 200"
+    },
+    "location": "Berlin, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "1cc45b224b6d32d35a2b4df2cfaa815fa858436762d3f7d4d8b3dd1b4235856d.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "1995ebae52dc644658ff0c7a275f72ee019ac6a831fe8fb06e8b3bc85d85d4c6.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "28mm",
+      "iso": "ISO 300"
+    },
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -137,11 +337,36 @@
       "l": 0.44
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "28mm",
-      "iso": "ISO 1800"
+      "fstop": "f/1.9",
+      "focalLength": "34mm",
+      "iso": "ISO 300"
     },
-    "location": "Tokyo, Japan"
+    "location": "Paris, France"
+  },
+  {
+    "type": "video",
+    "original_filename": "1e482c0937a6beeaf663404dc8e32767d6816f480e85a9493c87022c6b538f56.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "7cf92abcf20d15a76fbb5b9626a9000e882a1f3606c2fd142bb513e587d903d4.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "35mm",
+      "iso": "ISO 400"
+    },
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -161,11 +386,111 @@
       "l": 0.58
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "40mm",
-      "iso": "ISO 1300"
+      "fstop": "f/2.3",
+      "focalLength": "27mm",
+      "iso": "ISO 1400"
     },
-    "location": "New York, New York"
+    "location": "Milan, Italy"
+  },
+  {
+    "type": "video",
+    "original_filename": "28b1e54e73df3d05a87723f3e9201e55c5be879c3422f27abc81d2e8a6c8b86a.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "8e5115d6e0c9ddc0d87564d6abb88097873cab9daae5763001200acab6e0c5cd.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "30mm",
+      "iso": "ISO 300"
+    },
+    "location": "Barcelona, Spain"
+  },
+  {
+    "type": "video",
+    "original_filename": "2af3623ae85b4606e558c30e1b5e1598a63356877770515bf563715bbc3235fc.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "3ea5868933c652a8fd7069d71ad7f3f5919243c5747a782c2189ac510a7d0272.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "33mm",
+      "iso": "ISO 400"
+    },
+    "location": "Barcelona, Spain"
+  },
+  {
+    "type": "video",
+    "original_filename": "2ea97b701c85644c9ddd37894a63c3db43728fbc2b4a501e8b9b5c6febbe7170.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "a9424cb645f2f08d7b68dedd6f4ec14affcde74bd8d1d783fec50ca199f64a3e.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "34mm",
+      "iso": "ISO 400"
+    },
+    "location": "Los Angeles, California"
+  },
+  {
+    "type": "video",
+    "original_filename": "335b0d2cd376838320f25a56c67675e278af01ca137dc54bd73170b36984e7d1.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "27dcb08e7bd104e23d6ce32f0a77608d9d9b01b7abbed433641f99b970b58cba.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "34mm",
+      "iso": "ISO 300"
+    },
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -186,9 +511,59 @@
       "l": 0.32
     },
     "camera": {
-      "fstop": "f/1.6",
+      "fstop": "f/1.8",
       "focalLength": "34mm",
-      "iso": "ISO 2200"
+      "iso": "ISO 300"
+    },
+    "location": "Monaco"
+  },
+  {
+    "type": "video",
+    "original_filename": "391ff139f63a423bd8c44d8230136142b75797edc827b331288eaf9fea1845cb.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "5bf6d5976fb79eebfe38b80fd4f0dbfb53bbe2942e232ec52c29f9dcbf371aea.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "27mm",
+      "iso": "ISO 300"
+    },
+    "location": "Berlin, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "3b2fa8c5c03c991472c838b4c7c9f5045d1963266dc96a1c9144e6e4f0ce05f3.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "ac696c253f297f343720ecef3db6181f06649399f406e1b3957b93aba5e2de7f.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "26mm",
+      "iso": "ISO 200"
     },
     "location": "New York, New York"
   },
@@ -210,11 +585,236 @@
       "l": 0.61
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "32mm",
-      "iso": "ISO 1200"
+      "fstop": "f/1.6",
+      "focalLength": "25mm",
+      "iso": "ISO 1300"
     },
     "location": "Berlin, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "45e313ca727082df8fd5216bd34bea04c8b708e44bb37a57df98ea55ebe23562.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "f2f1b0f406d3f81801f72de405b44426db22cec23971915ffdd590572dcdaa3a.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "35mm",
+      "iso": "ISO 200"
+    },
+    "location": "Los Angeles, California"
+  },
+  {
+    "type": "video",
+    "original_filename": "4668fee0588b94e7adb0d87f71326b06185f07fe678e8fd69502cca8a45da0a9.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "fd86d2a38d585221bffee7cd9287048133bf213518acbb2da63bc4a1dfe4b9a3.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "31mm",
+      "iso": "ISO 100"
+    },
+    "location": "Monaco"
+  },
+  {
+    "type": "video",
+    "original_filename": "481a113dc1e04982ae01220eaadabffeda917cd61a95a7145c8533e83d79308e.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "0085798597124091612de9df902ec3da7886b626fb92ad637812d6b538398fad.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "27mm",
+      "iso": "ISO 300"
+    },
+    "location": "New York, New York"
+  },
+  {
+    "type": "video",
+    "original_filename": "499b54b9d4c0be93560623c3a6a0f51ac344dbbfb3949e988da7e9b92fa9392a.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "42cc3c67ab491bdc91e78cb719b84c0510910d8211bec9d04550303c3c607d3c.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "40mm",
+      "iso": "ISO 200"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "4a8db2352a98852009cc876212eef152cc7201afbe9977a9214fdbe305fa6a3b.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "d997484c1cf6626a380a89a50a8e96f839c54d3dbda5373931e1cbfeae9f9267.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "30mm",
+      "iso": "ISO 500"
+    },
+    "location": "Monaco"
+  },
+  {
+    "type": "video",
+    "original_filename": "4c41769492b1a99c5c77c756e01203f4f6ed6f755ad969749a1ca46706c7dc59.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "d66c73a7689150cb5a332618572243a36aac5577851824f744a970959f05bca6.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "35mm",
+      "iso": "ISO 400"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "50da7f1b66f397768c14a79fd77971ebb62a34264f6e5d850735808c3bc3220f.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "f3cea53f07e683aed66e0827a6ffddfd61021765d44642be4efb81e84f6445dc.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "33mm",
+      "iso": "ISO 300"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "528c64125817d12181af979d6633dd3ac32825a6f90e2a4bfbe9544ad32e6188.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "9e830a3e7486e07b5b06d7082f28426d8f8fd7e798b6d220a2b947b663f37a1f.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "27mm",
+      "iso": "ISO 100"
+    },
+    "location": "Milan, Italy"
+  },
+  {
+    "type": "video",
+    "original_filename": "5654d28809a97168286d55d7762bd45df6a42a21a12edc92c7eeacbf484f2d39.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "73d2bbd13bf97a091143423155cfad2396f6fb317b8638ae29bcd1dc6fbc210e.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "29mm",
+      "iso": "ISO 100"
+    },
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -234,11 +834,86 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/1.5",
+      "fstop": "f/1.9",
       "focalLength": "26mm",
       "iso": "ISO 1500"
     },
-    "location": "Tokyo, Japan"
+    "location": "Barcelona, Spain"
+  },
+  {
+    "type": "video",
+    "original_filename": "58929a754c4916b59184c619ab8089e5bfde937325219a03eee5d9fca0f4c8db.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "1abd5f2ee5c1bdfd4e2add9b951d79b89cbe54848b4fb69afe0ebb17ab49501b.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "33mm",
+      "iso": "ISO 400"
+    },
+    "location": "Barcelona, Spain"
+  },
+  {
+    "type": "video",
+    "original_filename": "5a0e992793f7148eb932dd3438d1c49ffe8fb82b4cd895a63e3a36260e978794.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "92eaf6d39dbfd94d4c2368b17e85991977a98738bc780596d2fad9c6345a0154.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "36mm",
+      "iso": "ISO 100"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "5a70ceed8b1f18bee4729c671777d44e638fa6fa5af5a5a575cb0bc150d5aa7a.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "75085395188116767b0d090f944cde2ddbff56b7519da6c536d08c370144d3b9.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "28mm",
+      "iso": "ISO 100"
+    },
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -258,11 +933,11 @@
       "l": 0.39
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "36mm",
-      "iso": "ISO 2000"
+      "fstop": "f/2.8",
+      "focalLength": "31mm",
+      "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -282,11 +957,186 @@
       "l": 0.51
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "29mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.0",
+      "focalLength": "31mm",
+      "iso": "ISO 1100"
     },
-    "location": "Milan, Italy"
+    "location": "New York, New York"
+  },
+  {
+    "type": "video",
+    "original_filename": "678e7ce4d4ad3ae8756ed4fa84b1709af8ab9dff984993a144247e3f79ee3a53.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "643c7e9be73fd42a335981caab61ca1161091a6736daca1818dc5cf52550a36e.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "25mm",
+      "iso": "ISO 300"
+    },
+    "location": "Paris, France"
+  },
+  {
+    "type": "video",
+    "original_filename": "6861b36df75cd37f4a400945adc0ad33ca2d06478e30a70b3f23afc7086e7575.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "ff52fb9731e30c71c50c6dc2ad1b0c2dcde83669fa910992a255ab42e914735f.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "32mm",
+      "iso": "ISO 400"
+    },
+    "location": "Monaco"
+  },
+  {
+    "type": "video",
+    "original_filename": "689cf1b180c99d7307e34caacad87bc33f7547fa7e69c1bb293aa5e3227411ef.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "11dc6bc90ebbb6186241aecd8d278865e4817711616b142e56e48b3a6ac2af65.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "39mm",
+      "iso": "ISO 400"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "69207b6eb2948b89fc805bd14f0b2643e31b369941a02dba27d65d2c5638edf2.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "beff2ea80135117aa627b6cc5cba130b9b4e110058ecac62b5d66e69b2cd2612.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "29mm",
+      "iso": "ISO 400"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "6aae64451a18418b8739333e84be54f72c5aaa7724db966794bb5e1499befdd2.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b8f17d61d42607ca7d07fcf0989be939785ea92f50635142be721877dd8461b5.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "40mm",
+      "iso": "ISO 200"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "6d4d8d2e6cac2222285bcb5fc943a50bb80ffd6d1a9fd8ad4573e777b9c231da.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "a75e01b3cfd95d7749cfc76d813af19208564d1d3e9ec5e1a4820431b2c5ed11.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "40mm",
+      "iso": "ISO 400"
+    },
+    "location": "New York, New York"
+  },
+  {
+    "type": "video",
+    "original_filename": "6eebd20df6cdba265120d2286490c238787bc76512b52422df6af6b9764077d2.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "f3d0e3b18314fb67dce0931d0bd108f48b0cd83ca206a322ebd9f7dcb795828a.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "25mm",
+      "iso": "ISO 200"
+    },
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -306,11 +1156,36 @@
       "l": 0.19
     },
     "camera": {
-      "fstop": "f/2.9",
-      "focalLength": "29mm",
-      "iso": "ISO 2600"
+      "fstop": "f/2.7",
+      "focalLength": "33mm",
+      "iso": "ISO 200"
     },
-    "location": "Munich, Germany"
+    "location": "London, UK"
+  },
+  {
+    "type": "video",
+    "original_filename": "7081900d92c7a4f8cea79c25793a8882a91af33d395b46442c8d57c5fc1a43d8.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "0ae22ad2f41dcd0915e62bef0eb4ab39a0aed8752a68ac4e2a514bb3548a61ac.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "39mm",
+      "iso": "ISO 300"
+    },
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -330,11 +1205,36 @@
       "l": 0.57
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "34mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.1",
+      "focalLength": "27mm",
+      "iso": "ISO 900"
     },
-    "location": "Tokyo, Japan"
+    "location": "Milan, Italy"
+  },
+  {
+    "type": "video",
+    "original_filename": "71d83b8e4b3ce35567664359e165feffd5cf406696df3fcb102ea7c60bbcbb23.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b1be007ad34e43dac5a2f081e27d79b9ecc41bf68d3d82877306beb5132ddfeb.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "29mm",
+      "iso": "ISO 500"
+    },
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -354,11 +1254,486 @@
       "l": 0.45
     },
     "camera": {
-      "fstop": "f/1.9",
+      "fstop": "f/1.8",
       "focalLength": "25mm",
-      "iso": "ISO 1800"
+      "iso": "ISO 200"
+    },
+    "location": "Tokyo, Japan"
+  },
+  {
+    "type": "video",
+    "original_filename": "77c62dc13c8a853b4c95d83a7cee7bb773a55f14573375d1c7e4d738d35c188e.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "e34cd2ae41f77a2de78319fe50e7ef2fd2e1c867e823021219d52d80925899f0.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "33mm",
+      "iso": "ISO 400"
+    },
+    "location": "Berlin, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "7cfc857a008543f8818f0f5baa5f7712032b05030607f4d8edd2c3d0ade8d2b4.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "8b7ee8378060921ad111ee9f680e8492504fe19383c961661a241fa22aeba0a9.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "33mm",
+      "iso": "ISO 200"
+    },
+    "location": "Los Angeles, California"
+  },
+  {
+    "type": "video",
+    "original_filename": "7d6c72def88b450c68047019dba6347990b2395cfbc013a4d70a83cfaabe395b.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "832673526f9f127f964570a4b98fd45a588038b05b784dc6d47bbdfed9607783.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "31mm",
+      "iso": "ISO 100"
+    },
+    "location": "Los Angeles, California"
+  },
+  {
+    "type": "video",
+    "original_filename": "7e7741adacac92de707544fcd4376f0f4d95ac066589b11d9ebb8e9ba73facbb.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "cdd9f517f0294642e73712aa84db74d3fc70609a957e06e947e0591356c118f8.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "28mm",
+      "iso": "ISO 200"
+    },
+    "location": "Barcelona, Spain"
+  },
+  {
+    "type": "video",
+    "original_filename": "82cb4a2bac4c28f2d73478a78cf33f4d94a11217b89ed789975d6c5a590ae589.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "5d05d8a441bec44f9fc097d8ef3b886e2b63344eef758a0fbb8bebf843588362.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "35mm",
+      "iso": "ISO 300"
     },
     "location": "Milan, Italy"
+  },
+  {
+    "type": "video",
+    "original_filename": "842865bc936bb621af1a724fa680f03ee5f6d914eaeadd8c7db716539ff6c840.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "26e729d854e9a7bb2432c4fb891abd36aca87f316e3b645c01652b4638d7e513.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "34mm",
+      "iso": "ISO 300"
+    },
+    "location": "Monaco"
+  },
+  {
+    "type": "video",
+    "original_filename": "8519721937a419fd9582f276f28f89a88823708625d8825f5f7ab71c6c156597.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "8fc06b707e1a10abb0480c67f0dc40e6289e4a2ae8a68cda0b16fff2b4333365.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "38mm",
+      "iso": "ISO 400"
+    },
+    "location": "London, UK"
+  },
+  {
+    "type": "video",
+    "original_filename": "86038fd982cac283f9100ef3fdb960ba9c0586200c33ede35853b1f08f8bf5d6.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "33277ee7cda4b3908e0ceff18d3cd30c8db9ce81a3e53738ec3ee243663cc830.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "33mm",
+      "iso": "ISO 400"
+    },
+    "location": "London, UK"
+  },
+  {
+    "type": "video",
+    "original_filename": "886b51b7a256ed96d1617fe15e5660369ed9840f8aa11d6522e6d036216ac935.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "2079e94863523ce9f51ac48957d7649adac708959d98d01b79ea92a2d5f04aac.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "28mm",
+      "iso": "ISO 200"
+    },
+    "location": "Monaco"
+  },
+  {
+    "type": "video",
+    "original_filename": "8bf3a41ef2974ae5ae1dcc7f9fe309d3344500b3d5da1a289020eb88ca2b038f.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "3dfb2e4643da0c089632c7be50139fbfec70e9fd15c55834fe9e44d54e8cc8ba.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "35mm",
+      "iso": "ISO 100"
+    },
+    "location": "Paris, France"
+  },
+  {
+    "type": "video",
+    "original_filename": "8e03b34f8c52481adb90f5d508562287317b71410a3bfdd15a4c87a3410f150c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "2eaf9aa9147d8bde59414a7eb6cc56fb678b4d7567b9427bd1d7985aa639f567.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "38mm",
+      "iso": "ISO 500"
+    },
+    "location": "Milan, Italy"
+  },
+  {
+    "type": "video",
+    "original_filename": "8ed46f6b1cb2f28427ef5302582fa07893280d84dbb392e0b93a59d75a37d215.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "4ecb26a19118d5594a8b78754ae26c8a3783eaa9399c8fe40fbc196d16fbe085.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "30mm",
+      "iso": "ISO 400"
+    },
+    "location": "Los Angeles, California"
+  },
+  {
+    "type": "video",
+    "original_filename": "93989f7f71b2a1d114a848180942a83bf03a416ea64403036d9c03fe12677ba0.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "cc9f3733e479e50e339d0f02b6b2081eed801f6b8ca370c39e5e0b3ffe2cb753.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "39mm",
+      "iso": "ISO 100"
+    },
+    "location": "Paris, France"
+  },
+  {
+    "type": "video",
+    "original_filename": "97d6b56e93e97109ce305b8dbe8165fa1437f75e364aaedbf8a58a1f8ffba54b.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "c99131a6996f7b97f80df1356d799db4a1fb65d8e7559ab3b2f3958fdbcc692b.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "30mm",
+      "iso": "ISO 300"
+    },
+    "location": "Barcelona, Spain"
+  },
+  {
+    "type": "video",
+    "original_filename": "97dec4d6c9cd010660a1f5817b520ea13d8ffe2297966723ed1aaa148ac7b872.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "d47ab32fc848da7bdfacf13c82a96ad9a5f6754f5f58f038ef1efcd6294496ee.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "30mm",
+      "iso": "ISO 300"
+    },
+    "location": "London, UK"
+  },
+  {
+    "type": "video",
+    "original_filename": "9801824d84a3be2e6b364cb45162406faaa2a8faf49b6b1444e1abffef470b7c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b1fe8386e9bb495cc68fb93295201772b29521c1082b63038a26ee491555226f.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "28mm",
+      "iso": "ISO 300"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "9b99b77a6befa5f2811ddbce1a4acac4f1f046bcaaa9fa79d6ee0f5ba0a7133f.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "66d9549ceee7cf5881bd71481dcc828b3d4cf7c47806bb1834d25e01e768ae68.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "40mm",
+      "iso": "ISO 400"
+    },
+    "location": "Berlin, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "9cfddf1e398dd6ca2c75e777a5d3559d7108b04ddd8d56c83a6a1ca2250bd83a.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "5f1ab852382c408766c2fd0e0d52eb79066dda4954f4113fdfb0e8739d0d9e83.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "40mm",
+      "iso": "ISO 400"
+    },
+    "location": "Paris, France"
+  },
+  {
+    "type": "video",
+    "original_filename": "9e62244e5ef81006aeb98228916fdd03577764a1b0c8c1cabea8119dafe29517.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "4461c5f8aa1f00504ee86c525908e559437e755c9aa25d4109e05b1ab5c1710b.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "37mm",
+      "iso": "ISO 300"
+    },
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -378,11 +1753,11 @@
       "l": 0.54
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "28mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.8",
+      "focalLength": "33mm",
+      "iso": "ISO 900"
     },
-    "location": "Los Angeles, California"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -402,11 +1777,11 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "28mm",
-      "iso": "ISO 1500"
+      "fstop": "f/1.6",
+      "focalLength": "30mm",
+      "iso": "ISO 800"
     },
-    "location": "Munich, Germany"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "image",
@@ -426,11 +1801,11 @@
       "l": 0.42
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "35mm",
-      "iso": "ISO 1900"
+      "fstop": "f/1.7",
+      "focalLength": "30mm",
+      "iso": "ISO 500"
     },
-    "location": "Monaco"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -450,9 +1825,9 @@
       "l": 0.6
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "29mm",
-      "iso": "ISO 1300"
+      "fstop": "f/2.2",
+      "focalLength": "34mm",
+      "iso": "ISO 700"
     },
     "location": "Milan, Italy"
   },
@@ -474,11 +1849,11 @@
       "l": 0.62
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "29mm",
-      "iso": "ISO 1200"
+      "fstop": "f/1.8",
+      "focalLength": "31mm",
+      "iso": "ISO 800"
     },
-    "location": "New York, New York"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -498,9 +1873,9 @@
       "l": 0.46
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "32mm",
-      "iso": "ISO 1700"
+      "fstop": "f/1.8",
+      "focalLength": "35mm",
+      "iso": "ISO 300"
     },
     "location": "Barcelona, Spain"
   },
@@ -522,11 +1897,11 @@
       "l": 0.33
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "40mm",
-      "iso": "ISO 2200"
+      "fstop": "f/2.5",
+      "focalLength": "27mm",
+      "iso": "ISO 300"
     },
-    "location": "Los Angeles, California"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -546,11 +1921,11 @@
       "l": 0.54
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "40mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.6",
+      "focalLength": "39mm",
+      "iso": "ISO 1000"
     },
-    "location": "Monaco"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -570,11 +1945,11 @@
       "l": 0.48
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "27mm",
-      "iso": "ISO 1700"
+      "fstop": "f/1.7",
+      "focalLength": "35mm",
+      "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -594,11 +1969,11 @@
       "l": 0.55
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "38mm",
-      "iso": "ISO 1400"
+      "fstop": "f/1.6",
+      "focalLength": "26mm",
+      "iso": "ISO 1300"
     },
-    "location": "Berlin, Germany"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -618,11 +1993,11 @@
       "l": 0.55
     },
     "camera": {
-      "fstop": "f/2.3",
-      "focalLength": "26mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.5",
+      "focalLength": "32mm",
+      "iso": "ISO 500"
     },
-    "location": "Los Angeles, California"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -642,11 +2017,11 @@
       "l": 0.56
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "33mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.1",
+      "focalLength": "40mm",
+      "iso": "ISO 1000"
     },
-    "location": "New York, New York"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -666,11 +2041,11 @@
       "l": 0.25
     },
     "camera": {
-      "fstop": "f/2.3",
-      "focalLength": "33mm",
-      "iso": "ISO 2400"
+      "fstop": "f/2.1",
+      "focalLength": "39mm",
+      "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -690,11 +2065,11 @@
       "l": 0.43
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "34mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.5",
+      "focalLength": "37mm",
+      "iso": "ISO 300"
     },
-    "location": "Berlin, Germany"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -715,11 +2090,11 @@
       "l": 0.32
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "36mm",
-      "iso": "ISO 2200"
+      "fstop": "f/1.5",
+      "focalLength": "40mm",
+      "iso": "ISO 200"
     },
-    "location": "Milan, Italy"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -739,11 +2114,11 @@
       "l": 0.39
     },
     "camera": {
-      "fstop": "f/2.1",
+      "fstop": "f/1.5",
       "focalLength": "36mm",
-      "iso": "ISO 2000"
+      "iso": "ISO 500"
     },
-    "location": "Barcelona, Spain"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -763,11 +2138,11 @@
       "l": 0.36
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "40mm",
-      "iso": "ISO 2100"
+      "fstop": "f/2.5",
+      "focalLength": "39mm",
+      "iso": "ISO 200"
     },
-    "location": "Tokyo, Japan"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -787,11 +2162,11 @@
       "l": 0.49
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "26mm",
-      "iso": "ISO 1600"
+      "fstop": "f/1.5",
+      "focalLength": "35mm",
+      "iso": "ISO 400"
     },
-    "location": "New York, New York"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -811,9 +2186,9 @@
       "l": 0.42
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "32mm",
-      "iso": "ISO 1900"
+      "fstop": "f/2.3",
+      "focalLength": "38mm",
+      "iso": "ISO 400"
     },
     "location": "Munich, Germany"
   },
@@ -835,11 +2210,11 @@
       "l": 0.59
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "37mm",
+      "fstop": "f/1.7",
+      "focalLength": "34mm",
       "iso": "ISO 1300"
     },
-    "location": "Tokyo, Japan"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -859,11 +2234,11 @@
       "l": 0.19
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "28mm",
-      "iso": "ISO 2600"
+      "fstop": "f/1.5",
+      "focalLength": "35mm",
+      "iso": "ISO 400"
     },
-    "location": "New York, New York"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "image",
@@ -884,11 +2259,11 @@
       "l": 0.31
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "32mm",
-      "iso": "ISO 2200"
+      "fstop": "f/1.7",
+      "focalLength": "37mm",
+      "iso": "ISO 200"
     },
-    "location": "Tokyo, Japan"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -908,11 +2283,11 @@
       "l": 0.46
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "29mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.1",
+      "focalLength": "31mm",
+      "iso": "ISO 200"
     },
-    "location": "Los Angeles, California"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -932,9 +2307,9 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "35mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.1",
+      "focalLength": "31mm",
+      "iso": "ISO 700"
     },
     "location": "Monaco"
   },
@@ -956,11 +2331,11 @@
       "l": 0.46
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "38mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.8",
+      "focalLength": "31mm",
+      "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -980,11 +2355,11 @@
       "l": 0.37
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "36mm",
-      "iso": "ISO 2000"
+      "fstop": "f/2.4",
+      "focalLength": "31mm",
+      "iso": "ISO 400"
     },
-    "location": "Berlin, Germany"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -1004,11 +2379,11 @@
       "l": 0.44
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "26mm",
-      "iso": "ISO 1800"
+      "fstop": "f/1.5",
+      "focalLength": "33mm",
+      "iso": "ISO 200"
     },
-    "location": "Tokyo, Japan"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -1028,11 +2403,11 @@
       "l": 0.57
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "32mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.7",
+      "focalLength": "30mm",
+      "iso": "ISO 1100"
     },
-    "location": "Paris, France"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -1052,11 +2427,11 @@
       "l": 0.49
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "36mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.4",
+      "focalLength": "32mm",
+      "iso": "ISO 300"
     },
-    "location": "Milan, Italy"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -1076,11 +2451,11 @@
       "l": 0.48
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "33mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.9",
+      "focalLength": "28mm",
+      "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -1100,11 +2475,11 @@
       "l": 0.47
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "38mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.8",
+      "focalLength": "37mm",
+      "iso": "ISO 200"
     },
-    "location": "Munich, Germany"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -1124,11 +2499,11 @@
       "l": 0.44
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "28mm",
-      "iso": "ISO 1800"
+      "fstop": "f/1.9",
+      "focalLength": "29mm",
+      "iso": "ISO 100"
     },
-    "location": "Tokyo, Japan"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -1148,11 +2523,11 @@
       "l": 0.58
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "29mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.9",
+      "focalLength": "27mm",
+      "iso": "ISO 1500"
     },
-    "location": "Los Angeles, California"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -1172,11 +2547,11 @@
       "l": 0.57
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "31mm",
-      "iso": "ISO 1400"
+      "fstop": "f/1.7",
+      "focalLength": "38mm",
+      "iso": "ISO 1100"
     },
-    "location": "Munich, Germany"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -1196,11 +2571,11 @@
       "l": 0.49
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "25mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.6",
+      "focalLength": "27mm",
+      "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -1221,11 +2596,11 @@
       "l": 0.2
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "27mm",
-      "iso": "ISO 2600"
+      "fstop": "f/2.4",
+      "focalLength": "33mm",
+      "iso": "ISO 500"
     },
-    "location": "New York, New York"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -1245,11 +2620,11 @@
       "l": 0.49
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "28mm",
-      "iso": "ISO 1600"
+      "fstop": "f/1.6",
+      "focalLength": "37mm",
+      "iso": "ISO 200"
     },
-    "location": "Monaco"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -1269,11 +2644,11 @@
       "l": 0.3
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "39mm",
-      "iso": "ISO 2200"
+      "fstop": "f/2.2",
+      "focalLength": "31mm",
+      "iso": "ISO 100"
     },
-    "location": "Monaco"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "image",
@@ -1293,9 +2668,9 @@
       "l": 0.39
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "35mm",
-      "iso": "ISO 2000"
+      "fstop": "f/1.7",
+      "focalLength": "32mm",
+      "iso": "ISO 300"
     },
     "location": "New York, New York"
   },
@@ -1317,9 +2692,9 @@
       "l": 0.57
     },
     "camera": {
-      "fstop": "f/1.8",
+      "fstop": "f/2.5",
       "focalLength": "37mm",
-      "iso": "ISO 1400"
+      "iso": "ISO 700"
     },
     "location": "Berlin, Germany"
   },
@@ -1341,11 +2716,11 @@
       "l": 0.48
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "35mm",
-      "iso": "ISO 1700"
+      "fstop": "f/1.5",
+      "focalLength": "37mm",
+      "iso": "ISO 300"
     },
-    "location": "Berlin, Germany"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -1365,11 +2740,11 @@
       "l": 0.48
     },
     "camera": {
-      "fstop": "f/2.9",
-      "focalLength": "30mm",
-      "iso": "ISO 1700"
+      "fstop": "f/1.9",
+      "focalLength": "32mm",
+      "iso": "ISO 300"
     },
-    "location": "Milan, Italy"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -1389,11 +2764,11 @@
       "l": 0.62
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "33mm",
-      "iso": "ISO 1200"
+      "fstop": "f/1.8",
+      "focalLength": "31mm",
+      "iso": "ISO 1100"
     },
-    "location": "Monaco"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -1413,11 +2788,11 @@
       "l": 0.44
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "33mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.8",
+      "focalLength": "25mm",
+      "iso": "ISO 100"
     },
-    "location": "Milan, Italy"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -1438,10 +2813,10 @@
     },
     "camera": {
       "fstop": "f/1.7",
-      "focalLength": "36mm",
-      "iso": "ISO 1500"
+      "focalLength": "35mm",
+      "iso": "ISO 800"
     },
-    "location": "New York, New York"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -1461,11 +2836,11 @@
       "l": 0.43
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "25mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.0",
+      "focalLength": "32mm",
+      "iso": "ISO 200"
     },
-    "location": "New York, New York"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -1485,11 +2860,11 @@
       "l": 0.61
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "37mm",
-      "iso": "ISO 1300"
+      "fstop": "f/1.7",
+      "focalLength": "38mm",
+      "iso": "ISO 1100"
     },
-    "location": "Paris, France"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -1509,11 +2884,11 @@
       "l": 0.2
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "39mm",
-      "iso": "ISO 2500"
+      "fstop": "f/1.9",
+      "focalLength": "26mm",
+      "iso": "ISO 200"
     },
-    "location": "Monaco"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -1533,11 +2908,11 @@
       "l": 0.64
     },
     "camera": {
-      "fstop": "f/2.9",
-      "focalLength": "38mm",
-      "iso": "ISO 1100"
+      "fstop": "f/2.6",
+      "focalLength": "33mm",
+      "iso": "ISO 600"
     },
-    "location": "Monaco"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -1557,9 +2932,9 @@
       "l": 0.41
     },
     "camera": {
-      "fstop": "f/2.9",
-      "focalLength": "33mm",
-      "iso": "ISO 1900"
+      "fstop": "f/1.5",
+      "focalLength": "38mm",
+      "iso": "ISO 400"
     },
     "location": "New York, New York"
   },
@@ -1581,11 +2956,11 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "29mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.9",
+      "focalLength": "34mm",
+      "iso": "ISO 900"
     },
-    "location": "London, UK"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -1605,11 +2980,11 @@
       "l": 0.57
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "37mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.8",
+      "focalLength": "34mm",
+      "iso": "ISO 1200"
     },
-    "location": "Munich, Germany"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -1629,11 +3004,11 @@
       "l": 0.64
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "39mm",
-      "iso": "ISO 1100"
+      "fstop": "f/2.8",
+      "focalLength": "27mm",
+      "iso": "ISO 1200"
     },
-    "location": "Munich, Germany"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -1653,11 +3028,11 @@
       "l": 0.46
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "34mm",
-      "iso": "ISO 1700"
+      "fstop": "f/1.8",
+      "focalLength": "38mm",
+      "iso": "ISO 500"
     },
-    "location": "Los Angeles, California"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -1677,11 +3052,11 @@
       "l": 0.56
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "27mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.4",
+      "focalLength": "31mm",
+      "iso": "ISO 600"
     },
-    "location": "Berlin, Germany"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "image",
@@ -1701,11 +3076,11 @@
       "l": 0.48
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "40mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.1",
+      "focalLength": "25mm",
+      "iso": "ISO 300"
     },
-    "location": "Monaco"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -1726,11 +3101,11 @@
       "l": 0.18
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "38mm",
-      "iso": "ISO 2600"
+      "fstop": "f/1.6",
+      "focalLength": "27mm",
+      "iso": "ISO 400"
     },
-    "location": "Berlin, Germany"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -1750,11 +3125,11 @@
       "l": 0.4
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "25mm",
-      "iso": "ISO 1900"
+      "fstop": "f/1.8",
+      "focalLength": "28mm",
+      "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -1774,11 +3149,11 @@
       "l": 0.58
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "36mm",
-      "iso": "ISO 1300"
+      "fstop": "f/2.3",
+      "focalLength": "25mm",
+      "iso": "ISO 1500"
     },
-    "location": "Milan, Italy"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -1798,9 +3173,9 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "27mm",
-      "iso": "ISO 1500"
+      "fstop": "f/1.9",
+      "focalLength": "25mm",
+      "iso": "ISO 1300"
     },
     "location": "Monaco"
   },
@@ -1822,11 +3197,11 @@
       "l": 0.52
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "37mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.7",
+      "focalLength": "28mm",
+      "iso": "ISO 1300"
     },
-    "location": "Los Angeles, California"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -1846,11 +3221,11 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "29mm",
-      "iso": "ISO 1500"
+      "fstop": "f/1.9",
+      "focalLength": "40mm",
+      "iso": "ISO 1100"
     },
-    "location": "Munich, Germany"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -1870,11 +3245,11 @@
       "l": 0.48
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "26mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.0",
+      "focalLength": "37mm",
+      "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "image",
@@ -1894,11 +3269,11 @@
       "l": 0.46
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "37mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.7",
+      "focalLength": "29mm",
+      "iso": "ISO 400"
     },
-    "location": "London, UK"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -1918,9 +3293,9 @@
       "l": 0.49
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "39mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.3",
+      "focalLength": "29mm",
+      "iso": "ISO 400"
     },
     "location": "New York, New York"
   },
@@ -1942,11 +3317,11 @@
       "l": 0.56
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "38mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.5",
+      "focalLength": "29mm",
+      "iso": "ISO 1200"
     },
-    "location": "Berlin, Germany"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "image",
@@ -1966,11 +3341,11 @@
       "l": 0.55
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "25mm",
-      "iso": "ISO 1500"
+      "fstop": "f/1.6",
+      "focalLength": "38mm",
+      "iso": "ISO 1600"
     },
-    "location": "Paris, France"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -1990,9 +3365,9 @@
       "l": 0.56
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "29mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.5",
+      "focalLength": "32mm",
+      "iso": "ISO 700"
     },
     "location": "Munich, Germany"
   },
@@ -2014,11 +3389,11 @@
       "l": 0.46
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "40mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.3",
+      "focalLength": "34mm",
+      "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -2038,11 +3413,11 @@
       "l": 0.51
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "33mm",
-      "iso": "ISO 1600"
+      "fstop": "f/1.7",
+      "focalLength": "39mm",
+      "iso": "ISO 1300"
     },
-    "location": "Paris, France"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -2062,11 +3437,11 @@
       "l": 0.43
     },
     "camera": {
-      "fstop": "f/2.9",
-      "focalLength": "26mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.3",
+      "focalLength": "35mm",
+      "iso": "ISO 200"
     },
-    "location": "Milan, Italy"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -2087,11 +3462,11 @@
       "l": 0.26
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "39mm",
-      "iso": "ISO 2400"
+      "fstop": "f/1.7",
+      "focalLength": "27mm",
+      "iso": "ISO 200"
     },
-    "location": "Tokyo, Japan"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -2111,11 +3486,11 @@
       "l": 0.61
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "31mm",
-      "iso": "ISO 1200"
+      "fstop": "f/2.8",
+      "focalLength": "34mm",
+      "iso": "ISO 1100"
     },
-    "location": "Milan, Italy"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "image",
@@ -2135,11 +3510,11 @@
       "l": 0.6
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "33mm",
+      "fstop": "f/2.8",
+      "focalLength": "35mm",
       "iso": "ISO 1300"
     },
-    "location": "London, UK"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -2159,11 +3534,11 @@
       "l": 0.49
     },
     "camera": {
-      "fstop": "f/2.3",
-      "focalLength": "33mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.8",
+      "focalLength": "35mm",
+      "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -2183,11 +3558,11 @@
       "l": 0.69
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "32mm",
-      "iso": "ISO 1000"
+      "fstop": "f/2.5",
+      "focalLength": "34mm",
+      "iso": "ISO 1500"
     },
-    "location": "Munich, Germany"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -2207,11 +3582,11 @@
       "l": 0.51
     },
     "camera": {
-      "fstop": "f/2.3",
-      "focalLength": "29mm",
-      "iso": "ISO 1600"
+      "fstop": "f/1.9",
+      "focalLength": "39mm",
+      "iso": "ISO 1200"
     },
-    "location": "Los Angeles, California"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -2233,9 +3608,9 @@
     "camera": {
       "fstop": "f/1.9",
       "focalLength": "28mm",
-      "iso": "ISO 1500"
+      "iso": "ISO 800"
     },
-    "location": "Tokyo, Japan"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -2255,11 +3630,11 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "29mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.1",
+      "focalLength": "25mm",
+      "iso": "ISO 800"
     },
-    "location": "Paris, France"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -2279,11 +3654,11 @@
       "l": 0.33
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "37mm",
-      "iso": "ISO 2100"
+      "fstop": "f/2.3",
+      "focalLength": "34mm",
+      "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -2303,11 +3678,11 @@
       "l": 0.38
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "25mm",
-      "iso": "ISO 2000"
+      "fstop": "f/2.9",
+      "focalLength": "28mm",
+      "iso": "ISO 300"
     },
-    "location": "Paris, France"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -2327,11 +3702,11 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "34mm",
+      "fstop": "f/2.4",
+      "focalLength": "32mm",
       "iso": "ISO 1500"
     },
-    "location": "Milan, Italy"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -2351,11 +3726,11 @@
       "l": 0.4
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "30mm",
-      "iso": "ISO 1900"
+      "fstop": "f/1.9",
+      "focalLength": "26mm",
+      "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -2375,11 +3750,11 @@
       "l": 0.58
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "25mm",
-      "iso": "ISO 1300"
+      "fstop": "f/1.9",
+      "focalLength": "34mm",
+      "iso": "ISO 800"
     },
-    "location": "New York, New York"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -2399,11 +3774,11 @@
       "l": 0.46
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "36mm",
-      "iso": "ISO 1700"
+      "fstop": "f/1.8",
+      "focalLength": "32mm",
+      "iso": "ISO 400"
     },
-    "location": "Barcelona, Spain"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -2423,11 +3798,11 @@
       "l": 0.47
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "38mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.1",
+      "focalLength": "28mm",
+      "iso": "ISO 100"
     },
-    "location": "Barcelona, Spain"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -2447,11 +3822,11 @@
       "l": 0.5
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "34mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.5",
+      "focalLength": "32mm",
+      "iso": "ISO 1200"
     },
-    "location": "Monaco"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -2471,11 +3846,11 @@
       "l": 0.57
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "28mm",
-      "iso": "ISO 1400"
+      "fstop": "f/1.6",
+      "focalLength": "36mm",
+      "iso": "ISO 1500"
     },
-    "location": "New York, New York"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -2495,11 +3870,11 @@
       "l": 0.45
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "31mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.5",
+      "focalLength": "27mm",
+      "iso": "ISO 300"
     },
-    "location": "New York, New York"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -2519,9 +3894,9 @@
       "l": 0.5
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "35mm",
-      "iso": "ISO 1600"
+      "fstop": "f/1.8",
+      "focalLength": "38mm",
+      "iso": "ISO 100"
     },
     "location": "Barcelona, Spain"
   },
@@ -2543,11 +3918,11 @@
       "l": 0.19
     },
     "camera": {
-      "fstop": "f/2.3",
-      "focalLength": "33mm",
-      "iso": "ISO 2600"
+      "fstop": "f/2.6",
+      "focalLength": "38mm",
+      "iso": "ISO 200"
     },
-    "location": "Los Angeles, California"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -2567,11 +3942,11 @@
       "l": 0.44
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "26mm",
-      "iso": "ISO 1800"
+      "fstop": "f/1.7",
+      "focalLength": "30mm",
+      "iso": "ISO 100"
     },
-    "location": "Los Angeles, California"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -2592,11 +3967,11 @@
       "l": 0.3
     },
     "camera": {
-      "fstop": "f/2.6",
+      "fstop": "f/2.9",
       "focalLength": "36mm",
-      "iso": "ISO 2300"
+      "iso": "ISO 100"
     },
-    "location": "Barcelona, Spain"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -2616,11 +3991,11 @@
       "l": 0.45
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "39mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.1",
+      "focalLength": "25mm",
+      "iso": "ISO 400"
     },
-    "location": "Tokyo, Japan"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -2640,11 +4015,11 @@
       "l": 0.36
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "39mm",
-      "iso": "ISO 2100"
+      "fstop": "f/1.8",
+      "focalLength": "37mm",
+      "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "image",
@@ -2665,10 +4040,10 @@
     },
     "camera": {
       "fstop": "f/2.5",
-      "focalLength": "31mm",
-      "iso": "ISO 2000"
+      "focalLength": "36mm",
+      "iso": "ISO 200"
     },
-    "location": "New York, New York"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "image",
@@ -2688,11 +4063,11 @@
       "l": 0.37
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "38mm",
-      "iso": "ISO 2000"
+      "fstop": "f/1.5",
+      "focalLength": "37mm",
+      "iso": "ISO 400"
     },
-    "location": "Berlin, Germany"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -2712,11 +4087,336 @@
       "l": 0.43
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "29mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.6",
+      "focalLength": "27mm",
+      "iso": "ISO 300"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "a03af726a5b226b0c3199c10848a054e0ad3e91d78881abf493d1ac4b319a150.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "05e63c02f1a3088f17c0600127e990f79856f99b351235ab1db12e126940c364.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "39mm",
+      "iso": "ISO 400"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "a22c4c7228d18df131042fde7448d4d1ff9fe56a0b92259087d5f86d5bf19310.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "0d06a278116bfc6e093f14739acc754fba0f3fa1d79e0ed3b62a49ba91b7af04.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "31mm",
+      "iso": "ISO 100"
+    },
+    "location": "Barcelona, Spain"
+  },
+  {
+    "type": "video",
+    "original_filename": "a4047b470ddb4ffb512336d308b1a909f491c6d8ae1ce8397da5ded7dc731c8e.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "e8a97f4d04aafc86fa297f487dfb8f93963cd9ec6bea6206a238e0204497bafb.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "36mm",
+      "iso": "ISO 400"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "a61b63d734cc08a4fa999742e3052da5c0ee8822458dab2eeb1046df321f7dc5.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "28ad8b3a8001357022ebb14711e891f90577c136a69b95369d3d3ed2feaf5e80.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "28mm",
+      "iso": "ISO 400"
+    },
+    "location": "Monaco"
+  },
+  {
+    "type": "video",
+    "original_filename": "a83f46174bed703ca1c1f3c3a71486a8be74f6f4f09a11fefb03af0dc193544c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "aea8697848cf4675d5c60bbe0c560f37960b9a4a594303c9abb793a353a94ff0.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "39mm",
+      "iso": "ISO 400"
+    },
+    "location": "Berlin, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "a847c3a13f49ef6e758e6215557b160ad902018ea5d72b954c73a4a9628976f1.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b272834b610d6736fec9db16750a23a9536a4482ce28723549e1673c4ffa03fd.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "35mm",
+      "iso": "ISO 400"
+    },
+    "location": "Los Angeles, California"
+  },
+  {
+    "type": "video",
+    "original_filename": "a8d2eec5288290fb17615ef425521be69fb573696993135e6d9eee7c13c0c7e7.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "cf6ce6afcccc1c85582fe07de6a270f383c663405fff7c11a703e55d3c3d0371.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "33mm",
+      "iso": "ISO 200"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "ad46f0bd9ee4a19f07a80a564c6d9a375da31eb4103a8ffca02994c387a6bfb1.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "a77803b58a9e85bfac1f94c83306033ebb0ecc08af70ba23af7903157337b429.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "25mm",
+      "iso": "ISO 300"
     },
     "location": "Tokyo, Japan"
+  },
+  {
+    "type": "video",
+    "original_filename": "ae11ad7c501c5d69dc001c057f0b8f763420d6cb7e95b915aebc043aa8cb654d.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "4b6df3faf2dc5e5b0a88140de1dec7aa48a9f14faafda75e44f9d03babb0a836.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "30mm",
+      "iso": "ISO 200"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "aeb5dbc65ee703284084844f3babdc4a7386ce963880ebe295120e29e97d2636.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "4eefe79bbae614ef8549f9d839fb9bbb6b900aa764bd0154b99b5ae1ef3464f7.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "34mm",
+      "iso": "ISO 200"
+    },
+    "location": "London, UK"
+  },
+  {
+    "type": "video",
+    "original_filename": "af78d2706bafa6c0ff0d34d311a5c6b73e3a61b71166fbacf379fb9f8b040b1b.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b32490bb22899afd91c49c7e35c62348478809ceb71420c457589bcb26d269ec.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "33mm",
+      "iso": "ISO 200"
+    },
+    "location": "Monaco"
+  },
+  {
+    "type": "video",
+    "original_filename": "b26da2a0b3b0b5ea54482f193c74ea7aad0aa0b4cb2bd4e10b138c188f5c192a.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "ce38411675c793d9b35852597416bc6f314f6f0586c414f81d6a664cba66f71a.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "37mm",
+      "iso": "ISO 300"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "b3356b9868688f1278b2bb56feccbe58376bccbab2f50c012bca76657fd860f1.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "80bb346a7a4bd79f2eec72e507038a9105abd0858b606b1ddb4a3945420dc394.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "34mm",
+      "iso": "ISO 500"
+    },
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -2736,11 +4436,36 @@
       "l": 0.28
     },
     "camera": {
-      "fstop": "f/2.3",
-      "focalLength": "30mm",
-      "iso": "ISO 2300"
+      "fstop": "f/2.4",
+      "focalLength": "32mm",
+      "iso": "ISO 200"
     },
-    "location": "London, UK"
+    "location": "Tokyo, Japan"
+  },
+  {
+    "type": "video",
+    "original_filename": "b6abe500f17a5717ce4e6d8aab9644601fecdb5177c62732c53453a51dddca71.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "ac19daf90bf75ac15258cce83a386b084dcc8aaddfee52fdcf184b5e5bd0f2ae.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "34mm",
+      "iso": "ISO 400"
+    },
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -2760,11 +4485,186 @@
       "l": 0.47
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "31mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.0",
+      "focalLength": "37mm",
+      "iso": "ISO 100"
     },
-    "location": "Barcelona, Spain"
+    "location": "Berlin, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "b8279557e35deb9810a76c37cbe835ef653e64690b9fe34c0e68c15e0daf98ac.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "d6c16ff21724189cb0a3e72345b3c8783f67b89ee16e8cba50ea8884e76592ca.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "27mm",
+      "iso": "ISO 100"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "bfbe4a84cac92f88bc2b127da6a167126a39b55bc6acbe781a8bea9b13512b25.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "e6dfb7a31b65215f5076a51f093f40b08f937b72813ab5efd50e4951a84de354.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "31mm",
+      "iso": "ISO 200"
+    },
+    "location": "London, UK"
+  },
+  {
+    "type": "video",
+    "original_filename": "c18be5e1397897262b3244885b76ebff5298c92b75c02c1cbcdd55561a08a373.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "28290e25beb778f0dad1b7499b73927ea1dae03c76fc7f6184e1fed1a4a9345e.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "33mm",
+      "iso": "ISO 200"
+    },
+    "location": "Monaco"
+  },
+  {
+    "type": "video",
+    "original_filename": "c3866ce324f25615f0688bc495830222670aca71052b866ced64877763d97e57.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "0bb25d87a2bd21559c58bd2dc1423b6e63fc44923955c5024effb6311100356b.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "27mm",
+      "iso": "ISO 400"
+    },
+    "location": "Los Angeles, California"
+  },
+  {
+    "type": "video",
+    "original_filename": "c3de498ff6ad9da52f84402f26ff6bcd46e3c0f818e403e1f5c8ef54bc78fff2.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "abe4c6e2dd8b84bfee5b694c828fe8c7511156f8824433e2d786db043b2ea6b7.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "30mm",
+      "iso": "ISO 400"
+    },
+    "location": "Tokyo, Japan"
+  },
+  {
+    "type": "video",
+    "original_filename": "c835036b83c65ab51563a396e7328babace1cd4bcc7a988ccbfd6056f431ae2c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "f17ea22928cfd4716be5ac21eabaee064a62a52f63aa43410d5a6af43ad6ce7c.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "37mm",
+      "iso": "ISO 500"
+    },
+    "location": "Monaco"
+  },
+  {
+    "type": "video",
+    "original_filename": "ca41e647e540a7801bc806f2e941404b026d0eae60b6a368e04fee88a2124fd5.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b7c5c524b42cf9440da6f7de550e46ed3951efd5446d9f97f9236b74b59665a5.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "35mm",
+      "iso": "ISO 300"
+    },
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -2784,11 +4684,186 @@
       "l": 0.53
     },
     "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "36mm",
+      "iso": "ISO 800"
+    },
+    "location": "Tokyo, Japan"
+  },
+  {
+    "type": "video",
+    "original_filename": "cdb713d63901a0e1062e5aa19b722012ec5d44850eacb6cd65789462c5ba9d53.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "990579d190e62fcbb8f7b1fc6d4d4c556c677bded90bbea7233636b1530bf2cc.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "37mm",
+      "iso": "ISO 400"
+    },
+    "location": "Berlin, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "d0a1dd963f01fffcbae1f49a8d37a0866a3d26e9f61b864efe4f82a0aa0edee7.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "378ab7fba21ad31a987f12c7920a0d91141fb3469e7e45212ce98d85ecb97402.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
       "fstop": "f/2.2",
-      "focalLength": "39mm",
-      "iso": "ISO 1500"
+      "focalLength": "30mm",
+      "iso": "ISO 100"
+    },
+    "location": "London, UK"
+  },
+  {
+    "type": "video",
+    "original_filename": "d9c9fee371172217d9992902324eea137beeea7db8226df5b1b0854e43bd76da.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "04c0d343f8c78200ab2ae61215c07ac8f03248a45b7ba406dc0524cfaa417cd1.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "35mm",
+      "iso": "ISO 400"
+    },
+    "location": "New York, New York"
+  },
+  {
+    "type": "video",
+    "original_filename": "de29f97a3a92ed8b64acb436cd2e0fb6a1a81c5878a6af594f071b34bee9dfa2.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "59804da8806619a2fdf735c7186d544c5e14541a454a17a0095a87c4001e75ca.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "25mm",
+      "iso": "ISO 400"
+    },
+    "location": "Monaco"
+  },
+  {
+    "type": "video",
+    "original_filename": "de7ab17d10bb2f90eea669dfc2060f38951513338bc47747efda24cf281ee6ef.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "5e993d005260a7c84d6e8a8dd98ea22a35c92274624eca5f7263c1193ffeb200.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "34mm",
+      "iso": "ISO 500"
     },
     "location": "Los Angeles, California"
+  },
+  {
+    "type": "video",
+    "original_filename": "e023eed6529f69a1f5108022847e9464396869bae9655a7daef9b0e60d527423.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "a98a3bcb9a674536d9370e1bb49d1d605a48a1c3a79b56805912d164cae8861a.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "35mm",
+      "iso": "ISO 300"
+    },
+    "location": "New York, New York"
+  },
+  {
+    "type": "video",
+    "original_filename": "e2861507a3df8787d56582098cb4531831e8e810ba93d548afd1f55ac7cabfdd.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "cd34d904210be7de3b1ac0a109200473c57010044d129703a0f59090a5bc8abc.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "33mm",
+      "iso": "ISO 400"
+    },
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -2808,11 +4883,261 @@
       "l": 0.4
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "39mm",
-      "iso": "ISO 1900"
+      "fstop": "f/2.2",
+      "focalLength": "37mm",
+      "iso": "ISO 400"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "e508fdffbdf3edf70594853bdc8220405c364759732f8a71054dd39aa9cf7d6d.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "6cb980b2285028d82e604d6b6e8f6a79a47816f85c1bdfe06a7b20fa226b5b6a.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "40mm",
+      "iso": "ISO 300"
+    },
+    "location": "Milan, Italy"
+  },
+  {
+    "type": "video",
+    "original_filename": "e7c7fb7d5ff54868c72aaad2f2942fa717d7271bcf962ac603cba0969a3aa5f5.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "c59df434c5a84bd91fbbee01c51e36636e776067e5474b3173d39517160eeffe.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "31mm",
+      "iso": "ISO 200"
+    },
+    "location": "Monaco"
+  },
+  {
+    "type": "video",
+    "original_filename": "e88eb90f6000c181bbade9bc3de6ac74d3cb5db8b19c52c4a5dcd0737ea8fd8c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "718282d1b7fa7ba9b1d10f5b74fbb70558cb148a49443c8a3623a443e720ca23.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "28mm",
+      "iso": "ISO 500"
+    },
+    "location": "New York, New York"
+  },
+  {
+    "type": "video",
+    "original_filename": "ecb1b68d101713a20cd25e1484e93aa370802f20a674517edb1a9f96ed4b5485.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "86f9a397c81e11d73b4ab4bb09ea3ecd5daa76b807016bdd02ea7400f79a1b83.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "25mm",
+      "iso": "ISO 200"
+    },
+    "location": "New York, New York"
+  },
+  {
+    "type": "video",
+    "original_filename": "eeba25e1be6999168aec686990ae80b310c8d9a680c67fba9b688f2bc5a79c7e.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "1810c00ed3c91fd8e433390b35151db851f2c071401aaab491dda0748660e853.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "34mm",
+      "iso": "ISO 300"
+    },
+    "location": "Munich, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "ef0c3dc9666c11330c1ce17182518bd54eef3ae4137f70b272d9831cbea91ccc.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "2ca923d8ec5c0986d2d237ffa6089210e9de52a4b06ea0150304cf44817dfa16.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "32mm",
+      "iso": "ISO 300"
+    },
+    "location": "Barcelona, Spain"
+  },
+  {
+    "type": "video",
+    "original_filename": "f29e08094df16e5caf36b91b79d15d9b2da992ad8bf1b39e5b083b3a7a1a1be1.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b1a121fd36e5ac5c842c7d4fe5cf1c346afd1415a24de6bbadbbd184893b443c.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "36mm",
+      "iso": "ISO 200"
     },
     "location": "London, UK"
+  },
+  {
+    "type": "video",
+    "original_filename": "f9483d9140a2da22a9c46a2317c30196b55aeb24cdee43280d121ef174c5a201.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "42749f5531f305248384de9f27ee49e5062fd1fdd8febf38e2f37a55e0a80ba5.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "30mm",
+      "iso": "ISO 300"
+    },
+    "location": "London, UK"
+  },
+  {
+    "type": "video",
+    "original_filename": "f9f9586d81ff48646750c30cd1be31a07a80ad8ebf9f3a335190a89f770d72f9.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "e1c541598ad799b5aea1b005d0d393b32e78dc9f49c3df3c96a6c7c81ab396cb.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "31mm",
+      "iso": "ISO 400"
+    },
+    "location": "Berlin, Germany"
+  },
+  {
+    "type": "video",
+    "original_filename": "fd40cec7c88de4d57bab70bb93fbd3d6ede85acd219a5faf88c0a20f666db2a6.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "f4a3df0ba22abb3effd804c9f77e817f3bbd7a4a668ec31601b9e5f31bb4fb91.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "36mm",
+      "iso": "ISO 500"
+    },
+    "location": "Berlin, Germany"
   },
   {
     "type": "video",
@@ -2833,11 +5158,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "28mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.6",
+      "focalLength": "30mm",
+      "iso": "ISO 300"
     },
-    "location": "Milan, Italy"
+    "location": "New York, New York"
   },
   {
     "type": "video",
@@ -2858,11 +5183,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "39mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.4",
+      "focalLength": "37mm",
+      "iso": "ISO 100"
     },
-    "location": "New York, New York"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "video",
@@ -2883,11 +5208,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "29mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.8",
+      "focalLength": "30mm",
+      "iso": "ISO 300"
     },
-    "location": "Milan, Italy"
+    "location": "Monaco"
   },
   {
     "type": "video",
@@ -2908,11 +5233,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "37mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.1",
+      "focalLength": "36mm",
+      "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "Berlin, Germany"
   },
   {
     "type": "video",
@@ -2933,11 +5258,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "38mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.7",
+      "focalLength": "39mm",
+      "iso": "ISO 500"
     },
-    "location": "Munich, Germany"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "video",
@@ -2958,11 +5283,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "30mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.1",
+      "focalLength": "32mm",
+      "iso": "ISO 300"
     },
-    "location": "New York, New York"
+    "location": "Paris, France"
   },
   {
     "type": "video",
@@ -2983,11 +5308,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "38mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.1",
+      "focalLength": "35mm",
+      "iso": "ISO 500"
     },
-    "location": "Berlin, Germany"
+    "location": "Paris, France"
   },
   {
     "type": "video",
@@ -3008,11 +5333,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "29mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.4",
+      "focalLength": "31mm",
+      "iso": "ISO 400"
     },
-    "location": "Berlin, Germany"
+    "location": "London, UK"
   },
   {
     "type": "video",
@@ -3034,10 +5359,10 @@
     },
     "camera": {
       "fstop": "f/2.3",
-      "focalLength": "35mm",
-      "iso": "ISO 2700"
+      "focalLength": "30mm",
+      "iso": "ISO 100"
     },
-    "location": "London, UK"
+    "location": "Berlin, Germany"
   },
   {
     "type": "video",
@@ -3058,11 +5383,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.3",
-      "focalLength": "31mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.2",
+      "focalLength": "30mm",
+      "iso": "ISO 400"
     },
-    "location": "Barcelona, Spain"
+    "location": "Paris, France"
   },
   {
     "type": "video",
@@ -3083,11 +5408,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "35mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.7",
+      "focalLength": "38mm",
+      "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "Munich, Germany"
   },
   {
     "type": "video",
@@ -3108,11 +5433,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "25mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.4",
+      "focalLength": "26mm",
+      "iso": "ISO 200"
     },
-    "location": "Barcelona, Spain"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -3132,11 +5457,11 @@
       "l": 0.19
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "37mm",
-      "iso": "ISO 2600"
+      "fstop": "f/2.3",
+      "focalLength": "27mm",
+      "iso": "ISO 300"
     },
-    "location": "Munich, Germany"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -3156,11 +5481,11 @@
       "l": 0.49
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "28mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.4",
+      "focalLength": "34mm",
+      "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "Paris, France"
   },
   {
     "type": "video",
@@ -3181,11 +5506,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "29mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.3",
+      "focalLength": "34mm",
+      "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "Berlin, Germany"
   },
   {
     "type": "video",
@@ -3206,11 +5531,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.9",
-      "focalLength": "25mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.6",
+      "focalLength": "36mm",
+      "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -3230,11 +5555,11 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "33mm",
-      "iso": "ISO 1500"
+      "fstop": "f/1.8",
+      "focalLength": "31mm",
+      "iso": "ISO 900"
     },
-    "location": "Berlin, Germany"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "video",
@@ -3256,10 +5581,10 @@
     },
     "camera": {
       "fstop": "f/1.7",
-      "focalLength": "38mm",
-      "iso": "ISO 2700"
+      "focalLength": "36mm",
+      "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -3279,9 +5604,9 @@
       "l": 0.44
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "32mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.3",
+      "focalLength": "33mm",
+      "iso": "ISO 400"
     },
     "location": "Tokyo, Japan"
   },
@@ -3304,11 +5629,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.5",
+      "fstop": "f/2.0",
       "focalLength": "35mm",
-      "iso": "ISO 2700"
+      "iso": "ISO 300"
     },
-    "location": "Milan, Italy"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -3328,9 +5653,9 @@
       "l": 0.69
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "28mm",
-      "iso": "ISO 1000"
+      "fstop": "f/1.8",
+      "focalLength": "35mm",
+      "iso": "ISO 900"
     },
     "location": "Paris, France"
   },
@@ -3353,11 +5678,11 @@
       "l": 0.26
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "26mm",
-      "iso": "ISO 2400"
+      "fstop": "f/2.1",
+      "focalLength": "32mm",
+      "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "image",
@@ -3377,11 +5702,11 @@
       "l": 0.5
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "38mm",
-      "iso": "ISO 1600"
+      "fstop": "f/1.9",
+      "focalLength": "26mm",
+      "iso": "ISO 1300"
     },
-    "location": "Paris, France"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -3402,9 +5727,9 @@
       "l": 0.32
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "34mm",
-      "iso": "ISO 2200"
+      "fstop": "f/1.9",
+      "focalLength": "37mm",
+      "iso": "ISO 200"
     },
     "location": "Berlin, Germany"
   },
@@ -3427,11 +5752,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "28mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.6",
+      "focalLength": "31mm",
+      "iso": "ISO 400"
     },
-    "location": "London, UK"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -3451,9 +5776,9 @@
       "l": 0.62
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "39mm",
-      "iso": "ISO 1200"
+      "fstop": "f/1.7",
+      "focalLength": "27mm",
+      "iso": "ISO 600"
     },
     "location": "Monaco"
   },
@@ -3475,11 +5800,11 @@
       "l": 0.41
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "35mm",
-      "iso": "ISO 1900"
+      "fstop": "f/2.2",
+      "focalLength": "27mm",
+      "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "Milan, Italy"
   },
   {
     "type": "video",
@@ -3500,11 +5825,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "34mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.1",
+      "focalLength": "28mm",
+      "iso": "ISO 100"
     },
-    "location": "New York, New York"
+    "location": "Milan, Italy"
   },
   {
     "type": "video",
@@ -3525,9 +5850,9 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "37mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.3",
+      "focalLength": "33mm",
+      "iso": "ISO 500"
     },
     "location": "Los Angeles, California"
   },
@@ -3550,10 +5875,10 @@
     },
     "camera": {
       "fstop": "f/2.1",
-      "focalLength": "30mm",
-      "iso": "ISO 1700"
+      "focalLength": "25mm",
+      "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -3573,11 +5898,11 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "30mm",
-      "iso": "ISO 1500"
+      "fstop": "f/1.8",
+      "focalLength": "36mm",
+      "iso": "ISO 900"
     },
-    "location": "New York, New York"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -3597,11 +5922,11 @@
       "l": 0.4
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "27mm",
-      "iso": "ISO 1900"
+      "fstop": "f/2.6",
+      "focalLength": "34mm",
+      "iso": "ISO 500"
     },
-    "location": "London, UK"
+    "location": "Monaco"
   },
   {
     "type": "video",
@@ -3622,11 +5947,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "39mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.4",
+      "focalLength": "37mm",
+      "iso": "ISO 100"
     },
-    "location": "New York, New York"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "video",
@@ -3647,9 +5972,9 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "39mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.5",
+      "focalLength": "30mm",
+      "iso": "ISO 300"
     },
     "location": "New York, New York"
   },
@@ -3672,11 +5997,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "35mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.5",
+      "focalLength": "27mm",
+      "iso": "ISO 500"
     },
-    "location": "Paris, France"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -3696,11 +6021,11 @@
       "l": 0.37
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "38mm",
-      "iso": "ISO 2000"
+      "fstop": "f/2.0",
+      "focalLength": "37mm",
+      "iso": "ISO 400"
     },
-    "location": "London, UK"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -3720,11 +6045,11 @@
       "l": 0.4
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "39mm",
-      "iso": "ISO 1900"
+      "fstop": "f/2.0",
+      "focalLength": "37mm",
+      "iso": "ISO 200"
     },
-    "location": "Monaco"
+    "location": "Munich, Germany"
   },
   {
     "type": "video",
@@ -3745,11 +6070,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "30mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.7",
+      "focalLength": "27mm",
+      "iso": "ISO 100"
     },
-    "location": "Los Angeles, California"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "video",
@@ -3770,11 +6095,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "31mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.3",
+      "focalLength": "32mm",
+      "iso": "ISO 200"
     },
-    "location": "Paris, France"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "image",
@@ -3794,11 +6119,11 @@
       "l": 0.46
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "31mm",
-      "iso": "ISO 1700"
+      "fstop": "f/1.7",
+      "focalLength": "33mm",
+      "iso": "ISO 400"
     },
-    "location": "Munich, Germany"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -3818,11 +6143,11 @@
       "l": 0.48
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "34mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.5",
+      "focalLength": "27mm",
+      "iso": "ISO 400"
     },
-    "location": "Munich, Germany"
+    "location": "Milan, Italy"
   },
   {
     "type": "video",
@@ -3843,11 +6168,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "33mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.1",
+      "focalLength": "26mm",
+      "iso": "ISO 500"
     },
-    "location": "Tokyo, Japan"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -3867,11 +6192,11 @@
       "l": 0.58
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "35mm",
-      "iso": "ISO 1400"
+      "fstop": "f/1.6",
+      "focalLength": "31mm",
+      "iso": "ISO 1100"
     },
-    "location": "Los Angeles, California"
+    "location": "New York, New York"
   },
   {
     "type": "video",
@@ -3892,11 +6217,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.8",
+      "fstop": "f/2.6",
       "focalLength": "40mm",
-      "iso": "ISO 2700"
+      "iso": "ISO 200"
     },
-    "location": "Monaco"
+    "location": "Paris, France"
   },
   {
     "type": "video",
@@ -3917,11 +6242,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "26mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.0",
+      "focalLength": "37mm",
+      "iso": "ISO 400"
     },
-    "location": "Berlin, Germany"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -3941,11 +6266,11 @@
       "l": 0.54
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "28mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.3",
+      "focalLength": "40mm",
+      "iso": "ISO 1400"
     },
-    "location": "Monaco"
+    "location": "Munich, Germany"
   },
   {
     "type": "video",
@@ -3966,11 +6291,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "25mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.3",
+      "focalLength": "31mm",
+      "iso": "ISO 300"
     },
-    "location": "New York, New York"
+    "location": "London, UK"
   },
   {
     "type": "video",
@@ -3991,11 +6316,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "33mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.5",
+      "focalLength": "40mm",
+      "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -4015,11 +6340,11 @@
       "l": 0.47
     },
     "camera": {
-      "fstop": "f/2.1",
+      "fstop": "f/2.4",
       "focalLength": "37mm",
-      "iso": "ISO 1700"
+      "iso": "ISO 300"
     },
-    "location": "Berlin, Germany"
+    "location": "New York, New York"
   },
   {
     "type": "video",
@@ -4040,11 +6365,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "29mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.9",
+      "focalLength": "26mm",
+      "iso": "ISO 400"
     },
-    "location": "Munich, Germany"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -4064,11 +6389,11 @@
       "l": 0.38
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "38mm",
-      "iso": "ISO 2000"
+      "fstop": "f/2.7",
+      "focalLength": "26mm",
+      "iso": "ISO 100"
     },
-    "location": "Munich, Germany"
+    "location": "Milan, Italy"
   },
   {
     "type": "video",
@@ -4089,11 +6414,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "33mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.9",
+      "focalLength": "31mm",
+      "iso": "ISO 500"
     },
-    "location": "New York, New York"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -4113,11 +6438,11 @@
       "l": 0.61
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "29mm",
-      "iso": "ISO 1300"
+      "fstop": "f/2.7",
+      "focalLength": "33mm",
+      "iso": "ISO 500"
     },
-    "location": "Barcelona, Spain"
+    "location": "Berlin, Germany"
   },
   {
     "type": "video",
@@ -4138,11 +6463,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "29mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.9",
+      "focalLength": "37mm",
+      "iso": "ISO 300"
     },
-    "location": "Paris, France"
+    "location": "Los Angeles, California"
   },
   {
     "type": "video",
@@ -4163,11 +6488,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "30mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.7",
+      "focalLength": "29mm",
+      "iso": "ISO 400"
     },
-    "location": "Munich, Germany"
+    "location": "Monaco"
   },
   {
     "type": "video",
@@ -4188,11 +6513,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "30mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.9",
+      "focalLength": "35mm",
+      "iso": "ISO 200"
     },
-    "location": "Tokyo, Japan"
+    "location": "London, UK"
   },
   {
     "type": "video",
@@ -4213,11 +6538,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.9",
-      "focalLength": "38mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.1",
+      "focalLength": "31mm",
+      "iso": "ISO 300"
     },
-    "location": "Barcelona, Spain"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -4237,11 +6562,11 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "32mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.0",
+      "focalLength": "38mm",
+      "iso": "ISO 1000"
     },
-    "location": "Milan, Italy"
+    "location": "New York, New York"
   },
   {
     "type": "video",
@@ -4262,11 +6587,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "36mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.7",
+      "focalLength": "29mm",
+      "iso": "ISO 300"
     },
-    "location": "Los Angeles, California"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -4286,11 +6611,11 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/2.4",
+      "fstop": "f/2.7",
       "focalLength": "34mm",
-      "iso": "ISO 1500"
+      "iso": "ISO 1100"
     },
-    "location": "Tokyo, Japan"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -4310,11 +6635,11 @@
       "l": 0.64
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "34mm",
-      "iso": "ISO 1100"
+      "fstop": "f/2.2",
+      "focalLength": "28mm",
+      "iso": "ISO 1400"
     },
-    "location": "Tokyo, Japan"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -4334,11 +6659,11 @@
       "l": 0.37
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "26mm",
-      "iso": "ISO 2000"
+      "fstop": "f/2.8",
+      "focalLength": "37mm",
+      "iso": "ISO 400"
     },
-    "location": "New York, New York"
+    "location": "Berlin, Germany"
   },
   {
     "type": "video",
@@ -4359,11 +6684,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "26mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.0",
+      "focalLength": "35mm",
+      "iso": "ISO 200"
     },
-    "location": "Munich, Germany"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -4383,11 +6708,11 @@
       "l": 0.55
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "38mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.4",
+      "focalLength": "28mm",
+      "iso": "ISO 900"
     },
-    "location": "New York, New York"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "video",
@@ -4408,11 +6733,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "38mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.8",
+      "focalLength": "36mm",
+      "iso": "ISO 200"
     },
-    "location": "Monaco"
+    "location": "Munich, Germany"
   },
   {
     "type": "video",
@@ -4433,11 +6758,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "37mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.1",
+      "focalLength": "36mm",
+      "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "Berlin, Germany"
   },
   {
     "type": "video",
@@ -4458,11 +6783,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "27mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.4",
+      "focalLength": "40mm",
+      "iso": "ISO 500"
     },
-    "location": "Munich, Germany"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -4482,11 +6807,11 @@
       "l": 0.58
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "27mm",
+      "fstop": "f/1.7",
+      "focalLength": "35mm",
       "iso": "ISO 1300"
     },
-    "location": "Barcelona, Spain"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -4506,11 +6831,11 @@
       "l": 0.56
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "29mm",
-      "iso": "ISO 1400"
+      "fstop": "f/1.9",
+      "focalLength": "35mm",
+      "iso": "ISO 900"
     },
-    "location": "Berlin, Germany"
+    "location": "Monaco"
   },
   {
     "type": "video",
@@ -4531,11 +6856,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.3",
-      "focalLength": "38mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.0",
+      "focalLength": "34mm",
+      "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -4555,11 +6880,11 @@
       "l": 0.46
     },
     "camera": {
-      "fstop": "f/2.5",
+      "fstop": "f/2.8",
       "focalLength": "39mm",
-      "iso": "ISO 1700"
+      "iso": "ISO 500"
     },
-    "location": "Milan, Italy"
+    "location": "Monaco"
   },
   {
     "type": "video",
@@ -4580,11 +6905,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "32mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.6",
+      "focalLength": "35mm",
+      "iso": "ISO 200"
     },
-    "location": "Berlin, Germany"
+    "location": "Munich, Germany"
   },
   {
     "type": "video",
@@ -4605,9 +6930,9 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "33mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.7",
+      "focalLength": "32mm",
+      "iso": "ISO 200"
     },
     "location": "Barcelona, Spain"
   },
@@ -4629,11 +6954,11 @@
       "l": 0.44
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "33mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.9",
+      "focalLength": "25mm",
+      "iso": "ISO 500"
     },
-    "location": "Paris, France"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "video",
@@ -4654,9 +6979,9 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "39mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.5",
+      "focalLength": "33mm",
+      "iso": "ISO 200"
     },
     "location": "London, UK"
   },
@@ -4678,11 +7003,11 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "37mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.5",
+      "focalLength": "38mm",
+      "iso": "ISO 1100"
     },
-    "location": "Monaco"
+    "location": "Los Angeles, California"
   },
   {
     "type": "video",
@@ -4703,11 +7028,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "40mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.8",
+      "focalLength": "36mm",
+      "iso": "ISO 300"
     },
-    "location": "Barcelona, Spain"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -4727,11 +7052,11 @@
       "l": 0.57
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "34mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.5",
+      "focalLength": "29mm",
+      "iso": "ISO 500"
     },
-    "location": "Munich, Germany"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -4751,11 +7076,11 @@
       "l": 0.6
     },
     "camera": {
-      "fstop": "f/2.9",
-      "focalLength": "25mm",
-      "iso": "ISO 1300"
+      "fstop": "f/1.9",
+      "focalLength": "36mm",
+      "iso": "ISO 800"
     },
-    "location": "Tokyo, Japan"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -4776,11 +7101,11 @@
       "l": 0.18
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "33mm",
-      "iso": "ISO 2600"
+      "fstop": "f/1.7",
+      "focalLength": "25mm",
+      "iso": "ISO 300"
     },
-    "location": "Paris, France"
+    "location": "Monaco"
   },
   {
     "type": "video",
@@ -4801,11 +7126,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "29mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.2",
+      "focalLength": "31mm",
+      "iso": "ISO 100"
     },
-    "location": "Berlin, Germany"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "video",
@@ -4826,11 +7151,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "37mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.4",
+      "focalLength": "40mm",
+      "iso": "ISO 400"
     },
-    "location": "London, UK"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -4850,11 +7175,11 @@
       "l": 0.46
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "30mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.4",
+      "focalLength": "28mm",
+      "iso": "ISO 200"
     },
-    "location": "Milan, Italy"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "video",
@@ -4875,11 +7200,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "38mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.7",
+      "focalLength": "39mm",
+      "iso": "ISO 500"
     },
-    "location": "Munich, Germany"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -4899,11 +7224,11 @@
       "l": 0.37
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "33mm",
-      "iso": "ISO 2000"
+      "fstop": "f/2.2",
+      "focalLength": "27mm",
+      "iso": "ISO 500"
     },
-    "location": "Tokyo, Japan"
+    "location": "New York, New York"
   },
   {
     "type": "video",
@@ -4924,11 +7249,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "35mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.9",
+      "focalLength": "34mm",
+      "iso": "ISO 400"
     },
-    "location": "Munich, Germany"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -4948,11 +7273,11 @@
       "l": 0.3
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "30mm",
-      "iso": "ISO 2200"
+      "fstop": "f/2.4",
+      "focalLength": "35mm",
+      "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "London, UK"
   },
   {
     "type": "video",
@@ -4973,11 +7298,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "30mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.8",
+      "focalLength": "36mm",
+      "iso": "ISO 100"
     },
-    "location": "Barcelona, Spain"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -4997,11 +7322,11 @@
       "l": 0.43
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "28mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.8",
+      "focalLength": "30mm",
+      "iso": "ISO 300"
     },
-    "location": "Paris, France"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -5021,11 +7346,11 @@
       "l": 0.56
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "29mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.5",
+      "focalLength": "37mm",
+      "iso": "ISO 1300"
     },
-    "location": "Los Angeles, California"
+    "location": "New York, New York"
   },
   {
     "type": "video",
@@ -5046,11 +7371,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "31mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.8",
+      "focalLength": "28mm",
+      "iso": "ISO 300"
     },
-    "location": "Berlin, Germany"
+    "location": "New York, New York"
   },
   {
     "type": "video",
@@ -5071,11 +7396,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "28mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.7",
+      "focalLength": "29mm",
+      "iso": "ISO 100"
     },
-    "location": "Los Angeles, California"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -5095,11 +7420,11 @@
       "l": 0.49
     },
     "camera": {
-      "fstop": "f/2.9",
-      "focalLength": "27mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.4",
+      "focalLength": "25mm",
+      "iso": "ISO 400"
     },
-    "location": "London, UK"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -5119,11 +7444,11 @@
       "l": 0.57
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "35mm",
-      "iso": "ISO 1400"
+      "fstop": "f/1.9",
+      "focalLength": "29mm",
+      "iso": "ISO 600"
     },
-    "location": "Munich, Germany"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -5143,9 +7468,9 @@
       "l": 0.49
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "27mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.7",
+      "focalLength": "26mm",
+      "iso": "ISO 500"
     },
     "location": "Monaco"
   },
@@ -5167,11 +7492,11 @@
       "l": 0.42
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "40mm",
-      "iso": "ISO 1900"
+      "fstop": "f/1.8",
+      "focalLength": "36mm",
+      "iso": "ISO 200"
     },
-    "location": "Los Angeles, California"
+    "location": "Munich, Germany"
   },
   {
     "type": "video",
@@ -5192,11 +7517,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "26mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.7",
+      "focalLength": "29mm",
+      "iso": "ISO 400"
     },
-    "location": "Barcelona, Spain"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -5216,11 +7541,11 @@
       "l": 0.33
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "37mm",
-      "iso": "ISO 2100"
+      "fstop": "f/2.5",
+      "focalLength": "31mm",
+      "iso": "ISO 200"
     },
-    "location": "Milan, Italy"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -5240,11 +7565,11 @@
       "l": 0.48
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "37mm",
-      "iso": "ISO 1700"
+      "fstop": "f/1.7",
+      "focalLength": "25mm",
+      "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -5264,11 +7589,11 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "40mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.8",
+      "focalLength": "38mm",
+      "iso": "ISO 900"
     },
-    "location": "Monaco"
+    "location": "New York, New York"
   },
   {
     "type": "video",
@@ -5289,11 +7614,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "35mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.2",
+      "focalLength": "40mm",
+      "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -5313,11 +7638,11 @@
       "l": 0.39
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "40mm",
-      "iso": "ISO 2000"
+      "fstop": "f/1.7",
+      "focalLength": "39mm",
+      "iso": "ISO 100"
     },
-    "location": "New York, New York"
+    "location": "Paris, France"
   },
   {
     "type": "video",
@@ -5338,11 +7663,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "39mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.1",
+      "focalLength": "27mm",
+      "iso": "ISO 300"
     },
-    "location": "Barcelona, Spain"
+    "location": "New York, New York"
   },
   {
     "type": "video",
@@ -5363,11 +7688,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "31mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.7",
+      "focalLength": "30mm",
+      "iso": "ISO 200"
     },
-    "location": "Berlin, Germany"
+    "location": "New York, New York"
   },
   {
     "type": "video",
@@ -5388,11 +7713,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.9",
-      "focalLength": "26mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.8",
+      "focalLength": "29mm",
+      "iso": "ISO 100"
     },
-    "location": "Berlin, Germany"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -5412,11 +7737,11 @@
       "l": 0.57
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "38mm",
-      "iso": "ISO 1400"
+      "fstop": "f/1.8",
+      "focalLength": "34mm",
+      "iso": "ISO 1500"
     },
-    "location": "Berlin, Germany"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -5436,11 +7761,11 @@
       "l": 0.45
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "26mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.2",
+      "focalLength": "30mm",
+      "iso": "ISO 500"
     },
-    "location": "Monaco"
+    "location": "Milan, Italy"
   },
   {
     "type": "video",
@@ -5461,11 +7786,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "38mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.5",
+      "focalLength": "34mm",
+      "iso": "ISO 200"
     },
-    "location": "London, UK"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "image",
@@ -5485,11 +7810,11 @@
       "l": 0.19
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "40mm",
-      "iso": "ISO 2600"
+      "fstop": "f/1.7",
+      "focalLength": "28mm",
+      "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -5509,11 +7834,11 @@
       "l": 0.5
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "29mm",
-      "iso": "ISO 1600"
+      "fstop": "f/1.9",
+      "focalLength": "40mm",
+      "iso": "ISO 200"
     },
-    "location": "Berlin, Germany"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -5533,11 +7858,11 @@
       "l": 0.42
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "25mm",
-      "iso": "ISO 1900"
+      "fstop": "f/2.2",
+      "focalLength": "31mm",
+      "iso": "ISO 400"
     },
-    "location": "London, UK"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "video",
@@ -5558,11 +7883,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "25mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.5",
+      "focalLength": "33mm",
+      "iso": "ISO 500"
     },
-    "location": "Barcelona, Spain"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -5582,8 +7907,8 @@
       "l": 0.58
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "27mm",
+      "fstop": "f/2.5",
+      "focalLength": "32mm",
       "iso": "ISO 1300"
     },
     "location": "Barcelona, Spain"
@@ -5607,11 +7932,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "38mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.5",
+      "focalLength": "28mm",
+      "iso": "ISO 200"
     },
-    "location": "New York, New York"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -5631,11 +7956,11 @@
       "l": 0.43
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "25mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.9",
+      "focalLength": "33mm",
+      "iso": "ISO 200"
     },
-    "location": "Munich, Germany"
+    "location": "Berlin, Germany"
   },
   {
     "type": "video",
@@ -5656,11 +7981,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "30mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.5",
+      "focalLength": "26mm",
+      "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Munich, Germany"
   },
   {
     "type": "video",
@@ -5681,11 +8006,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "25mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.8",
+      "focalLength": "30mm",
+      "iso": "ISO 500"
     },
-    "location": "Berlin, Germany"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -5705,11 +8030,11 @@
       "l": 0.62
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "25mm",
-      "iso": "ISO 1200"
+      "fstop": "f/2.1",
+      "focalLength": "28mm",
+      "iso": "ISO 900"
     },
-    "location": "Berlin, Germany"
+    "location": "London, UK"
   },
   {
     "type": "video",
@@ -5730,11 +8055,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.0",
+      "fstop": "f/2.2",
       "focalLength": "32mm",
-      "iso": "ISO 2700"
+      "iso": "ISO 200"
     },
-    "location": "London, UK"
+    "location": "Milan, Italy"
   },
   {
     "type": "video",
@@ -5755,11 +8080,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "25mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.8",
+      "focalLength": "29mm",
+      "iso": "ISO 400"
     },
-    "location": "Munich, Germany"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -5779,11 +8104,11 @@
       "l": 0.44
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "32mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.8",
+      "focalLength": "36mm",
+      "iso": "ISO 100"
     },
-    "location": "Milan, Italy"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -5804,11 +8129,11 @@
       "l": 0.2
     },
     "camera": {
-      "fstop": "f/2.9",
-      "focalLength": "36mm",
-      "iso": "ISO 2600"
+      "fstop": "f/1.8",
+      "focalLength": "28mm",
+      "iso": "ISO 100"
     },
-    "location": "Tokyo, Japan"
+    "location": "Berlin, Germany"
   },
   {
     "type": "video",
@@ -5829,11 +8154,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "38mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.8",
+      "focalLength": "27mm",
+      "iso": "ISO 500"
     },
-    "location": "Munich, Germany"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -5854,10 +8179,10 @@
     },
     "camera": {
       "fstop": "f/2.6",
-      "focalLength": "40mm",
-      "iso": "ISO 2100"
+      "focalLength": "38mm",
+      "iso": "ISO 400"
     },
-    "location": "Barcelona, Spain"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -5877,11 +8202,11 @@
       "l": 0.49
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "27mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.4",
+      "focalLength": "28mm",
+      "iso": "ISO 400"
     },
-    "location": "London, UK"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "video",
@@ -5902,11 +8227,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "35mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.7",
+      "focalLength": "28mm",
+      "iso": "ISO 100"
     },
-    "location": "Barcelona, Spain"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -5926,11 +8251,11 @@
       "l": 0.45
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "30mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.3",
+      "focalLength": "29mm",
+      "iso": "ISO 400"
     },
-    "location": "Berlin, Germany"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "video",
@@ -5951,11 +8276,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "39mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.8",
+      "focalLength": "26mm",
+      "iso": "ISO 200"
     },
-    "location": "Milan, Italy"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "video",
@@ -5976,11 +8301,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "30mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.6",
+      "focalLength": "39mm",
+      "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -6000,11 +8325,11 @@
       "l": 0.49
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "35mm",
-      "iso": "ISO 1600"
+      "fstop": "f/1.6",
+      "focalLength": "38mm",
+      "iso": "ISO 300"
     },
-    "location": "New York, New York"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -6024,11 +8349,11 @@
       "l": 0.55
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "31mm",
-      "iso": "ISO 1500"
+      "fstop": "f/1.6",
+      "focalLength": "37mm",
+      "iso": "ISO 600"
     },
-    "location": "Barcelona, Spain"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -6048,11 +8373,11 @@
       "l": 0.55
     },
     "camera": {
-      "fstop": "f/2.9",
-      "focalLength": "32mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.0",
+      "focalLength": "39mm",
+      "iso": "ISO 900"
     },
-    "location": "Los Angeles, California"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -6072,11 +8397,11 @@
       "l": 0.47
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "30mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.9",
+      "focalLength": "38mm",
+      "iso": "ISO 300"
     },
-    "location": "Tokyo, Japan"
+    "location": "Berlin, Germany"
   },
   {
     "type": "image",
@@ -6096,11 +8421,11 @@
       "l": 0.43
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "40mm",
-      "iso": "ISO 1800"
+      "fstop": "f/2.3",
+      "focalLength": "25mm",
+      "iso": "ISO 400"
     },
-    "location": "Tokyo, Japan"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -6120,11 +8445,11 @@
       "l": 0.54
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "30mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.5",
+      "focalLength": "35mm",
+      "iso": "ISO 500"
     },
-    "location": "Paris, France"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -6144,11 +8469,11 @@
       "l": 0.33
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "39mm",
-      "iso": "ISO 2200"
+      "fstop": "f/2.5",
+      "focalLength": "36mm",
+      "iso": "ISO 500"
     },
-    "location": "Berlin, Germany"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -6168,11 +8493,11 @@
       "l": 0.46
     },
     "camera": {
-      "fstop": "f/2.3",
-      "focalLength": "28mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.8",
+      "focalLength": "29mm",
+      "iso": "ISO 300"
     },
-    "location": "Berlin, Germany"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -6192,11 +8517,11 @@
       "l": 0.39
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "29mm",
-      "iso": "ISO 2000"
+      "fstop": "f/1.8",
+      "focalLength": "34mm",
+      "iso": "ISO 400"
     },
-    "location": "Tokyo, Japan"
+    "location": "Milan, Italy"
   },
   {
     "type": "video",
@@ -6218,10 +8543,10 @@
     },
     "camera": {
       "fstop": "f/1.9",
-      "focalLength": "39mm",
-      "iso": "ISO 2700"
+      "focalLength": "30mm",
+      "iso": "ISO 200"
     },
-    "location": "New York, New York"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -6242,11 +8567,11 @@
       "l": 0.3
     },
     "camera": {
-      "fstop": "f/2.3",
-      "focalLength": "30mm",
-      "iso": "ISO 2300"
+      "fstop": "f/2.7",
+      "focalLength": "27mm",
+      "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Milan, Italy"
   },
   {
     "type": "image",
@@ -6266,11 +8591,11 @@
       "l": 0.44
     },
     "camera": {
-      "fstop": "f/1.7",
+      "fstop": "f/2.4",
       "focalLength": "31mm",
-      "iso": "ISO 1800"
+      "iso": "ISO 400"
     },
-    "location": "Munich, Germany"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -6290,11 +8615,11 @@
       "l": 0.48
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "34mm",
-      "iso": "ISO 1700"
+      "fstop": "f/1.6",
+      "focalLength": "32mm",
+      "iso": "ISO 200"
     },
-    "location": "Milan, Italy"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "video",
@@ -6315,11 +8640,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "32mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.1",
+      "focalLength": "28mm",
+      "iso": "ISO 300"
     },
-    "location": "New York, New York"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -6339,11 +8664,11 @@
       "l": 0.59
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "26mm",
-      "iso": "ISO 1300"
+      "fstop": "f/2.0",
+      "focalLength": "32mm",
+      "iso": "ISO 1400"
     },
-    "location": "Tokyo, Japan"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -6363,11 +8688,11 @@
       "l": 0.36
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "32mm",
-      "iso": "ISO 2100"
+      "fstop": "f/2.6",
+      "focalLength": "34mm",
+      "iso": "ISO 100"
     },
-    "location": "Milan, Italy"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "video",
@@ -6388,11 +8713,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "36mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.8",
+      "focalLength": "25mm",
+      "iso": "ISO 300"
     },
-    "location": "Monaco"
+    "location": "Munich, Germany"
   },
   {
     "type": "video",
@@ -6413,11 +8738,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.9",
-      "focalLength": "33mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.3",
+      "focalLength": "36mm",
+      "iso": "ISO 300"
     },
-    "location": "Munich, Germany"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -6437,9 +8762,9 @@
       "l": 0.48
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "28mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.0",
+      "focalLength": "40mm",
+      "iso": "ISO 400"
     },
     "location": "Paris, France"
   },
@@ -6462,11 +8787,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "38mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.5",
+      "focalLength": "33mm",
+      "iso": "ISO 400"
     },
-    "location": "Berlin, Germany"
+    "location": "Munich, Germany"
   },
   {
     "type": "video",
@@ -6487,9 +8812,9 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "34mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.3",
+      "focalLength": "28mm",
+      "iso": "ISO 300"
     },
     "location": "Los Angeles, California"
   },
@@ -6511,9 +8836,9 @@
       "l": 0.61
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "31mm",
-      "iso": "ISO 1200"
+      "fstop": "f/2.8",
+      "focalLength": "27mm",
+      "iso": "ISO 700"
     },
     "location": "London, UK"
   },
@@ -6535,11 +8860,11 @@
       "l": 0.48
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "30mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.5",
+      "focalLength": "29mm",
+      "iso": "ISO 500"
     },
-    "location": "Berlin, Germany"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -6559,11 +8884,11 @@
       "l": 0.56
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "35mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.7",
+      "focalLength": "37mm",
+      "iso": "ISO 700"
     },
-    "location": "Tokyo, Japan"
+    "location": "Paris, France"
   },
   {
     "type": "video",
@@ -6584,9 +8909,9 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "29mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.3",
+      "focalLength": "36mm",
+      "iso": "ISO 100"
     },
     "location": "Tokyo, Japan"
   },
@@ -6608,11 +8933,11 @@
       "l": 0.54
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "31mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.4",
+      "focalLength": "38mm",
+      "iso": "ISO 600"
     },
-    "location": "Berlin, Germany"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -6632,11 +8957,11 @@
       "l": 0.25
     },
     "camera": {
-      "fstop": "f/2.3",
+      "fstop": "f/2.0",
       "focalLength": "32mm",
-      "iso": "ISO 2400"
+      "iso": "ISO 400"
     },
-    "location": "London, UK"
+    "location": "Los Angeles, California"
   },
   {
     "type": "image",
@@ -6656,11 +8981,11 @@
       "l": 0.48
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "35mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.5",
+      "focalLength": "39mm",
+      "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "video",
@@ -6681,11 +9006,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "28mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.7",
+      "focalLength": "26mm",
+      "iso": "ISO 300"
     },
-    "location": "Monaco"
+    "location": "London, UK"
   },
   {
     "type": "image",
@@ -6705,9 +9030,9 @@
       "l": 0.49
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "34mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.6",
+      "focalLength": "39mm",
+      "iso": "ISO 400"
     },
     "location": "Monaco"
   },
@@ -6730,11 +9055,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.7",
-      "focalLength": "36mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.8",
+      "focalLength": "32mm",
+      "iso": "ISO 100"
     },
-    "location": "London, UK"
+    "location": "New York, New York"
   },
   {
     "type": "video",
@@ -6755,11 +9080,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "34mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.7",
+      "focalLength": "38mm",
+      "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -6779,11 +9104,11 @@
       "l": 0.52
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "28mm",
-      "iso": "ISO 1500"
+      "fstop": "f/1.6",
+      "focalLength": "40mm",
+      "iso": "ISO 600"
     },
-    "location": "Monaco"
+    "location": "Milan, Italy"
   },
   {
     "type": "video",
@@ -6804,11 +9129,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "29mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.4",
+      "focalLength": "27mm",
+      "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "London, UK"
   },
   {
     "type": "video",
@@ -6829,11 +9154,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "28mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.3",
+      "focalLength": "32mm",
+      "iso": "ISO 300"
     },
-    "location": "Munich, Germany"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "video",
@@ -6854,11 +9179,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "31mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.3",
+      "focalLength": "27mm",
+      "iso": "ISO 300"
     },
-    "location": "Munich, Germany"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -6878,11 +9203,11 @@
       "l": 0.46
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "31mm",
-      "iso": "ISO 1700"
+      "fstop": "f/2.3",
+      "focalLength": "39mm",
+      "iso": "ISO 200"
     },
-    "location": "Munich, Germany"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -6902,11 +9227,11 @@
       "l": 0.56
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "35mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.8",
+      "focalLength": "32mm",
+      "iso": "ISO 1600"
     },
-    "location": "Tokyo, Japan"
+    "location": "Paris, France"
   },
   {
     "type": "video",
@@ -6927,11 +9252,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "37mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.5",
+      "focalLength": "27mm",
+      "iso": "ISO 300"
     },
-    "location": "Los Angeles, California"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "video",
@@ -6952,11 +9277,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.8",
-      "focalLength": "27mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.5",
+      "focalLength": "28mm",
+      "iso": "ISO 200"
     },
-    "location": "Los Angeles, California"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -6976,11 +9301,11 @@
       "l": 0.57
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "28mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.6",
+      "focalLength": "36mm",
+      "iso": "ISO 1000"
     },
-    "location": "Paris, France"
+    "location": "London, UK"
   },
   {
     "type": "video",
@@ -7001,11 +9326,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "35mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.7",
+      "focalLength": "38mm",
+      "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "Munich, Germany"
   },
   {
     "type": "video",
@@ -7026,11 +9351,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "31mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.2",
+      "focalLength": "39mm",
+      "iso": "ISO 200"
     },
-    "location": "Berlin, Germany"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -7050,11 +9375,11 @@
       "l": 0.6
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "34mm",
-      "iso": "ISO 1300"
+      "fstop": "f/2.8",
+      "focalLength": "29mm",
+      "iso": "ISO 1200"
     },
-    "location": "Berlin, Germany"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -7074,9 +9399,9 @@
       "l": 0.52
     },
     "camera": {
-      "fstop": "f/2.3",
-      "focalLength": "32mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.2",
+      "focalLength": "31mm",
+      "iso": "ISO 900"
     },
     "location": "Tokyo, Japan"
   },
@@ -7099,11 +9424,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "33mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.6",
+      "focalLength": "27mm",
+      "iso": "ISO 400"
     },
-    "location": "London, UK"
+    "location": "Berlin, Germany"
   },
   {
     "type": "video",
@@ -7124,11 +9449,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "39mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.4",
+      "focalLength": "30mm",
+      "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -7148,11 +9473,11 @@
       "l": 0.2
     },
     "camera": {
-      "fstop": "f/2.3",
-      "focalLength": "25mm",
-      "iso": "ISO 2500"
+      "fstop": "f/2.7",
+      "focalLength": "28mm",
+      "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -7172,11 +9497,11 @@
       "l": 0.37
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "40mm",
-      "iso": "ISO 2000"
+      "fstop": "f/2.3",
+      "focalLength": "34mm",
+      "iso": "ISO 500"
     },
-    "location": "Los Angeles, California"
+    "location": "Paris, France"
   },
   {
     "type": "image",
@@ -7196,9 +9521,9 @@
       "l": 0.51
     },
     "camera": {
-      "fstop": "f/2.2",
-      "focalLength": "30mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.3",
+      "focalLength": "31mm",
+      "iso": "ISO 1400"
     },
     "location": "Milan, Italy"
   },
@@ -7220,11 +9545,11 @@
       "l": 0.53
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "27mm",
-      "iso": "ISO 1500"
+      "fstop": "f/2.3",
+      "focalLength": "34mm",
+      "iso": "ISO 800"
     },
-    "location": "Berlin, Germany"
+    "location": "Paris, France"
   },
   {
     "type": "video",
@@ -7245,11 +9570,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.0",
-      "focalLength": "40mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.5",
+      "focalLength": "29mm",
+      "iso": "ISO 300"
     },
-    "location": "New York, New York"
+    "location": "Los Angeles, California"
   },
   {
     "type": "video",
@@ -7270,11 +9595,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "39mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.9",
+      "focalLength": "26mm",
+      "iso": "ISO 300"
     },
-    "location": "New York, New York"
+    "location": "Munich, Germany"
   },
   {
     "type": "video",
@@ -7295,11 +9620,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.5",
-      "focalLength": "27mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.1",
+      "focalLength": "31mm",
+      "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "Berlin, Germany"
   },
   {
     "type": "video",
@@ -7320,11 +9645,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.6",
-      "focalLength": "35mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.0",
+      "focalLength": "27mm",
+      "iso": "ISO 200"
     },
-    "location": "Monaco"
+    "location": "Barcelona, Spain"
   },
   {
     "type": "image",
@@ -7344,11 +9669,11 @@
       "l": 0.57
     },
     "camera": {
-      "fstop": "f/2.3",
-      "focalLength": "27mm",
-      "iso": "ISO 1400"
+      "fstop": "f/2.4",
+      "focalLength": "38mm",
+      "iso": "ISO 1300"
     },
-    "location": "Berlin, Germany"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "video",
@@ -7369,11 +9694,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.8",
-      "focalLength": "38mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.5",
+      "focalLength": "25mm",
+      "iso": "ISO 500"
     },
-    "location": "Los Angeles, California"
+    "location": "New York, New York"
   },
   {
     "type": "image",
@@ -7393,11 +9718,11 @@
       "l": 0.46
     },
     "camera": {
-      "fstop": "f/2.1",
-      "focalLength": "40mm",
-      "iso": "ISO 1700"
+      "fstop": "f/1.8",
+      "focalLength": "25mm",
+      "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "Monaco"
   },
   {
     "type": "image",
@@ -7417,11 +9742,11 @@
       "l": 0.51
     },
     "camera": {
-      "fstop": "f/1.6",
-      "focalLength": "28mm",
-      "iso": "ISO 1600"
+      "fstop": "f/2.1",
+      "focalLength": "26mm",
+      "iso": "ISO 700"
     },
-    "location": "Berlin, Germany"
+    "location": "Munich, Germany"
   },
   {
     "type": "image",
@@ -7441,11 +9766,11 @@
       "l": 0.64
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "30mm",
-      "iso": "ISO 1100"
+      "fstop": "f/2.8",
+      "focalLength": "35mm",
+      "iso": "ISO 1000"
     },
-    "location": "Munich, Germany"
+    "location": "New York, New York"
   },
   {
     "type": "video",
@@ -7466,11 +9791,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.5",
-      "focalLength": "30mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.2",
+      "focalLength": "25mm",
+      "iso": "ISO 200"
     },
-    "location": "Barcelona, Spain"
+    "location": "Tokyo, Japan"
   },
   {
     "type": "video",
@@ -7491,11 +9816,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.7",
-      "focalLength": "38mm",
-      "iso": "ISO 2700"
+      "fstop": "f/1.5",
+      "focalLength": "33mm",
+      "iso": "ISO 300"
     },
-    "location": "Barcelona, Spain"
+    "location": "New York, New York"
   },
   {
     "type": "video",
@@ -7516,11 +9841,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/2.4",
-      "focalLength": "40mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.5",
+      "focalLength": "34mm",
+      "iso": "ISO 300"
     },
-    "location": "Barcelona, Spain"
+    "location": "Munich, Germany"
   },
   {
     "type": "video",
@@ -7541,11 +9866,11 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "33mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.1",
+      "focalLength": "27mm",
+      "iso": "ISO 200"
     },
-    "location": "Munich, Germany"
+    "location": "Los Angeles, California"
   },
   {
     "type": "video",
@@ -7566,10 +9891,10 @@
       "l": 0.16
     },
     "camera": {
-      "fstop": "f/1.9",
-      "focalLength": "39mm",
-      "iso": "ISO 2700"
+      "fstop": "f/2.3",
+      "focalLength": "36mm",
+      "iso": "ISO 300"
     },
-    "location": "Monaco"
+    "location": "Milan, Italy"
   }
 ]
