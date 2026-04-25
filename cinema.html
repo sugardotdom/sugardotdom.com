@@ -211,13 +211,24 @@
             left: 0;
             right: 0;
             padding: 1rem;
-            background: linear-gradient(transparent, rgba(0,0,0,0.85));
+            padding-right: 3rem;
+            background: linear-gradient(transparent, rgba(0,0,0,0.9));
             color: #fff;
             font-size: 0.7rem;
             text-transform: uppercase;
             letter-spacing: 0.1rem;
             opacity: 0;
             transition: opacity 0.3s ease;
+            z-index: 15;
+            pointer-events: none;
+            text-shadow: 0px 2px 4px rgba(0,0,0,0.8);
+        }
+
+        .tags-title {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 100%;
         }
 
         .photo-card:hover .tags-overlay, .photo-card.in-view .tags-overlay {
@@ -340,7 +351,7 @@
                     <input type="range" min="0" max="100" value="50" class="wipe-slider" aria-label="Toggle Color Grade">
                     ${paletteHtml}
                     <div class="tags-overlay">
-                        <div>${img.tags.join(' • ')}</div>
+                        <div class="tags-title">${img.tags.join(' • ')}</div>
                         ${img.camera ? `<div class="meta-data">${img.camera.focalLength} • ${img.camera.fstop} • ${img.camera.iso}</div>` : ''}
                         ${img.location ? `<div class="meta-data">${img.location}</div>` : ''}
                         ${basePaletteHtml}
