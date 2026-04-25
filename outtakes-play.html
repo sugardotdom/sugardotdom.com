@@ -100,6 +100,12 @@
             z-index: 10;
         }
 
+        /* Prevent image saving - Mobile focus specific */
+        .mosaic-item img {
+            -webkit-user-select: none;
+            -webkit-touch-callout: none;
+        }
+
         .mosaic-item img:hover {
             filter: grayscale(0%);
             transform: scale(1.05);
@@ -128,11 +134,26 @@
         // Handle focused view on click for mobile
         const items = document.querySelectorAll('.mosaic-item');
         items.forEach(item => {
+            const img = item.querySelector('img');
+            
+            // Toggle focus on click
             item.addEventListener('click', () => {
-                // Remove focus from others
                 items.forEach(i => i.querySelector('img').classList.remove('focused'));
-                // Toggle focus on clicked
-                item.querySelector('img').classList.add('focused');
+                img.classList.add('focused');
+            });
+            
+            // Handle long-press (prevent native save, reveal full image)
+            let timer;
+            item.addEventListener('touchstart', (e) => {
+                timer = setTimeout(() => {
+                    img.classList.add('focused');
+                    img.style.objectFit = 'contain'; // Reveal without crop
+                    img.style.backgroundColor = 'black'; // Padding
+                }, 500); // 500ms for long-press
+            });
+            
+            item.addEventListener('touchend', () => {
+                clearTimeout(timer);
             });
         });
     </script>
