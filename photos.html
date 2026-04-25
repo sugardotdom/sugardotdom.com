@@ -132,6 +132,20 @@
             opacity: 1;
         }
 
+        .palette {
+            display: flex;
+            justify-content: flex-start;
+            gap: 0.3rem;
+            margin-top: 0.6rem;
+        }
+
+        .color-swatch {
+            width: 10px;
+            height: 10px;
+            border-radius: 2px;
+            border: 1px solid rgba(255,255,255,0.15);
+        }
+
         .meta-data {
             display: block;
             font-size: 0.55rem;
@@ -240,12 +254,17 @@
                     ? `<video src="pics/${img.filename}" autoplay loop muted playsinline disablePictureInPicture draggable="false"></video>` 
                     : `<img src="pics/${img.filename}" alt="${img.tags.join(', ')}" loading="lazy" draggable="false">`;
 
+                const paletteHtml = img.palette ? `<div class="palette">
+                    ${img.palette.map(c => `<div class="color-swatch" style="background-color: ${c}"></div>`).join('')}
+                </div>` : '';
+
                 card.innerHTML = `
                     ${mediaElement}
                     <div class="tags-overlay">
                         <div>${img.tags.join(' • ')}</div>
                         ${img.camera ? `<div class="meta-data">${img.camera.focalLength} • ${img.camera.fstop} • ${img.camera.iso}</div>` : ''}
                         ${img.location ? `<div class="meta-data">${img.location}</div>` : ''}
+                        ${paletteHtml}
                     </div>
                 `;
                 gallery.appendChild(card);

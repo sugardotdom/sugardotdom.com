@@ -131,7 +131,33 @@ async function processMedia() {
 
         let w = 0, h = 0;
         let rAvg = 128, gAvg = 128, bAvg = 128; // default middle gray
+        let palette = [];
         let outName = file;
+
+        function extractColors(imgObj) {
+          let rSum = 0, gSum = 0, bSum = 0, count = 0;
+          const colors = {};
+          imgObj.scan(0, 0, imgObj.bitmap.width, imgObj.bitmap.height, function(x, y, idx) {
+            const r = this.bitmap.data[idx + 0];
+            const g = this.bitmap.data[idx + 1];
+            const b = this.bitmap.data[idx + 2];
+            rSum += r; gSum += g; bSum += b;
+            count++;
+            
+            const rBin = Math.min(255, Math.round(r / 32) * 32);
+            const gBin = Math.min(255, Math.round(g / 32) * 32);
+            const bBin = Math.min(255, Math.round(b / 32) * 32);
+            const key = `${rBin},${gBin},${bBin}`;
+            colors[key] = (colors[key] || 0) + 1;
+          });
+          const sortedColors = Object.keys(colors).sort((a, b) => colors[b] - colors[a]).slice(0, 5);
+          return {
+            r: rSum / count,
+            g: gSum / count,
+            b: bSum / count,
+            p: sortedColors.map(k => `rgb(${k})`)
+          };
+        }
 
         if (isImage) {
           const image = await Jimp.read(filePath);
@@ -139,14 +165,9 @@ async function processMedia() {
           h = image.bitmap.height;
           
           image.resize(50, 50);
-          let rSum = 0, gSum = 0, bSum = 0, count = 0;
-          image.scan(0, 0, image.bitmap.width, image.bitmap.height, function(x, y, idx) {
-            rSum += this.bitmap.data[idx + 0];
-            gSum += this.bitmap.data[idx + 1];
-            bSum += this.bitmap.data[idx + 2];
-            count++;
-          });
-          rAvg = rSum / count; gAvg = gSum / count; bAvg = bSum / count;
+          const colorData = extractColors(image);
+          rAvg = colorData.r; gAvg = colorData.g; bAvg = colorData.b;
+          palette = colorData.p;
           
           // If image is not in picsDir, copy it there
           if (dir !== picsDir) {
@@ -187,19 +208,15 @@ async function processMedia() {
             
             if (fs.existsSync(tempFrame)) {
               const image = await Jimp.read(tempFrame);
-              let rSum = 0, gSum = 0, bSum = 0, count = 0;
-              image.scan(0, 0, image.bitmap.width, image.bitmap.height, function(x, y, idx) {
-                rSum += this.bitmap.data[idx + 0];
-                gSum += this.bitmap.data[idx + 1];
-                bSum += this.bitmap.data[idx + 2];
-                count++;
-              });
-              rAvg = rSum / count; gAvg = gSum / count; bAvg = bSum / count;
+              const colorData = extractColors(image);
+              rAvg = colorData.r; gAvg = colorData.g; bAvg = colorData.b;
+              palette = colorData.p;
               fs.unlinkSync(tempFrame);
             }
           } catch (err) {
             console.log(`Could not extract frame from ${file}, using default colors.`);
             rAvg = 40; gAvg = 40; bAvg = 40;
+            palette = ['rgb(40,40,40)', 'rgb(20,20,20)', 'rgb(60,60,60)'];
           }
         }
 
@@ -235,6 +252,7 @@ async function processMedia() {
 
         entry.tags = tags;
         entry.stats = { h: Math.round(hue), s: parseFloat(s.toFixed(2)), l: parseFloat(l.toFixed(2)) };
+        entry.palette = palette;
 
         // Generate Camera Settings Overlay
         const fstop = (Math.random() * (2.9 - 1.5) + 1.5).toFixed(1);

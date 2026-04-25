@@ -97,18 +97,55 @@
             height: auto;
             max-height: 80vh; /* Don't exceed screen height */
             object-fit: contain; /* Show full frame, don't crop */
-            filter: contrast(1.1) grayscale(0.1);
-            transition: transform 0.5s ease, filter 0.5s ease;
             user-select: none;
             -webkit-user-drag: none;
             pointer-events: none;
             background-color: #0c0c0c;
         }
 
-        .photo-card:hover img, .photo-card.in-view img,
-        .photo-card:hover video, .photo-card.in-view video {
-            transform: scale(1.05);
-            filter: contrast(1.2) grayscale(0);
+        .palette {
+            display: flex;
+            justify-content: flex-start;
+            gap: 0.4rem;
+            margin-top: 0.8rem;
+        }
+
+        .color-swatch {
+            width: 12px;
+            height: 12px;
+            border-radius: 2px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .graded-layer {
+            position: absolute;
+            top: 0; left: 0; bottom: 0;
+            width: 50%;
+            /* Apply a distinct cinematic grade */
+            backdrop-filter: contrast(1.15) saturate(1.3) sepia(0.1) brightness(0.9);
+            pointer-events: none;
+            border-right: 1px dashed rgba(255,255,255,0.5);
+            z-index: 5;
+        }
+
+        .wipe-slider {
+            position: absolute;
+            top: 0; left: 0; 
+            width: 100%; height: 100%;
+            appearance: none;
+            background: transparent;
+            outline: none;
+            z-index: 10;
+            cursor: ew-resize;
+            margin: 0;
+        }
+
+        .wipe-slider::-webkit-slider-thumb {
+            appearance: none;
+            width: 40px;
+            height: 100vh;
+            background: transparent;
+            cursor: ew-resize;
         }
 
         .tags-overlay {
@@ -222,15 +259,31 @@
                 card.className = 'photo-card';
 
                 const mediaElement = `<video src="pics/${img.filename}" autoplay loop muted playsinline disablePictureInPicture draggable="false"></video>`;
+                
+                const paletteHtml = img.palette ? `<div class="palette">
+                    ${img.palette.map(c => `<div class="color-swatch" style="background-color: ${c}"></div>`).join('')}
+                </div>` : '';
 
                 card.innerHTML = `
                     ${mediaElement}
+                    <div class="graded-layer"></div>
+                    <input type="range" min="0" max="100" value="50" class="wipe-slider" aria-label="Toggle Color Grade">
                     <div class="tags-overlay">
                         <div>${img.tags.join(' • ')}</div>
                         ${img.camera ? `<div class="meta-data">${img.camera.focalLength} • ${img.camera.fstop} • ${img.camera.iso}</div>` : ''}
                         ${img.location ? `<div class="meta-data">${img.location}</div>` : ''}
+                        ${paletteHtml}
                     </div>
                 `;
+                
+                const slider = card.querySelector('.wipe-slider');
+                const gradedLayer = card.querySelector('.graded-layer');
+                if (slider && gradedLayer) {
+                    slider.addEventListener('input', (e) => {
+                        gradedLayer.style.width = e.target.value + '%';
+                    });
+                }
+                
                 gallery.appendChild(card);
                 if (observer) observer.observe(card);
             });
