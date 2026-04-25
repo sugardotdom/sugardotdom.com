@@ -57,8 +57,8 @@ function optimizeVideo(inputPath, outputPath) {
     ffmpeg(inputPath)
       .outputOptions([
         '-c:v libx264',
-        '-preset fast',
-        '-crf 28',
+        '-preset slow',
+        '-crf 18', // visually lossless quality
         '-an', // mute audio
         '-pix_fmt yuv420p',
         '-movflags +faststart'
@@ -72,19 +72,31 @@ function optimizeVideo(inputPath, outputPath) {
 async function processMedia() {
   const galleryData = [];
   const dirs = [picsDir, vidsDir];
+  const seenSizes = new Set();
+  const outputFiles = new Set(Object.values(manifest).map(m => m.filename));
 
   for (const dir of dirs) {
     const files = fs.readdirSync(dir).filter(f => !f.startsWith('.'));
 
     for (const file of files) {
       const filePath = path.join(dir, file);
-      if (fs.statSync(filePath).isDirectory()) continue;
+      const stat = fs.statSync(filePath);
+      if (stat.isDirectory()) continue;
+
+      if (outputFiles.has(file)) continue; // skip previously generated output files
 
       const ext = path.extname(file).toLowerCase();
       const isVideo = ['.mp4', '.mov', '.webm'].includes(ext);
       const isImage = ['.jpg', '.jpeg', '.png', '.webp'].includes(ext);
 
       if (!isVideo && !isImage) continue;
+
+      const fileSize = stat.size;
+      if (seenSizes.has(fileSize)) {
+        console.log(`Skipping duplicate by file size: ${file}`);
+        continue;
+      }
+      seenSizes.add(fileSize);
 
       const hash = getFileHash(filePath);
 
@@ -142,11 +154,45 @@ async function processMedia() {
           }
           outName = `${hash}.mp4`;
           const outPath = path.join(picsDir, outName);
-          console.log(`Transcoding video ${file} to ${outName}...`);
-          await optimizeVideo(filePath, outPath);
+          
+          if (!fs.existsSync(outPath)) {
+            console.log(`Transcoding video ${file} to ${outName}...`);
+            await optimizeVideo(filePath, outPath);
+          }
 
-          // Moody default values for video
-          rAvg = 40; gAvg = 40; bAvg = 40; // Dark Noir
+          // Extract frame for color analysis
+          const tempFrameName = `temp_${hash}.jpg`;
+          const tempFrame = path.join(picsDir, tempFrameName);
+          
+          try {
+            await new Promise((resolve, reject) => {
+              ffmpeg(filePath)
+                .on('end', resolve)
+                .on('error', reject)
+                .screenshots({
+                  timestamps: ['20%'],
+                  filename: tempFrameName,
+                  folder: picsDir,
+                  size: '50x50'
+                });
+            });
+            
+            if (fs.existsSync(tempFrame)) {
+              const image = await Jimp.read(tempFrame);
+              let rSum = 0, gSum = 0, bSum = 0, count = 0;
+              image.scan(0, 0, image.bitmap.width, image.bitmap.height, function(x, y, idx) {
+                rSum += this.bitmap.data[idx + 0];
+                gSum += this.bitmap.data[idx + 1];
+                bSum += this.bitmap.data[idx + 2];
+                count++;
+              });
+              rAvg = rSum / count; gAvg = gSum / count; bAvg = bSum / count;
+              fs.unlinkSync(tempFrame);
+            }
+          } catch (err) {
+            console.log(`Could not extract frame from ${file}, using default colors.`);
+            rAvg = 40; gAvg = 40; bAvg = 40;
+          }
         }
 
         entry.filename = outName;
