@@ -120,29 +120,30 @@
             opacity: 1;
         }
 
-        .color-swatch {
+        .swatch-wrapper {
+            position: relative;
             width: 20px;
             height: 20px;
             border-radius: 3px;
             border: 1px solid rgba(255,255,255,0.3);
-            padding: 0;
             cursor: pointer;
-            background: none;
-            -webkit-appearance: none;
             transition: transform 0.2s ease;
+            overflow: hidden;
         }
         
-        .color-swatch:hover {
+        .swatch-wrapper:hover {
             transform: scale(1.2);
         }
 
-        .color-swatch::-webkit-color-swatch-wrapper {
+        .color-swatch-input {
+            position: absolute;
+            top: -10px; left: -10px;
+            width: 40px; height: 40px;
+            opacity: 0;
+            cursor: pointer;
             padding: 0;
-        }
-
-        .color-swatch::-webkit-color-swatch {
             border: none;
-            border-radius: 2px;
+            -webkit-appearance: none;
         }
 
         .graded-layer {
@@ -160,20 +161,33 @@
             position: absolute;
             top: 0; left: 0; 
             width: 100%; height: 100%;
+            -webkit-appearance: none;
             appearance: none;
             background: transparent;
             outline: none;
             z-index: 10;
             cursor: ew-resize;
             margin: 0;
+            padding: 0;
         }
 
         .wipe-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
             appearance: none;
             width: 40px;
             height: 100vh;
             background: transparent;
             cursor: ew-resize;
+            border: none;
+            border-radius: 0;
+        }
+
+        .wipe-slider::-moz-range-thumb {
+            width: 40px;
+            height: 100vh;
+            background: transparent;
+            cursor: ew-resize;
+            border: none;
         }
 
         .tags-overlay {
@@ -296,7 +310,9 @@
                 const mediaElement = `<video src="pics/${img.filename}" autoplay loop muted playsinline disablePictureInPicture draggable="false"></video>`;
                 
                 const paletteHtml = img.palette ? `<div class="palette" title="Open Color Picker">
-                    ${img.palette.map(c => `<input type="color" class="color-swatch" value="${rgbToHex(c)}" aria-label="Color Swatch">`).join('')}
+                    ${img.palette.map(c => `<div class="swatch-wrapper" style="background-color: ${rgbToHex(c)}">
+                        <input type="color" class="color-swatch-input" value="${rgbToHex(c)}" aria-label="Color Swatch">
+                    </div>`).join('')}
                 </div>` : '';
 
                 card.innerHTML = `

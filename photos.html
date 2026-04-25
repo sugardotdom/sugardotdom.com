@@ -149,29 +149,30 @@
             opacity: 1;
         }
 
-        .color-swatch {
+        .swatch-wrapper {
+            position: relative;
             width: 20px;
             height: 20px;
             border-radius: 3px;
             border: 1px solid rgba(255,255,255,0.3);
-            padding: 0;
             cursor: pointer;
-            background: none;
-            -webkit-appearance: none;
             transition: transform 0.2s ease;
+            overflow: hidden;
         }
         
-        .color-swatch:hover {
+        .swatch-wrapper:hover {
             transform: scale(1.2);
         }
 
-        .color-swatch::-webkit-color-swatch-wrapper {
+        .color-swatch-input {
+            position: absolute;
+            top: -10px; left: -10px;
+            width: 40px; height: 40px;
+            opacity: 0;
+            cursor: pointer;
             padding: 0;
-        }
-
-        .color-swatch::-webkit-color-swatch {
             border: none;
-            border-radius: 2px;
+            -webkit-appearance: none;
         }
 
         .meta-data {
@@ -290,7 +291,9 @@
                     : `<img src="pics/${img.filename}" alt="${img.tags.join(', ')}" loading="lazy" draggable="false">`;
 
                 const paletteHtml = img.palette ? `<div class="palette" title="Open Color Picker">
-                    ${img.palette.map(c => `<input type="color" class="color-swatch" value="${rgbToHex(c)}" aria-label="Color Swatch">`).join('')}
+                    ${img.palette.map(c => `<div class="swatch-wrapper" style="background-color: ${rgbToHex(c)}">
+                        <input type="color" class="color-swatch-input" value="${rgbToHex(c)}" aria-label="Color Swatch">
+                    </div>`).join('')}
                 </div>` : '';
 
                 card.innerHTML = `
