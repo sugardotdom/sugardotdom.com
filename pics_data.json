@@ -21,7 +21,14 @@
       "focalLength": "38mm",
       "iso": "ISO 300"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(160,128,96)",
+      "rgb(32,0,0)",
+      "rgb(64,32,32)",
+      "rgb(224,224,192)",
+      "rgb(0,0,0)"
+    ]
   },
   {
     "type": "image",
@@ -45,7 +52,14 @@
       "focalLength": "35mm",
       "iso": "ISO 200"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(255,255,255)",
+      "rgb(64,32,0)",
+      "rgb(64,32,32)",
+      "rgb(160,128,128)",
+      "rgb(160,160,128)"
+    ]
   },
   {
     "type": "image",
@@ -69,7 +83,14 @@
       "focalLength": "26mm",
       "iso": "ISO 700"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(160,160,160)",
+      "rgb(192,192,224)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -93,7 +114,14 @@
       "focalLength": "35mm",
       "iso": "ISO 1400"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(224,224,192)",
+      "rgb(96,64,64)",
+      "rgb(160,160,128)",
+      "rgb(96,96,64)",
+      "rgb(224,224,224)"
+    ]
   },
   {
     "type": "image",
@@ -117,7 +145,14 @@
       "focalLength": "31mm",
       "iso": "ISO 200"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,32,32)",
+      "rgb(0,32,32)",
+      "rgb(64,64,32)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -141,7 +176,14 @@
       "focalLength": "28mm",
       "iso": "ISO 400"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(128,96,96)",
+      "rgb(128,128,96)",
+      "rgb(96,96,64)",
+      "rgb(96,64,64)",
+      "rgb(160,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -165,7 +207,14 @@
       "focalLength": "30mm",
       "iso": "ISO 1500"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(192,192,160)",
+      "rgb(224,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -190,7 +239,14 @@
       "focalLength": "34mm",
       "iso": "ISO 300"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(128,128,96)",
+      "rgb(96,96,64)",
+      "rgb(128,96,96)",
+      "rgb(96,96,96)",
+      "rgb(0,0,0)"
+    ]
   },
   {
     "type": "image",
@@ -214,7 +270,14 @@
       "focalLength": "29mm",
       "iso": "ISO 500"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(224,224,192)",
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -238,7 +301,14 @@
       "focalLength": "25mm",
       "iso": "ISO 1500"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(32,0,0)",
+      "rgb(96,96,64)",
+      "rgb(192,192,160)",
+      "rgb(192,192,192)",
+      "rgb(192,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -262,7 +332,14 @@
       "focalLength": "29mm",
       "iso": "ISO 200"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(32,32,32)",
+      "rgb(192,192,192)",
+      "rgb(192,192,160)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -286,7 +363,14 @@
       "focalLength": "34mm",
       "iso": "ISO 1600"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(96,64,32)",
+      "rgb(128,128,128)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -310,7 +394,14 @@
       "focalLength": "33mm",
       "iso": "ISO 100"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,32,32)",
+      "rgb(64,64,64)",
+      "rgb(0,0,0)",
+      "rgb(96,96,64)"
+    ]
   },
   {
     "type": "image",
@@ -334,7 +425,14 @@
       "focalLength": "26mm",
       "iso": "ISO 700"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(32,0,0)",
+      "rgb(224,224,224)",
+      "rgb(255,255,255)",
+      "rgb(224,192,192)",
+      "rgb(64,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -358,7 +456,14 @@
       "focalLength": "30mm",
       "iso": "ISO 300"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(128,96,96)",
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(160,160,160)",
+      "rgb(160,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -382,7 +487,14 @@
       "focalLength": "26mm",
       "iso": "ISO 600"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(192,160,160)",
+      "rgb(192,192,192)",
+      "rgb(224,192,192)",
+      "rgb(64,32,32)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -406,7 +518,14 @@
       "focalLength": "27mm",
       "iso": "ISO 1300"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(96,64,64)",
+      "rgb(64,32,0)",
+      "rgb(64,32,32)",
+      "rgb(255,255,255)"
+    ]
   },
   {
     "type": "image",
@@ -430,7 +549,14 @@
       "focalLength": "37mm",
       "iso": "ISO 500"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(160,128,96)",
+      "rgb(128,96,96)",
+      "rgb(128,96,64)",
+      "rgb(32,32,32)",
+      "rgb(96,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -454,7 +580,14 @@
       "focalLength": "39mm",
       "iso": "ISO 1200"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(160,160,160)",
+      "rgb(64,64,32)"
+    ]
   },
   {
     "type": "image",
@@ -478,7 +611,14 @@
       "focalLength": "39mm",
       "iso": "ISO 600"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(128,96,64)"
+    ]
   },
   {
     "type": "image",
@@ -502,7 +642,14 @@
       "focalLength": "37mm",
       "iso": "ISO 300"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(32,32,32)",
+      "rgb(192,192,192)",
+      "rgb(128,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -526,7 +673,14 @@
       "focalLength": "28mm",
       "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(32,0,0)",
+      "rgb(64,32,32)",
+      "rgb(0,0,0)",
+      "rgb(32,32,0)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -550,7 +704,14 @@
       "focalLength": "39mm",
       "iso": "ISO 1300"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(160,160,128)",
+      "rgb(192,192,160)",
+      "rgb(32,32,32)",
+      "rgb(224,224,192)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -574,7 +735,14 @@
       "focalLength": "34mm",
       "iso": "ISO 200"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(96,64,64)",
+      "rgb(160,160,160)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -598,7 +766,14 @@
       "focalLength": "35mm",
       "iso": "ISO 700"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(96,64,32)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -622,7 +797,14 @@
       "focalLength": "40mm",
       "iso": "ISO 1100"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(160,160,160)",
+      "rgb(96,64,64)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -646,7 +828,14 @@
       "focalLength": "33mm",
       "iso": "ISO 900"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(255,255,255)",
+      "rgb(32,0,0)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -670,7 +859,14 @@
       "focalLength": "38mm",
       "iso": "ISO 100"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(64,64,64)",
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(64,64,32)",
+      "rgb(96,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -694,7 +890,14 @@
       "focalLength": "32mm",
       "iso": "ISO 500"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(128,128,96)",
+      "rgb(96,96,64)",
+      "rgb(64,32,32)",
+      "rgb(96,64,64)",
+      "rgb(128,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -719,7 +922,14 @@
       "focalLength": "27mm",
       "iso": "ISO 500"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(64,64,32)",
+      "rgb(64,32,32)",
+      "rgb(96,96,64)",
+      "rgb(96,64,64)",
+      "rgb(32,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -743,7 +953,14 @@
       "focalLength": "32mm",
       "iso": "ISO 300"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(160,160,128)",
+      "rgb(32,32,0)",
+      "rgb(192,192,160)",
+      "rgb(96,96,64)"
+    ]
   },
   {
     "type": "image",
@@ -767,7 +984,14 @@
       "focalLength": "35mm",
       "iso": "ISO 200"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(32,0,0)",
+      "rgb(0,0,0)",
+      "rgb(224,192,192)",
+      "rgb(96,64,32)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -791,7 +1015,14 @@
       "focalLength": "37mm",
       "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(32,0,0)",
+      "rgb(96,64,64)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -815,7 +1046,14 @@
       "focalLength": "36mm",
       "iso": "ISO 200"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(128,128,128)",
+      "rgb(64,32,32)",
+      "rgb(32,32,0)",
+      "rgb(160,160,160)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -839,7 +1077,14 @@
       "focalLength": "36mm",
       "iso": "ISO 1300"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(128,128,128)",
+      "rgb(160,160,160)",
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(128,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -863,7 +1108,14 @@
       "focalLength": "39mm",
       "iso": "ISO 200"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(32,0,0)",
+      "rgb(96,64,32)",
+      "rgb(96,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -888,7 +1140,14 @@
       "focalLength": "29mm",
       "iso": "ISO 200"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(0,0,0)",
+      "rgb(32,0,0)",
+      "rgb(32,32,32)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -912,7 +1171,14 @@
       "focalLength": "28mm",
       "iso": "ISO 100"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(32,32,0)",
+      "rgb(96,64,64)",
+      "rgb(32,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -936,7 +1202,14 @@
       "focalLength": "36mm",
       "iso": "ISO 500"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(96,64,32)",
+      "rgb(160,128,128)",
+      "rgb(160,160,128)",
+      "rgb(192,160,160)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -960,7 +1233,14 @@
       "focalLength": "37mm",
       "iso": "ISO 500"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(160,160,160)",
+      "rgb(128,128,128)",
+      "rgb(32,32,32)",
+      "rgb(255,255,255)"
+    ]
   },
   {
     "type": "image",
@@ -984,7 +1264,14 @@
       "focalLength": "31mm",
       "iso": "ISO 300"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(96,96,96)",
+      "rgb(32,0,0)",
+      "rgb(128,128,128)",
+      "rgb(0,0,0)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -1008,7 +1295,14 @@
       "focalLength": "26mm",
       "iso": "ISO 300"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(96,64,64)",
+      "rgb(224,192,192)",
+      "rgb(64,32,32)",
+      "rgb(32,32,0)",
+      "rgb(64,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -1032,7 +1326,14 @@
       "focalLength": "37mm",
       "iso": "ISO 800"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(192,192,160)",
+      "rgb(160,160,160)",
+      "rgb(224,224,192)",
+      "rgb(160,160,128)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -1056,7 +1357,14 @@
       "focalLength": "30mm",
       "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(128,96,96)",
+      "rgb(160,128,128)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -1080,7 +1388,14 @@
       "focalLength": "25mm",
       "iso": "ISO 200"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(96,64,64)",
+      "rgb(128,96,96)",
+      "rgb(192,192,160)",
+      "rgb(64,32,0)",
+      "rgb(96,96,64)"
+    ]
   },
   {
     "type": "image",
@@ -1104,7 +1419,14 @@
       "focalLength": "33mm",
       "iso": "ISO 200"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(160,160,160)",
+      "rgb(96,64,64)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -1128,7 +1450,14 @@
       "focalLength": "28mm",
       "iso": "ISO 100"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(32,0,0)",
+      "rgb(32,32,32)",
+      "rgb(224,224,224)",
+      "rgb(0,0,0)"
+    ]
   },
   {
     "type": "image",
@@ -1152,7 +1481,14 @@
       "focalLength": "40mm",
       "iso": "ISO 900"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(224,192,192)",
+      "rgb(255,255,255)",
+      "rgb(160,128,96)",
+      "rgb(192,160,160)",
+      "rgb(128,64,32)"
+    ]
   },
   {
     "type": "image",
@@ -1176,7 +1512,14 @@
       "focalLength": "37mm",
       "iso": "ISO 1400"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(192,192,160)",
+      "rgb(96,64,32)",
+      "rgb(192,160,128)",
+      "rgb(255,255,224)",
+      "rgb(160,128,96)"
+    ]
   },
   {
     "type": "image",
@@ -1200,7 +1543,14 @@
       "focalLength": "39mm",
       "iso": "ISO 100"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(96,96,96)",
+      "rgb(64,64,64)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -1225,7 +1575,14 @@
       "focalLength": "25mm",
       "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(32,0,0)",
+      "rgb(0,0,0)",
+      "rgb(32,32,0)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -1249,7 +1606,14 @@
       "focalLength": "34mm",
       "iso": "ISO 200"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(32,0,0)",
+      "rgb(128,128,128)",
+      "rgb(224,224,224)"
+    ]
   },
   {
     "type": "image",
@@ -1273,7 +1637,14 @@
       "focalLength": "39mm",
       "iso": "ISO 300"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(128,96,64)",
+      "rgb(32,0,0)",
+      "rgb(96,64,64)",
+      "rgb(96,64,32)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -1297,7 +1668,14 @@
       "focalLength": "38mm",
       "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(160,128,128)",
+      "rgb(160,160,128)",
+      "rgb(128,96,96)",
+      "rgb(128,128,96)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -1321,7 +1699,14 @@
       "focalLength": "40mm",
       "iso": "ISO 600"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(160,160,160)",
+      "rgb(96,64,64)",
+      "rgb(64,32,32)",
+      "rgb(32,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -1345,7 +1730,14 @@
       "focalLength": "29mm",
       "iso": "ISO 200"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(255,255,255)",
+      "rgb(96,64,64)",
+      "rgb(32,32,32)",
+      "rgb(96,64,32)",
+      "rgb(128,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -1369,7 +1761,14 @@
       "focalLength": "30mm",
       "iso": "ISO 200"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(160,160,160)",
+      "rgb(32,32,32)",
+      "rgb(192,160,192)",
+      "rgb(160,160,192)",
+      "rgb(96,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -1393,7 +1792,14 @@
       "focalLength": "32mm",
       "iso": "ISO 1500"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(224,224,192)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -1417,7 +1823,14 @@
       "focalLength": "36mm",
       "iso": "ISO 300"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(64,32,32)",
+      "rgb(160,192,192)",
+      "rgb(160,160,160)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -1441,7 +1854,14 @@
       "focalLength": "25mm",
       "iso": "ISO 700"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(160,160,128)",
+      "rgb(224,224,224)",
+      "rgb(32,0,0)",
+      "rgb(255,255,224)",
+      "rgb(96,96,64)"
+    ]
   },
   {
     "type": "image",
@@ -1465,7 +1885,14 @@
       "focalLength": "28mm",
       "iso": "ISO 300"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(64,32,0)",
+      "rgb(160,160,160)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -1489,7 +1916,14 @@
       "focalLength": "30mm",
       "iso": "ISO 1400"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(128,96,64)",
+      "rgb(224,224,224)",
+      "rgb(224,192,192)",
+      "rgb(255,255,255)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -1513,7 +1947,14 @@
       "focalLength": "39mm",
       "iso": "ISO 300"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(32,64,64)",
+      "rgb(32,32,64)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -1537,7 +1978,14 @@
       "focalLength": "40mm",
       "iso": "ISO 500"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(192,224,224)",
+      "rgb(160,160,160)",
+      "rgb(128,128,96)"
+    ]
   },
   {
     "type": "image",
@@ -1561,7 +2009,14 @@
       "focalLength": "36mm",
       "iso": "ISO 300"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(64,64,64)",
+      "rgb(64,32,32)",
+      "rgb(96,64,64)",
+      "rgb(128,96,96)",
+      "rgb(128,96,64)"
+    ]
   },
   {
     "type": "image",
@@ -1585,7 +2040,14 @@
       "focalLength": "31mm",
       "iso": "ISO 600"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(192,160,160)",
+      "rgb(32,0,0)",
+      "rgb(224,192,192)",
+      "rgb(160,128,128)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -1609,7 +2071,14 @@
       "focalLength": "28mm",
       "iso": "ISO 1200"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(224,224,192)",
+      "rgb(96,64,32)",
+      "rgb(224,192,192)",
+      "rgb(192,192,160)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -1633,7 +2102,14 @@
       "focalLength": "31mm",
       "iso": "ISO 1300"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(255,255,255)",
+      "rgb(96,64,32)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -1657,7 +2133,14 @@
       "focalLength": "29mm",
       "iso": "ISO 500"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(192,160,160)",
+      "rgb(160,160,160)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -1681,7 +2164,14 @@
       "focalLength": "36mm",
       "iso": "ISO 1200"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(128,128,128)",
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -1705,7 +2195,14 @@
       "focalLength": "39mm",
       "iso": "ISO 400"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(32,0,0)",
+      "rgb(32,32,32)",
+      "rgb(255,255,255)",
+      "rgb(224,224,192)"
+    ]
   },
   {
     "type": "image",
@@ -1730,7 +2227,14 @@
       "focalLength": "25mm",
       "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(32,32,0)",
+      "rgb(64,64,32)",
+      "rgb(32,0,0)"
+    ]
   },
   {
     "type": "image",
@@ -1754,7 +2258,14 @@
       "focalLength": "25mm",
       "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(32,32,0)",
+      "rgb(224,192,192)",
+      "rgb(224,224,224)",
+      "rgb(32,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -1778,7 +2289,14 @@
       "focalLength": "37mm",
       "iso": "ISO 1000"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(224,192,192)",
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(224,224,192)",
+      "rgb(192,192,160)"
+    ]
   },
   {
     "type": "image",
@@ -1802,7 +2320,14 @@
       "focalLength": "38mm",
       "iso": "ISO 1400"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(160,160,160)",
+      "rgb(192,192,192)",
+      "rgb(96,64,64)",
+      "rgb(192,160,160)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -1826,7 +2351,14 @@
       "focalLength": "32mm",
       "iso": "ISO 1600"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(160,128,128)",
+      "rgb(64,32,32)",
+      "rgb(96,64,32)",
+      "rgb(64,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -1850,7 +2382,14 @@
       "focalLength": "34mm",
       "iso": "ISO 1200"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(64,64,64)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -1874,7 +2413,14 @@
       "focalLength": "26mm",
       "iso": "ISO 300"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(224,192,192)",
+      "rgb(192,192,160)",
+      "rgb(192,160,160)",
+      "rgb(32,32,0)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -1898,7 +2444,14 @@
       "focalLength": "30mm",
       "iso": "ISO 500"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(224,224,224)",
+      "rgb(128,128,128)",
+      "rgb(96,96,96)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -1922,7 +2475,14 @@
       "focalLength": "28mm",
       "iso": "ISO 400"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(32,32,0)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -1946,7 +2506,14 @@
       "focalLength": "29mm",
       "iso": "ISO 1200"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(128,128,128)",
+      "rgb(160,128,160)",
+      "rgb(192,160,192)"
+    ]
   },
   {
     "type": "image",
@@ -1970,7 +2537,14 @@
       "focalLength": "29mm",
       "iso": "ISO 700"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(224,192,192)",
+      "rgb(64,32,32)",
+      "rgb(192,160,160)",
+      "rgb(96,64,64)",
+      "rgb(224,224,224)"
+    ]
   },
   {
     "type": "image",
@@ -1994,7 +2568,14 @@
       "focalLength": "27mm",
       "iso": "ISO 1400"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(192,160,160)",
+      "rgb(255,255,255)",
+      "rgb(160,160,128)",
+      "rgb(96,64,32)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -2018,7 +2599,14 @@
       "focalLength": "27mm",
       "iso": "ISO 300"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(64,32,0)",
+      "rgb(64,32,32)",
+      "rgb(0,0,0)"
+    ]
   },
   {
     "type": "image",
@@ -2042,7 +2630,14 @@
       "focalLength": "29mm",
       "iso": "ISO 1400"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(64,32,32)",
+      "rgb(224,224,224)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -2066,7 +2661,14 @@
       "focalLength": "30mm",
       "iso": "ISO 200"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(96,64,32)",
+      "rgb(96,64,64)",
+      "rgb(64,64,64)",
+      "rgb(224,224,224)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -2091,7 +2693,14 @@
       "focalLength": "31mm",
       "iso": "ISO 200"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(32,32,0)",
+      "rgb(128,128,96)",
+      "rgb(32,32,32)",
+      "rgb(64,64,32)",
+      "rgb(64,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -2115,7 +2724,14 @@
       "focalLength": "38mm",
       "iso": "ISO 1500"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(64,32,32)",
+      "rgb(224,224,224)",
+      "rgb(192,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -2139,7 +2755,14 @@
       "focalLength": "37mm",
       "iso": "ISO 1400"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(192,160,160)",
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(224,192,192)",
+      "rgb(192,192,160)"
+    ]
   },
   {
     "type": "image",
@@ -2163,7 +2786,14 @@
       "focalLength": "30mm",
       "iso": "ISO 400"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(160,160,160)",
+      "rgb(96,64,32)",
+      "rgb(64,32,32)",
+      "rgb(128,128,128)",
+      "rgb(96,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -2187,7 +2817,14 @@
       "focalLength": "36mm",
       "iso": "ISO 1000"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(224,255,255)",
+      "rgb(192,192,192)",
+      "rgb(255,255,255)",
+      "rgb(160,128,96)"
+    ]
   },
   {
     "type": "image",
@@ -2211,7 +2848,14 @@
       "focalLength": "36mm",
       "iso": "ISO 1300"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(96,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -2235,7 +2879,14 @@
       "focalLength": "26mm",
       "iso": "ISO 1200"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(96,32,32)",
+      "rgb(224,224,224)",
+      "rgb(96,64,32)",
+      "rgb(128,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -2259,7 +2910,14 @@
       "focalLength": "36mm",
       "iso": "ISO 900"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(96,64,64)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -2283,7 +2941,14 @@
       "focalLength": "25mm",
       "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,0,0)",
+      "rgb(64,32,32)",
+      "rgb(32,32,0)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -2307,7 +2972,14 @@
       "focalLength": "31mm",
       "iso": "ISO 200"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(96,64,64)",
+      "rgb(64,64,64)",
+      "rgb(64,32,32)",
+      "rgb(64,64,32)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -2331,7 +3003,14 @@
       "focalLength": "29mm",
       "iso": "ISO 900"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(224,224,255)",
+      "rgb(255,255,255)"
+    ]
   },
   {
     "type": "image",
@@ -2355,7 +3034,14 @@
       "focalLength": "27mm",
       "iso": "ISO 200"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(32,32,32)",
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -2379,7 +3065,14 @@
       "focalLength": "32mm",
       "iso": "ISO 600"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(128,96,96)",
+      "rgb(224,192,192)",
+      "rgb(96,64,64)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -2403,7 +3096,14 @@
       "focalLength": "30mm",
       "iso": "ISO 200"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(128,96,96)",
+      "rgb(96,96,96)",
+      "rgb(160,128,128)",
+      "rgb(192,160,160)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -2427,7 +3127,14 @@
       "focalLength": "37mm",
       "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(32,0,0)",
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -2451,7 +3158,14 @@
       "focalLength": "27mm",
       "iso": "ISO 1000"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(96,96,96)",
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(64,64,64)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -2475,7 +3189,14 @@
       "focalLength": "32mm",
       "iso": "ISO 1600"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(96,96,96)",
+      "rgb(160,160,160)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -2499,7 +3220,14 @@
       "focalLength": "34mm",
       "iso": "ISO 100"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(128,96,96)",
+      "rgb(192,192,192)",
+      "rgb(96,64,64)",
+      "rgb(32,0,0)"
+    ]
   },
   {
     "type": "image",
@@ -2523,7 +3251,14 @@
       "focalLength": "28mm",
       "iso": "ISO 500"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(224,224,224)",
+      "rgb(32,32,0)",
+      "rgb(192,160,160)",
+      "rgb(224,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -2547,7 +3282,14 @@
       "focalLength": "33mm",
       "iso": "ISO 100"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,0,0)",
+      "rgb(96,64,32)",
+      "rgb(128,96,64)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -2571,7 +3313,14 @@
       "focalLength": "38mm",
       "iso": "ISO 300"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(32,32,0)",
+      "rgb(224,224,224)",
+      "rgb(32,0,0)",
+      "rgb(0,0,0)"
+    ]
   },
   {
     "type": "image",
@@ -2596,7 +3345,14 @@
       "focalLength": "36mm",
       "iso": "ISO 500"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(96,96,64)",
+      "rgb(64,64,64)",
+      "rgb(128,96,96)",
+      "rgb(32,0,0)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -2620,7 +3376,14 @@
       "focalLength": "27mm",
       "iso": "ISO 400"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(128,128,128)",
+      "rgb(64,32,32)",
+      "rgb(96,96,96)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -2644,7 +3407,14 @@
       "focalLength": "29mm",
       "iso": "ISO 500"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(64,64,64)",
+      "rgb(96,96,96)",
+      "rgb(64,32,32)",
+      "rgb(32,0,0)",
+      "rgb(224,224,224)"
+    ]
   },
   {
     "type": "image",
@@ -2668,7 +3438,14 @@
       "focalLength": "39mm",
       "iso": "ISO 300"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(192,192,192)",
+      "rgb(192,192,160)",
+      "rgb(32,0,0)",
+      "rgb(32,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -2692,7 +3469,14 @@
       "focalLength": "37mm",
       "iso": "ISO 200"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(64,64,64)",
+      "rgb(160,160,160)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -2716,7 +3500,14 @@
       "focalLength": "38mm",
       "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(96,96,64)",
+      "rgb(32,0,0)",
+      "rgb(96,64,64)",
+      "rgb(64,64,32)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -2740,7 +3531,14 @@
       "focalLength": "28mm",
       "iso": "ISO 100"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,64,64)",
+      "rgb(0,32,32)",
+      "rgb(64,32,32)",
+      "rgb(96,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -2764,7 +3562,14 @@
       "focalLength": "33mm",
       "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(96,96,96)",
+      "rgb(0,0,0)",
+      "rgb(96,64,64)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -2788,7 +3593,14 @@
       "focalLength": "32mm",
       "iso": "ISO 1400"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(192,192,160)",
+      "rgb(160,160,160)",
+      "rgb(160,160,128)",
+      "rgb(192,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -2812,7 +3624,14 @@
       "focalLength": "40mm",
       "iso": "ISO 300"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(224,224,224)",
+      "rgb(32,32,0)",
+      "rgb(64,32,32)",
+      "rgb(0,0,0)"
+    ]
   },
   {
     "type": "video",
@@ -2837,7 +3656,14 @@
       "focalLength": "33mm",
       "iso": "ISO 300"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(32,0,32)",
+      "rgb(192,192,160)",
+      "rgb(0,0,0)",
+      "rgb(32,0,0)",
+      "rgb(32,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -2862,7 +3688,14 @@
       "focalLength": "30mm",
       "iso": "ISO 200"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(32,32,0)",
+      "rgb(32,32,32)",
+      "rgb(32,0,0)",
+      "rgb(64,96,96)",
+      "rgb(255,224,224)"
+    ]
   },
   {
     "type": "video",
@@ -2887,7 +3720,14 @@
       "focalLength": "29mm",
       "iso": "ISO 300"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(192,192,160)",
+      "rgb(192,160,128)",
+      "rgb(224,192,160)",
+      "rgb(192,160,160)",
+      "rgb(96,64,32)"
+    ]
   },
   {
     "type": "video",
@@ -2912,7 +3752,14 @@
       "focalLength": "39mm",
       "iso": "ISO 1400"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(32,0,0)",
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(255,255,255)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "video",
@@ -2937,7 +3784,14 @@
       "focalLength": "40mm",
       "iso": "ISO 300"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(32,32,32)",
+      "rgb(0,0,0)"
+    ]
   },
   {
     "type": "video",
@@ -2962,7 +3816,14 @@
       "focalLength": "26mm",
       "iso": "ISO 300"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,64,64)",
+      "rgb(64,32,32)",
+      "rgb(96,96,96)",
+      "rgb(64,64,32)"
+    ]
   },
   {
     "type": "video",
@@ -2987,7 +3848,14 @@
       "focalLength": "29mm",
       "iso": "ISO 1400"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(160,160,160)",
+      "rgb(160,160,192)",
+      "rgb(255,255,255)",
+      "rgb(224,224,224)",
+      "rgb(128,96,96)"
+    ]
   },
   {
     "type": "video",
@@ -3012,7 +3880,14 @@
       "focalLength": "28mm",
       "iso": "ISO 200"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(96,64,64)",
+      "rgb(64,32,32)",
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(32,0,32)"
+    ]
   },
   {
     "type": "image",
@@ -3036,7 +3911,14 @@
       "focalLength": "25mm",
       "iso": "ISO 200"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,0,0)",
+      "rgb(96,64,32)",
+      "rgb(128,96,64)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -3060,7 +3942,14 @@
       "focalLength": "32mm",
       "iso": "ISO 200"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(160,160,160)",
+      "rgb(96,64,32)",
+      "rgb(64,32,32)",
+      "rgb(128,128,128)",
+      "rgb(96,96,96)"
+    ]
   },
   {
     "type": "video",
@@ -3086,7 +3975,14 @@
       "focalLength": "39mm",
       "iso": "ISO 500"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,64,32)",
+      "rgb(64,32,32)",
+      "rgb(0,0,0)",
+      "rgb(96,64,32)"
+    ]
   },
   {
     "type": "video",
@@ -3112,7 +4008,14 @@
       "focalLength": "30mm",
       "iso": "ISO 200"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,0,0)",
+      "rgb(32,0,0)",
+      "rgb(96,64,32)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -3136,7 +4039,14 @@
       "focalLength": "26mm",
       "iso": "ISO 800"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(96,64,64)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "video",
@@ -3161,7 +4071,14 @@
       "focalLength": "32mm",
       "iso": "ISO 300"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,32,32)",
+      "rgb(64,64,64)",
+      "rgb(96,96,96)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -3185,7 +4102,14 @@
       "focalLength": "32mm",
       "iso": "ISO 300"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(64,32,32)",
+      "rgb(160,192,192)",
+      "rgb(160,160,160)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "video",
@@ -3210,7 +4134,14 @@
       "focalLength": "33mm",
       "iso": "ISO 1200"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(224,224,192)",
+      "rgb(64,32,32)",
+      "rgb(32,32,32)",
+      "rgb(224,192,192)",
+      "rgb(192,192,160)"
+    ]
   },
   {
     "type": "image",
@@ -3234,7 +4165,14 @@
       "focalLength": "25mm",
       "iso": "ISO 1100"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(224,255,255)",
+      "rgb(192,192,192)",
+      "rgb(255,255,255)",
+      "rgb(160,128,96)"
+    ]
   },
   {
     "type": "image",
@@ -3259,7 +4197,14 @@
       "focalLength": "33mm",
       "iso": "ISO 300"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(32,32,0)",
+      "rgb(128,128,96)",
+      "rgb(32,32,32)",
+      "rgb(64,64,32)",
+      "rgb(64,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -3283,7 +4228,14 @@
       "focalLength": "35mm",
       "iso": "ISO 600"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(96,96,96)",
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(64,64,64)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -3308,7 +4260,14 @@
       "focalLength": "38mm",
       "iso": "ISO 200"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(64,64,32)",
+      "rgb(64,32,32)",
+      "rgb(96,96,64)",
+      "rgb(96,64,64)",
+      "rgb(32,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -3334,7 +4293,14 @@
       "focalLength": "26mm",
       "iso": "ISO 200"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,32,32)",
+      "rgb(32,32,0)",
+      "rgb(64,64,32)",
+      "rgb(128,96,64)"
+    ]
   },
   {
     "type": "image",
@@ -3358,7 +4324,14 @@
       "focalLength": "38mm",
       "iso": "ISO 1500"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(224,224,192)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -3382,7 +4355,14 @@
       "focalLength": "38mm",
       "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(64,64,64)",
+      "rgb(64,32,32)",
+      "rgb(96,64,64)",
+      "rgb(128,96,96)",
+      "rgb(128,96,64)"
+    ]
   },
   {
     "type": "video",
@@ -3407,7 +4387,14 @@
       "focalLength": "39mm",
       "iso": "ISO 700"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(32,32,32)",
+      "rgb(32,0,0)"
+    ]
   },
   {
     "type": "video",
@@ -3432,7 +4419,14 @@
       "focalLength": "33mm",
       "iso": "ISO 1400"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(128,128,128)",
+      "rgb(96,96,96)",
+      "rgb(32,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -3456,7 +4450,14 @@
       "focalLength": "27mm",
       "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(32,32,0)",
+      "rgb(96,64,64)",
+      "rgb(32,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -3480,7 +4481,14 @@
       "focalLength": "35mm",
       "iso": "ISO 1100"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(96,64,32)",
+      "rgb(160,128,128)",
+      "rgb(160,160,128)",
+      "rgb(192,160,160)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -3504,7 +4512,14 @@
       "focalLength": "39mm",
       "iso": "ISO 200"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(32,32,32)",
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "video",
@@ -3529,7 +4544,14 @@
       "focalLength": "30mm",
       "iso": "ISO 1400"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(255,255,255)",
+      "rgb(224,192,160)",
+      "rgb(255,255,224)",
+      "rgb(96,32,32)",
+      "rgb(160,96,64)"
+    ]
   },
   {
     "type": "video",
@@ -3554,7 +4576,14 @@
       "focalLength": "38mm",
       "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(224,224,192)",
+      "rgb(32,32,32)",
+      "rgb(96,64,64)",
+      "rgb(96,96,64)"
+    ]
   },
   {
     "type": "video",
@@ -3579,7 +4608,14 @@
       "focalLength": "30mm",
       "iso": "ISO 400"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(128,96,96)",
+      "rgb(128,128,96)",
+      "rgb(96,96,64)",
+      "rgb(160,128,128)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -3603,7 +4639,14 @@
       "focalLength": "26mm",
       "iso": "ISO 400"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(96,96,96)",
+      "rgb(0,0,0)",
+      "rgb(64,32,32)",
+      "rgb(32,0,0)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -3627,7 +4670,14 @@
       "focalLength": "32mm",
       "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(32,32,0)",
+      "rgb(224,192,192)",
+      "rgb(224,224,224)",
+      "rgb(32,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -3652,7 +4702,14 @@
       "focalLength": "39mm",
       "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,32,32)",
+      "rgb(0,0,32)",
+      "rgb(0,32,32)",
+      "rgb(32,64,64)"
+    ]
   },
   {
     "type": "video",
@@ -3677,7 +4734,14 @@
       "focalLength": "38mm",
       "iso": "ISO 500"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(192,160,160)",
+      "rgb(32,0,0)",
+      "rgb(64,64,32)",
+      "rgb(192,160,128)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -3701,7 +4765,14 @@
       "focalLength": "35mm",
       "iso": "ISO 400"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(160,160,160)",
+      "rgb(128,128,128)",
+      "rgb(32,32,32)",
+      "rgb(255,255,255)"
+    ]
   },
   {
     "type": "image",
@@ -3725,7 +4796,14 @@
       "focalLength": "26mm",
       "iso": "ISO 400"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(96,64,64)",
+      "rgb(160,160,160)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "video",
@@ -3750,7 +4828,14 @@
       "focalLength": "29mm",
       "iso": "ISO 200"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,32,32)",
+      "rgb(96,64,32)",
+      "rgb(64,32,32)",
+      "rgb(64,64,32)"
+    ]
   },
   {
     "type": "image",
@@ -3774,7 +4859,14 @@
       "focalLength": "35mm",
       "iso": "ISO 1000"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(224,192,192)",
+      "rgb(255,255,255)",
+      "rgb(160,128,96)",
+      "rgb(192,160,160)",
+      "rgb(128,64,32)"
+    ]
   },
   {
     "type": "video",
@@ -3799,7 +4891,14 @@
       "focalLength": "32mm",
       "iso": "ISO 200"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(64,64,64)",
+      "rgb(128,128,128)",
+      "rgb(32,32,32)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "video",
@@ -3825,7 +4924,14 @@
       "focalLength": "39mm",
       "iso": "ISO 300"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(96,96,96)",
+      "rgb(128,96,96)",
+      "rgb(0,0,0)",
+      "rgb(32,32,0)",
+      "rgb(128,128,96)"
+    ]
   },
   {
     "type": "image",
@@ -3849,7 +4955,14 @@
       "focalLength": "35mm",
       "iso": "ISO 1500"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(224,224,255)",
+      "rgb(64,32,32)",
+      "rgb(96,64,32)",
+      "rgb(96,96,96)"
+    ]
   },
   {
     "type": "video",
@@ -3874,7 +4987,14 @@
       "focalLength": "31mm",
       "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,32,32)",
+      "rgb(64,64,64)",
+      "rgb(96,96,96)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -3900,7 +5020,14 @@
       "focalLength": "32mm",
       "iso": "ISO 400"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,32,32)",
+      "rgb(32,0,0)",
+      "rgb(160,128,96)",
+      "rgb(128,96,64)"
+    ]
   },
   {
     "type": "image",
@@ -3924,7 +5051,14 @@
       "focalLength": "37mm",
       "iso": "ISO 100"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(160,160,160)",
+      "rgb(96,64,64)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "video",
@@ -3949,7 +5083,14 @@
       "focalLength": "34mm",
       "iso": "ISO 300"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(64,64,64)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -3973,7 +5114,14 @@
       "focalLength": "32mm",
       "iso": "ISO 200"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(96,64,64)",
+      "rgb(64,64,64)",
+      "rgb(64,32,32)",
+      "rgb(64,64,32)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "video",
@@ -3998,7 +5146,14 @@
       "focalLength": "30mm",
       "iso": "ISO 400"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,32,32)",
+      "rgb(0,0,0)",
+      "rgb(0,0,32)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -4022,7 +5177,14 @@
       "focalLength": "34mm",
       "iso": "ISO 1400"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(128,96,64)",
+      "rgb(224,224,224)",
+      "rgb(224,192,192)",
+      "rgb(255,255,255)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "video",
@@ -4047,7 +5209,14 @@
       "focalLength": "35mm",
       "iso": "ISO 1300"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(224,224,192)",
+      "rgb(0,0,0)",
+      "rgb(192,192,192)",
+      "rgb(192,192,160)",
+      "rgb(192,224,192)"
+    ]
   },
   {
     "type": "video",
@@ -4072,7 +5241,14 @@
       "focalLength": "31mm",
       "iso": "ISO 300"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(96,64,64)",
+      "rgb(192,192,160)",
+      "rgb(224,192,192)",
+      "rgb(192,192,192)",
+      "rgb(192,160,160)"
+    ]
   },
   {
     "type": "video",
@@ -4098,7 +5274,14 @@
       "focalLength": "28mm",
       "iso": "ISO 100"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(96,64,64)",
+      "rgb(128,96,64)"
+    ]
   },
   {
     "type": "video",
@@ -4124,7 +5307,14 @@
       "focalLength": "38mm",
       "iso": "ISO 300"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(96,64,64)",
+      "rgb(64,32,32)",
+      "rgb(96,32,32)",
+      "rgb(96,64,32)"
+    ]
   },
   {
     "type": "image",
@@ -4148,7 +5338,14 @@
       "focalLength": "28mm",
       "iso": "ISO 600"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(96,64,64)",
+      "rgb(64,32,0)",
+      "rgb(64,32,32)",
+      "rgb(255,255,255)"
+    ]
   },
   {
     "type": "video",
@@ -4173,7 +5370,14 @@
       "focalLength": "35mm",
       "iso": "ISO 1200"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(64,64,64)",
+      "rgb(96,64,64)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -4197,7 +5401,14 @@
       "focalLength": "40mm",
       "iso": "ISO 700"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(160,160,160)",
+      "rgb(192,192,192)",
+      "rgb(96,64,64)",
+      "rgb(192,160,160)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -4221,7 +5432,14 @@
       "focalLength": "31mm",
       "iso": "ISO 1500"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(192,224,224)",
+      "rgb(160,160,160)",
+      "rgb(128,128,96)"
+    ]
   },
   {
     "type": "image",
@@ -4245,7 +5463,14 @@
       "focalLength": "40mm",
       "iso": "ISO 200"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(192,192,192)",
+      "rgb(192,192,160)",
+      "rgb(32,0,0)",
+      "rgb(32,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -4270,7 +5495,14 @@
       "focalLength": "38mm",
       "iso": "ISO 1200"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(160,160,128)",
+      "rgb(192,160,160)",
+      "rgb(192,192,160)",
+      "rgb(32,0,0)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -4294,7 +5526,14 @@
       "focalLength": "34mm",
       "iso": "ISO 1400"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(160,160,160)",
+      "rgb(96,64,64)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "video",
@@ -4319,7 +5558,14 @@
       "focalLength": "28mm",
       "iso": "ISO 400"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,0,0)",
+      "rgb(64,64,64)",
+      "rgb(96,96,96)",
+      "rgb(0,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -4344,7 +5590,14 @@
       "focalLength": "30mm",
       "iso": "ISO 100"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(96,64,32)",
+      "rgb(128,96,96)",
+      "rgb(96,64,64)",
+      "rgb(192,192,160)"
+    ]
   },
   {
     "type": "video",
@@ -4370,7 +5623,14 @@
       "focalLength": "39mm",
       "iso": "ISO 200"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,0,32)",
+      "rgb(64,32,32)",
+      "rgb(32,0,32)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -4394,7 +5654,14 @@
       "focalLength": "34mm",
       "iso": "ISO 600"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(224,192,192)",
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(224,224,192)",
+      "rgb(192,192,160)"
+    ]
   },
   {
     "type": "image",
@@ -4418,7 +5685,14 @@
       "focalLength": "31mm",
       "iso": "ISO 1500"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(255,255,255)",
+      "rgb(32,0,0)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -4442,7 +5716,14 @@
       "focalLength": "31mm",
       "iso": "ISO 200"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(224,224,224)",
+      "rgb(128,128,128)",
+      "rgb(96,96,96)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "video",
@@ -4467,7 +5748,14 @@
       "focalLength": "40mm",
       "iso": "ISO 400"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(64,64,64)",
+      "rgb(96,96,96)",
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(64,64,32)"
+    ]
   },
   {
     "type": "video",
@@ -4492,7 +5780,14 @@
       "focalLength": "34mm",
       "iso": "ISO 500"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,64,64)",
+      "rgb(32,0,0)",
+      "rgb(64,96,96)",
+      "rgb(0,0,0)"
+    ]
   },
   {
     "type": "image",
@@ -4516,7 +5811,14 @@
       "focalLength": "40mm",
       "iso": "ISO 200"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(32,32,0)",
+      "rgb(224,224,224)",
+      "rgb(32,0,0)",
+      "rgb(0,0,0)"
+    ]
   },
   {
     "type": "video",
@@ -4541,7 +5843,14 @@
       "focalLength": "39mm",
       "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(32,32,32)",
+      "rgb(96,64,64)",
+      "rgb(32,0,0)"
+    ]
   },
   {
     "type": "image",
@@ -4565,7 +5874,14 @@
       "focalLength": "39mm",
       "iso": "ISO 900"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(224,224,255)",
+      "rgb(255,255,255)"
+    ]
   },
   {
     "type": "video",
@@ -4590,7 +5906,14 @@
       "focalLength": "25mm",
       "iso": "ISO 500"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(0,32,32)",
+      "rgb(32,32,32)",
+      "rgb(96,96,96)",
+      "rgb(64,64,64)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -4614,7 +5937,14 @@
       "focalLength": "35mm",
       "iso": "ISO 1100"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(96,96,96)",
+      "rgb(160,160,160)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -4638,7 +5968,14 @@
       "focalLength": "35mm",
       "iso": "ISO 900"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(192,160,160)",
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(224,192,192)",
+      "rgb(192,192,160)"
+    ]
   },
   {
     "type": "image",
@@ -4663,7 +6000,14 @@
       "focalLength": "29mm",
       "iso": "ISO 300"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(32,32,0)",
+      "rgb(64,64,32)",
+      "rgb(32,0,0)"
+    ]
   },
   {
     "type": "video",
@@ -4688,7 +6032,14 @@
       "focalLength": "40mm",
       "iso": "ISO 500"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(64,64,32)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "video",
@@ -4713,7 +6064,14 @@
       "focalLength": "26mm",
       "iso": "ISO 1000"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(192,160,160)",
+      "rgb(128,96,96)",
+      "rgb(160,128,128)",
+      "rgb(224,224,224)"
+    ]
   },
   {
     "type": "image",
@@ -4737,7 +6095,14 @@
       "focalLength": "33mm",
       "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(192,160,160)",
+      "rgb(160,160,160)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "video",
@@ -4762,7 +6127,14 @@
       "focalLength": "40mm",
       "iso": "ISO 200"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(32,0,0)",
+      "rgb(96,64,64)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -4786,7 +6158,14 @@
       "focalLength": "38mm",
       "iso": "ISO 100"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(96,96,96)",
+      "rgb(32,0,0)",
+      "rgb(128,128,128)",
+      "rgb(0,0,0)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "video",
@@ -4811,7 +6190,14 @@
       "focalLength": "27mm",
       "iso": "ISO 300"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(96,64,64)",
+      "rgb(32,0,0)"
+    ]
   },
   {
     "type": "image",
@@ -4835,7 +6221,14 @@
       "focalLength": "35mm",
       "iso": "ISO 500"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(128,96,64)",
+      "rgb(32,0,0)",
+      "rgb(96,64,64)",
+      "rgb(96,64,32)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "video",
@@ -4860,7 +6253,14 @@
       "focalLength": "39mm",
       "iso": "ISO 1300"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(96,64,64)",
+      "rgb(255,255,255)",
+      "rgb(128,96,96)",
+      "rgb(224,224,224)"
+    ]
   },
   {
     "type": "image",
@@ -4884,7 +6284,14 @@
       "focalLength": "39mm",
       "iso": "ISO 300"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(64,32,0)",
+      "rgb(160,160,160)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -4908,7 +6315,14 @@
       "focalLength": "34mm",
       "iso": "ISO 1300"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(128,128,128)",
+      "rgb(160,128,160)",
+      "rgb(192,160,192)"
+    ]
   },
   {
     "type": "video",
@@ -4933,7 +6347,14 @@
       "focalLength": "26mm",
       "iso": "ISO 200"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,0,0)",
+      "rgb(64,64,64)",
+      "rgb(0,0,32)",
+      "rgb(0,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -4958,7 +6379,14 @@
       "focalLength": "35mm",
       "iso": "ISO 600"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(192,192,160)",
+      "rgb(224,224,192)",
+      "rgb(224,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -4982,7 +6410,14 @@
       "focalLength": "33mm",
       "iso": "ISO 300"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(32,32,0)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -5006,7 +6441,14 @@
       "focalLength": "27mm",
       "iso": "ISO 800"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(192,192,160)",
+      "rgb(160,160,160)",
+      "rgb(224,224,192)",
+      "rgb(160,160,128)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -5030,7 +6472,14 @@
       "focalLength": "39mm",
       "iso": "ISO 200"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(128,96,96)",
+      "rgb(160,128,128)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -5054,7 +6503,14 @@
       "focalLength": "38mm",
       "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(128,128,128)",
+      "rgb(64,32,32)",
+      "rgb(32,32,0)",
+      "rgb(160,160,160)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "video",
@@ -5080,7 +6536,14 @@
       "focalLength": "34mm",
       "iso": "ISO 200"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,0,0)",
+      "rgb(64,32,32)",
+      "rgb(64,64,64)",
+      "rgb(96,64,32)"
+    ]
   },
   {
     "type": "image",
@@ -5104,7 +6567,14 @@
       "focalLength": "34mm",
       "iso": "ISO 200"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,0,0)",
+      "rgb(64,32,32)",
+      "rgb(32,32,0)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -5128,7 +6598,14 @@
       "focalLength": "38mm",
       "iso": "ISO 100"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(160,160,160)",
+      "rgb(32,32,32)",
+      "rgb(192,160,192)",
+      "rgb(160,160,192)",
+      "rgb(96,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -5152,7 +6629,14 @@
       "focalLength": "28mm",
       "iso": "ISO 800"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(64,64,64)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "video",
@@ -5177,7 +6661,14 @@
       "focalLength": "25mm",
       "iso": "ISO 800"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(160,160,160)",
+      "rgb(128,128,128)",
+      "rgb(224,224,224)",
+      "rgb(32,32,32)",
+      "rgb(160,160,128)"
+    ]
   },
   {
     "type": "image",
@@ -5201,7 +6692,14 @@
       "focalLength": "33mm",
       "iso": "ISO 300"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(160,160,128)",
+      "rgb(32,32,0)",
+      "rgb(192,192,160)",
+      "rgb(96,96,64)"
+    ]
   },
   {
     "type": "video",
@@ -5226,7 +6724,14 @@
       "focalLength": "40mm",
       "iso": "ISO 200"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,32,32)",
+      "rgb(64,64,64)",
+      "rgb(0,0,32)",
+      "rgb(64,64,32)"
+    ]
   },
   {
     "type": "video",
@@ -5251,7 +6756,14 @@
       "focalLength": "33mm",
       "iso": "ISO 200"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(128,96,96)",
+      "rgb(160,128,128)",
+      "rgb(160,160,128)",
+      "rgb(32,0,0)"
+    ]
   },
   {
     "type": "video",
@@ -5276,7 +6788,14 @@
       "focalLength": "34mm",
       "iso": "ISO 900"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(224,192,192)",
+      "rgb(224,224,192)",
+      "rgb(192,192,160)",
+      "rgb(192,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -5300,7 +6819,14 @@
       "focalLength": "35mm",
       "iso": "ISO 1200"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(224,224,192)",
+      "rgb(96,64,32)",
+      "rgb(224,192,192)",
+      "rgb(192,192,160)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -5324,7 +6850,14 @@
       "focalLength": "38mm",
       "iso": "ISO 500"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(128,128,128)",
+      "rgb(64,32,32)",
+      "rgb(96,96,96)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "video",
@@ -5350,7 +6883,14 @@
       "focalLength": "40mm",
       "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,32,32)",
+      "rgb(32,0,0)",
+      "rgb(64,64,64)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -5374,7 +6914,14 @@
       "focalLength": "30mm",
       "iso": "ISO 200"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(32,0,0)",
+      "rgb(96,64,32)",
+      "rgb(96,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -5398,7 +6945,14 @@
       "focalLength": "40mm",
       "iso": "ISO 200"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(224,224,224)",
+      "rgb(32,32,0)",
+      "rgb(192,160,160)",
+      "rgb(224,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -5422,7 +6976,14 @@
       "focalLength": "29mm",
       "iso": "ISO 300"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(160,128,96)",
+      "rgb(128,96,96)",
+      "rgb(128,96,64)",
+      "rgb(32,32,32)",
+      "rgb(96,96,96)"
+    ]
   },
   {
     "type": "video",
@@ -5447,7 +7008,14 @@
       "focalLength": "31mm",
       "iso": "ISO 800"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(255,224,224)",
+      "rgb(128,96,64)",
+      "rgb(128,96,96)",
+      "rgb(32,0,0)",
+      "rgb(255,255,255)"
+    ]
   },
   {
     "type": "image",
@@ -5471,7 +7039,14 @@
       "focalLength": "39mm",
       "iso": "ISO 800"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(128,96,96)",
+      "rgb(224,192,192)",
+      "rgb(96,64,64)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "video",
@@ -5496,7 +7071,14 @@
       "focalLength": "40mm",
       "iso": "ISO 400"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(64,64,32)",
+      "rgb(32,32,32)",
+      "rgb(0,0,0)",
+      "rgb(32,32,0)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -5520,7 +7102,14 @@
       "focalLength": "36mm",
       "iso": "ISO 200"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(128,128,96)",
+      "rgb(96,96,64)",
+      "rgb(64,32,32)",
+      "rgb(96,64,64)",
+      "rgb(128,96,96)"
+    ]
   },
   {
     "type": "video",
@@ -5545,7 +7134,14 @@
       "focalLength": "39mm",
       "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(32,0,0)",
+      "rgb(224,224,192)",
+      "rgb(128,96,64)",
+      "rgb(96,64,64)",
+      "rgb(0,0,0)"
+    ]
   },
   {
     "type": "video",
@@ -5571,7 +7167,14 @@
       "focalLength": "36mm",
       "iso": "ISO 100"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(32,32,0)",
+      "rgb(0,0,0)",
+      "rgb(64,64,32)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -5595,7 +7198,14 @@
       "focalLength": "31mm",
       "iso": "ISO 1400"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(128,96,64)"
+    ]
   },
   {
     "type": "video",
@@ -5620,7 +7230,14 @@
       "focalLength": "30mm",
       "iso": "ISO 500"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(96,64,32)",
+      "rgb(192,160,160)",
+      "rgb(128,96,64)",
+      "rgb(192,192,160)"
+    ]
   },
   {
     "type": "video",
@@ -5645,7 +7262,14 @@
       "focalLength": "34mm",
       "iso": "ISO 1100"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(192,160,160)",
+      "rgb(224,224,224)",
+      "rgb(160,160,160)",
+      "rgb(192,192,160)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -5669,7 +7293,14 @@
       "focalLength": "34mm",
       "iso": "ISO 300"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(32,0,0)",
+      "rgb(32,32,32)",
+      "rgb(224,224,224)",
+      "rgb(0,0,0)"
+    ]
   },
   {
     "type": "image",
@@ -5694,7 +7325,14 @@
       "focalLength": "40mm",
       "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(32,0,0)",
+      "rgb(0,0,0)",
+      "rgb(32,32,0)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -5719,7 +7357,14 @@
       "focalLength": "30mm",
       "iso": "ISO 600"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(192,160,160)",
+      "rgb(192,192,160)",
+      "rgb(64,64,64)",
+      "rgb(224,192,192)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -5743,7 +7388,14 @@
       "focalLength": "29mm",
       "iso": "ISO 400"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(32,0,0)",
+      "rgb(0,0,0)",
+      "rgb(224,192,192)",
+      "rgb(96,64,32)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -5767,7 +7419,14 @@
       "focalLength": "27mm",
       "iso": "ISO 300"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(96,96,96)",
+      "rgb(64,64,64)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "video",
@@ -5792,7 +7451,14 @@
       "focalLength": "39mm",
       "iso": "ISO 400"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(128,128,128)",
+      "rgb(160,160,160)",
+      "rgb(96,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -5816,7 +7482,14 @@
       "focalLength": "38mm",
       "iso": "ISO 100"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(128,96,96)",
+      "rgb(192,192,192)",
+      "rgb(96,64,64)",
+      "rgb(32,0,0)"
+    ]
   },
   {
     "type": "video",
@@ -5841,7 +7514,14 @@
       "focalLength": "39mm",
       "iso": "ISO 600"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(255,255,255)",
+      "rgb(96,64,64)",
+      "rgb(224,224,224)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "video",
@@ -5866,7 +7546,14 @@
       "focalLength": "35mm",
       "iso": "ISO 100"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(32,0,0)",
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(192,192,160)",
+      "rgb(224,224,192)"
+    ]
   },
   {
     "type": "image",
@@ -5890,7 +7577,14 @@
       "focalLength": "25mm",
       "iso": "ISO 400"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(32,0,0)",
+      "rgb(128,128,128)",
+      "rgb(224,224,224)"
+    ]
   },
   {
     "type": "image",
@@ -5914,7 +7608,14 @@
       "focalLength": "26mm",
       "iso": "ISO 1200"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(224,192,192)",
+      "rgb(64,32,32)",
+      "rgb(192,160,160)",
+      "rgb(96,64,64)",
+      "rgb(224,224,224)"
+    ]
   },
   {
     "type": "image",
@@ -5938,7 +7639,14 @@
       "focalLength": "36mm",
       "iso": "ISO 800"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(96,64,32)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -5962,7 +7670,14 @@
       "focalLength": "40mm",
       "iso": "ISO 500"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(32,0,0)",
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -5986,7 +7701,14 @@
       "focalLength": "30mm",
       "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(96,64,32)",
+      "rgb(96,64,64)",
+      "rgb(64,64,64)",
+      "rgb(224,224,224)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -6010,7 +7732,14 @@
       "focalLength": "34mm",
       "iso": "ISO 1200"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(160,160,128)",
+      "rgb(224,224,224)",
+      "rgb(32,0,0)",
+      "rgb(255,255,224)",
+      "rgb(96,96,64)"
+    ]
   },
   {
     "type": "image",
@@ -6034,7 +7763,14 @@
       "focalLength": "30mm",
       "iso": "ISO 300"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(32,0,0)",
+      "rgb(64,32,32)",
+      "rgb(0,0,0)",
+      "rgb(32,32,0)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -6058,7 +7794,14 @@
       "focalLength": "29mm",
       "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(128,96,96)",
+      "rgb(96,96,96)",
+      "rgb(160,128,128)",
+      "rgb(192,160,160)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -6082,7 +7825,14 @@
       "focalLength": "36mm",
       "iso": "ISO 200"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(160,128,128)",
+      "rgb(160,160,128)",
+      "rgb(128,96,96)",
+      "rgb(128,128,96)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -6107,7 +7857,14 @@
       "focalLength": "29mm",
       "iso": "ISO 1600"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(192,192,160)",
+      "rgb(224,224,192)"
+    ]
   },
   {
     "type": "image",
@@ -6132,7 +7889,14 @@
       "focalLength": "30mm",
       "iso": "ISO 200"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(96,96,64)",
+      "rgb(64,64,64)",
+      "rgb(128,96,96)",
+      "rgb(32,0,0)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -6156,7 +7920,14 @@
       "focalLength": "26mm",
       "iso": "ISO 200"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(96,64,64)",
+      "rgb(224,192,192)",
+      "rgb(64,32,32)",
+      "rgb(32,32,0)",
+      "rgb(64,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -6180,7 +7951,14 @@
       "focalLength": "39mm",
       "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(255,255,255)",
+      "rgb(96,64,64)",
+      "rgb(32,32,32)",
+      "rgb(96,64,32)",
+      "rgb(128,160,160)"
+    ]
   },
   {
     "type": "video",
@@ -6205,7 +7983,14 @@
       "focalLength": "40mm",
       "iso": "ISO 200"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,64,64)",
+      "rgb(64,32,32)",
+      "rgb(64,64,32)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -6229,7 +8014,14 @@
       "focalLength": "27mm",
       "iso": "ISO 500"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(128,128,128)",
+      "rgb(160,160,160)",
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(128,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -6253,7 +8045,14 @@
       "focalLength": "40mm",
       "iso": "ISO 400"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(64,64,64)",
+      "rgb(96,96,96)",
+      "rgb(64,32,32)",
+      "rgb(32,0,0)",
+      "rgb(224,224,224)"
+    ]
   },
   {
     "type": "video",
@@ -6278,7 +8077,14 @@
       "focalLength": "32mm",
       "iso": "ISO 100"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,32,32)",
+      "rgb(32,64,64)",
+      "rgb(160,160,128)",
+      "rgb(64,96,96)"
+    ]
   },
   {
     "type": "video",
@@ -6303,7 +8109,14 @@
       "focalLength": "28mm",
       "iso": "ISO 1300"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(224,255,255)",
+      "rgb(160,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -6327,7 +8140,14 @@
       "focalLength": "35mm",
       "iso": "ISO 500"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(224,192,192)",
+      "rgb(192,192,160)",
+      "rgb(192,160,160)",
+      "rgb(32,32,0)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -6352,7 +8172,14 @@
       "focalLength": "34mm",
       "iso": "ISO 1300"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(32,0,0)",
+      "rgb(160,160,160)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -6378,7 +8205,14 @@
       "focalLength": "40mm",
       "iso": "ISO 300"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(0,0,0)",
+      "rgb(32,0,0)",
+      "rgb(96,64,32)"
+    ]
   },
   {
     "type": "image",
@@ -6402,7 +8236,14 @@
       "focalLength": "37mm",
       "iso": "ISO 1400"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(64,32,32)",
+      "rgb(224,224,224)",
+      "rgb(192,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -6426,7 +8267,14 @@
       "focalLength": "35mm",
       "iso": "ISO 400"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(32,0,0)",
+      "rgb(32,32,32)",
+      "rgb(255,255,255)",
+      "rgb(224,224,192)"
+    ]
   },
   {
     "type": "image",
@@ -6450,7 +8298,14 @@
       "focalLength": "40mm",
       "iso": "ISO 1000"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(128,128,128)",
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "video",
@@ -6475,7 +8330,14 @@
       "focalLength": "35mm",
       "iso": "ISO 1600"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(32,0,0)",
+      "rgb(192,160,160)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -6499,7 +8361,14 @@
       "focalLength": "38mm",
       "iso": "ISO 800"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(160,160,128)",
+      "rgb(192,192,160)",
+      "rgb(32,32,32)",
+      "rgb(224,224,192)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "image",
@@ -6523,7 +8392,14 @@
       "focalLength": "40mm",
       "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(64,64,64)",
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(64,64,32)",
+      "rgb(96,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -6547,7 +8423,14 @@
       "focalLength": "33mm",
       "iso": "ISO 300"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(96,64,64)",
+      "rgb(128,96,96)",
+      "rgb(192,192,160)",
+      "rgb(64,32,0)",
+      "rgb(96,96,64)"
+    ]
   },
   {
     "type": "video",
@@ -6572,7 +8455,14 @@
       "focalLength": "34mm",
       "iso": "ISO 300"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,0,0)",
+      "rgb(64,32,32)",
+      "rgb(32,0,0)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -6596,7 +8486,14 @@
       "focalLength": "35mm",
       "iso": "ISO 200"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(32,0,0)",
+      "rgb(96,64,64)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -6622,7 +8519,14 @@
       "focalLength": "27mm",
       "iso": "ISO 200"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,0,0)",
+      "rgb(0,0,32)",
+      "rgb(64,64,32)",
+      "rgb(96,96,64)"
+    ]
   },
   {
     "type": "video",
@@ -6647,7 +8551,14 @@
       "focalLength": "30mm",
       "iso": "ISO 900"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(32,32,0)",
+      "rgb(192,192,160)",
+      "rgb(32,0,0)"
+    ]
   },
   {
     "type": "image",
@@ -6671,7 +8582,14 @@
       "focalLength": "29mm",
       "iso": "ISO 900"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(160,128,128)",
+      "rgb(64,32,32)",
+      "rgb(96,64,32)",
+      "rgb(64,32,0)"
+    ]
   },
   {
     "type": "video",
@@ -6696,7 +8614,14 @@
       "focalLength": "35mm",
       "iso": "ISO 1600"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(224,224,192)",
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(64,64,32)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "video",
@@ -6721,7 +8646,14 @@
       "focalLength": "28mm",
       "iso": "ISO 100"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(160,160,128)",
+      "rgb(64,32,32)",
+      "rgb(192,160,160)",
+      "rgb(160,128,128)",
+      "rgb(96,96,64)"
+    ]
   },
   {
     "type": "video",
@@ -6747,7 +8679,14 @@
       "focalLength": "29mm",
       "iso": "ISO 500"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(0,0,0)",
+      "rgb(32,0,0)",
+      "rgb(64,32,0)",
+      "rgb(32,32,32)"
+    ]
   },
   {
     "type": "image",
@@ -6771,7 +8710,14 @@
       "focalLength": "29mm",
       "iso": "ISO 200"
     },
-    "location": "Munich, Germany"
+    "location": "Munich, Germany",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(224,224,224)",
+      "rgb(64,32,0)",
+      "rgb(64,32,32)",
+      "rgb(0,0,0)"
+    ]
   },
   {
     "type": "image",
@@ -6795,7 +8741,14 @@
       "focalLength": "27mm",
       "iso": "ISO 900"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(192,160,160)",
+      "rgb(255,255,255)",
+      "rgb(160,160,128)",
+      "rgb(96,64,32)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -6820,7 +8773,14 @@
       "focalLength": "36mm",
       "iso": "ISO 500"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(64,64,64)",
+      "rgb(32,32,32)",
+      "rgb(96,96,96)",
+      "rgb(32,64,64)",
+      "rgb(0,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -6845,7 +8805,14 @@
       "focalLength": "31mm",
       "iso": "ISO 300"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,0,0)",
+      "rgb(64,64,64)",
+      "rgb(32,32,0)",
+      "rgb(96,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -6869,7 +8836,14 @@
       "focalLength": "35mm",
       "iso": "ISO 1100"
     },
-    "location": "Berlin, Germany"
+    "location": "Berlin, Germany",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(160,160,160)",
+      "rgb(96,64,64)",
+      "rgb(64,32,32)",
+      "rgb(32,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -6894,7 +8868,14 @@
       "focalLength": "29mm",
       "iso": "ISO 1100"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(192,192,224)",
+      "rgb(64,32,32)",
+      "rgb(192,224,224)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "image",
@@ -6918,7 +8899,14 @@
       "focalLength": "40mm",
       "iso": "ISO 1300"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(64,32,32)",
+      "rgb(160,160,160)",
+      "rgb(64,64,32)"
+    ]
   },
   {
     "type": "image",
@@ -6942,7 +8930,14 @@
       "focalLength": "30mm",
       "iso": "ISO 1300"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(96,32,32)",
+      "rgb(224,224,224)",
+      "rgb(96,64,32)",
+      "rgb(128,96,96)"
+    ]
   },
   {
     "type": "video",
@@ -6968,7 +8963,14 @@
       "focalLength": "37mm",
       "iso": "ISO 300"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(0,32,32)",
+      "rgb(0,0,32)",
+      "rgb(96,64,32)"
+    ]
   },
   {
     "type": "video",
@@ -6993,7 +8995,14 @@
       "focalLength": "27mm",
       "iso": "ISO 500"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,64,64)",
+      "rgb(64,64,32)",
+      "rgb(64,32,32)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -7017,7 +9026,14 @@
       "focalLength": "25mm",
       "iso": "ISO 100"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(32,64,64)",
+      "rgb(32,32,64)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -7041,7 +9057,14 @@
       "focalLength": "40mm",
       "iso": "ISO 400"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(192,192,192)",
+      "rgb(64,64,64)",
+      "rgb(160,160,160)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -7065,7 +9088,14 @@
       "focalLength": "34mm",
       "iso": "ISO 1500"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(64,32,32)",
+      "rgb(224,224,224)",
+      "rgb(128,128,128)"
+    ]
   },
   {
     "type": "image",
@@ -7089,7 +9119,14 @@
       "focalLength": "27mm",
       "iso": "ISO 1000"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(192,160,160)",
+      "rgb(32,0,0)",
+      "rgb(224,192,192)",
+      "rgb(160,128,128)",
+      "rgb(160,160,160)"
+    ]
   },
   {
     "type": "video",
@@ -7115,7 +9152,14 @@
       "focalLength": "28mm",
       "iso": "ISO 500"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,0,0)",
+      "rgb(32,32,0)",
+      "rgb(64,32,32)",
+      "rgb(64,64,32)"
+    ]
   },
   {
     "type": "video",
@@ -7140,7 +9184,14 @@
       "focalLength": "39mm",
       "iso": "ISO 300"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(96,64,64)",
+      "rgb(32,32,32)",
+      "rgb(64,64,32)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "video",
@@ -7166,7 +9217,14 @@
       "focalLength": "26mm",
       "iso": "ISO 200"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(96,96,64)",
+      "rgb(128,96,64)",
+      "rgb(32,0,0)",
+      "rgb(32,0,32)"
+    ]
   },
   {
     "type": "video",
@@ -7192,7 +9250,14 @@
       "focalLength": "34mm",
       "iso": "ISO 400"
     },
-    "location": "Paris, France"
+    "location": "Paris, France",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(0,0,0)",
+      "rgb(64,32,32)",
+      "rgb(32,0,0)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "image",
@@ -7216,7 +9281,14 @@
       "focalLength": "28mm",
       "iso": "ISO 1400"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(192,192,160)",
+      "rgb(96,64,32)",
+      "rgb(192,160,128)",
+      "rgb(255,255,224)",
+      "rgb(160,128,96)"
+    ]
   },
   {
     "type": "video",
@@ -7242,7 +9314,14 @@
       "focalLength": "31mm",
       "iso": "ISO 100"
     },
-    "location": "Barcelona, Spain"
+    "location": "Barcelona, Spain",
+    "palette": [
+      "rgb(0,0,0)",
+      "rgb(32,32,32)",
+      "rgb(64,32,32)",
+      "rgb(160,96,64)",
+      "rgb(96,64,64)"
+    ]
   },
   {
     "type": "image",
@@ -7266,7 +9345,14 @@
       "focalLength": "40mm",
       "iso": "ISO 400"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(32,32,32)",
+      "rgb(192,192,192)",
+      "rgb(128,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -7290,7 +9376,14 @@
       "focalLength": "37mm",
       "iso": "ISO 1500"
     },
-    "location": "London, UK"
+    "location": "London, UK",
+    "palette": [
+      "rgb(64,32,32)",
+      "rgb(224,224,224)",
+      "rgb(192,192,192)",
+      "rgb(160,160,160)",
+      "rgb(96,96,96)"
+    ]
   },
   {
     "type": "image",
@@ -7314,7 +9407,14 @@
       "focalLength": "38mm",
       "iso": "ISO 1100"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(224,224,224)",
+      "rgb(64,32,32)",
+      "rgb(255,255,255)",
+      "rgb(96,64,32)",
+      "rgb(192,192,192)"
+    ]
   },
   {
     "type": "video",
@@ -7340,7 +9440,14 @@
       "focalLength": "33mm",
       "iso": "ISO 400"
     },
-    "location": "Los Angeles, California"
+    "location": "Los Angeles, California",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(32,32,0)",
+      "rgb(32,0,0)",
+      "rgb(64,32,32)",
+      "rgb(96,64,32)"
+    ]
   },
   {
     "type": "video",
@@ -7365,7 +9472,14 @@
       "focalLength": "36mm",
       "iso": "ISO 200"
     },
-    "location": "Milan, Italy"
+    "location": "Milan, Italy",
+    "palette": [
+      "rgb(160,128,96)",
+      "rgb(128,128,96)",
+      "rgb(64,32,32)",
+      "rgb(32,0,0)",
+      "rgb(32,32,0)"
+    ]
   },
   {
     "type": "video",
@@ -7391,7 +9505,14 @@
       "focalLength": "28mm",
       "iso": "ISO 300"
     },
-    "location": "Monaco"
+    "location": "Monaco",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(64,64,64)",
+      "rgb(96,128,128)",
+      "rgb(32,0,0)",
+      "rgb(64,32,32)"
+    ]
   },
   {
     "type": "video",
@@ -7417,7 +9538,14 @@
       "focalLength": "35mm",
       "iso": "ISO 400"
     },
-    "location": "New York, New York"
+    "location": "New York, New York",
+    "palette": [
+      "rgb(32,32,32)",
+      "rgb(32,32,0)",
+      "rgb(0,0,0)",
+      "rgb(64,32,32)",
+      "rgb(64,64,64)"
+    ]
   },
   {
     "type": "video",
@@ -7442,6 +9570,13 @@
       "focalLength": "40mm",
       "iso": "ISO 300"
     },
-    "location": "Tokyo, Japan"
+    "location": "Tokyo, Japan",
+    "palette": [
+      "rgb(32,0,0)",
+      "rgb(0,0,0)",
+      "rgb(64,32,32)",
+      "rgb(32,32,32)",
+      "rgb(96,64,64)"
+    ]
   }
 ]
