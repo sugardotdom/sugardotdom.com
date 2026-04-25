@@ -71,9 +71,16 @@ function optimizeVideo(inputPath, outputPath) {
 
 async function processMedia() {
   const galleryData = [];
+  const newManifest = {};
   const dirs = [picsDir, vidsDir];
   const seenSizes = new Set();
-  const outputFiles = new Set(Object.values(manifest).map(m => m.filename));
+  
+  const generatedFiles = new Set();
+  for (const m of Object.values(manifest)) {
+    if (m.filename !== m.original_filename) {
+      generatedFiles.add(m.filename);
+    }
+  }
 
   for (const dir of dirs) {
     const files = fs.readdirSync(dir).filter(f => !f.startsWith('.'));
@@ -83,7 +90,7 @@ async function processMedia() {
       const stat = fs.statSync(filePath);
       if (stat.isDirectory()) continue;
 
-      if (outputFiles.has(file)) continue; // skip previously generated output files
+      if (dir === picsDir && generatedFiles.has(file)) continue; // skip previously generated output files
 
       const ext = path.extname(file).toLowerCase();
       const isVideo = ['.mp4', '.mov', '.webm'].includes(ext);
@@ -107,6 +114,7 @@ async function processMedia() {
         const finalPath = path.join(picsDir, manifest[hash].filename);
         if (fs.existsSync(finalPath)) {
           galleryData.push(manifest[hash]);
+          newManifest[hash] = manifest[hash];
           continue;
         } else {
           console.log(`Cached file missing from disk: ${manifest[hash].filename}. Reprocessing...`);
@@ -249,7 +257,7 @@ async function processMedia() {
         entry.camera = { fstop: `f/${fstop}`, focalLength: focalLength, iso: `ISO ${iso}` };
         entry.location = locations[Math.floor(Math.random() * locations.length)];
 
-        manifest[hash] = entry;
+        newManifest[hash] = entry;
         galleryData.push(entry);
 
       } catch (err) {
@@ -259,7 +267,7 @@ async function processMedia() {
   }
 
   // Write files
-  fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
+  fs.writeFileSync(manifestPath, JSON.stringify(newManifest, null, 2));
   fs.writeFileSync(outputJson, JSON.stringify(galleryData, null, 2));
   console.log(`Saved ${galleryData.length} media items to ${outputJson}`);
 }
