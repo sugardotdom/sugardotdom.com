@@ -79,15 +79,21 @@
             gap: 2px;
             max-width: 1200px;
             margin: 0 auto;
+            grid-auto-flow: dense;
         }
 
         .photo-card {
             position: relative;
             overflow: hidden;
-            aspect-ratio: 4 / 5;
             background-color: #1a1a1a;
             cursor: pointer;
         }
+
+        /* Aspect ratio classes applied dynamically via JS */
+        .ar-portrait { grid-row: span 2; aspect-ratio: 4 / 5; }
+        .ar-landscape { grid-column: span 2; aspect-ratio: 16 / 9; }
+        .ar-square { aspect-ratio: 1 / 1; }
+        .ar-widescreen { grid-column: span 2; grid-row: span 2; aspect-ratio: 21 / 9; }
 
         /* Optimize low res: slight contrast boost and a grainy overlay to make it look intentional */
         .photo-card img, .photo-card video {
@@ -216,6 +222,18 @@
                 const card = document.createElement('div');
                 card.className = 'photo-card';
                 
+                // Determine aspect ratio class based on metadata
+                const ratio = parseFloat(img.aspectRatio);
+                if (ratio > 2.0) {
+                    card.classList.add('ar-widescreen'); // ultra-wide (e.g. 21:9)
+                } else if (ratio >= 1.2) {
+                    card.classList.add('ar-landscape'); // standard landscape (e.g. 16:9, 3:2)
+                } else if (ratio >= 0.8 && ratio < 1.2) {
+                    card.classList.add('ar-square'); // square-ish (1:1)
+                } else {
+                    card.classList.add('ar-portrait'); // tall (e.g. 4:5, 9:16)
+                }
+
                 const isVideo = img.type === 'video' || img.filename.endsWith('.mp4') || img.filename.endsWith('.webm');
                 const mediaElement = isVideo 
                     ? `<video src="pics/${img.filename}" autoplay loop muted playsinline disablePictureInPicture draggable="false"></video>` 
