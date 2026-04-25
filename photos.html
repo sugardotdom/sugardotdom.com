@@ -145,6 +145,14 @@
             transition: opacity 0.3s ease;
         }
 
+        .base-palette {
+            display: flex;
+            justify-content: flex-start;
+            gap: 0.3rem;
+            margin-top: 0.6rem;
+            pointer-events: none;
+        }
+
         .photo-card:hover .palette, .photo-card.in-view .palette {
             opacity: 1;
         }
@@ -162,6 +170,13 @@
         
         .swatch-wrapper:hover {
             transform: scale(1.2);
+        }
+
+        .base-swatch {
+            width: 12px;
+            height: 12px;
+            border-radius: 2px;
+            border: 1px solid rgba(255,255,255,0.15);
         }
 
         .color-swatch-input {
@@ -291,9 +306,13 @@
                     : `<img src="pics/${img.filename}" alt="${img.tags.join(', ')}" loading="lazy" draggable="false">`;
 
                 const paletteHtml = img.palette ? `<div class="palette" title="Open Color Picker">
-                    ${img.palette.map(c => `<div class="swatch-wrapper" style="background-color: ${rgbToHex(c)}">
-                        <input type="color" class="color-swatch-input" value="${rgbToHex(c)}" aria-label="Color Swatch">
+                    ${img.palette.map((c, idx) => `<div class="swatch-wrapper" style="background-color: ${rgbToHex(c)}" id="swatch-${img.filename.replace(/[^a-zA-Z0-9]/g, '')}-${idx}">
+                        <input type="color" class="color-swatch-input" value="${rgbToHex(c)}" aria-label="Color Swatch" onchange="document.getElementById('swatch-${img.filename.replace(/[^a-zA-Z0-9]/g, '')}-${idx}').style.backgroundColor = this.value">
                     </div>`).join('')}
+                </div>` : '';
+
+                const basePaletteHtml = img.palette ? `<div class="base-palette">
+                    ${img.palette.map(c => `<div class="base-swatch" style="background-color: ${rgbToHex(c)}"></div>`).join('')}
                 </div>` : '';
 
                 card.innerHTML = `
@@ -303,6 +322,7 @@
                         <div>${img.tags.join(' • ')}</div>
                         ${img.camera ? `<div class="meta-data">${img.camera.focalLength} • ${img.camera.fstop} • ${img.camera.iso}</div>` : ''}
                         ${img.location ? `<div class="meta-data">${img.location}</div>` : ''}
+                        ${basePaletteHtml}
                     </div>
                 `;
                 gallery.appendChild(card);
