@@ -72,6 +72,42 @@
             border-color: var(--text-color);
         }
 
+        .socials {
+            margin-top: 3rem;
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .socials a {
+            color: var(--accent-color);
+            text-decoration: none;
+            font-size: 0.8rem;
+            letter-spacing: 0.1rem;
+            text-transform: uppercase;
+            transition: color 0.3s ease;
+        }
+
+        .socials a:hover {
+            color: var(--text-color);
+        }
+
+        #stream-overlay {
+            display: none;
+            position: fixed;
+            top: 0; left: 0;
+            width: 100vw; height: 100vh;
+            background: rgba(0,0,0,0.95);
+            z-index: 9999;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        #stream-container { width: 90vw; height: 80vh; display: flex; justify-content: center; align-items: center; }
+        #stream-container iframe { width: 100%; height: 100%; }
+        #close-stream { color: white; margin-top: 1rem; cursor: pointer; text-transform: uppercase; letter-spacing: 0.2rem; }
+
         .fade-in {
             animation: fadeIn 2s ease-in-out forwards;
         }
@@ -88,11 +124,43 @@
         <p>Foundations • Leadership • Lifestyle</p>
         
         <nav>
-            <a href="https://your-cb-stream-link.com" target="_blank" rel="noopener">Live Stream</a>
+            <a href="#" id="stream-trigger">Live Stream</a>
             <a href="photos.html">Photography</a>
+            <a href="outtakes-play.html">Outtakes / Play</a>
             <a href="cinema.html">Cinema</a>
+            <a href="archive.html">Archive</a>
             <a href="alpha.html">Alpha Place</a>
+            <a href="https://sugar.services" target="_blank" rel="noopener">Sugar.Services</a>
         </nav>
+
+        <div class="socials">
+            <a href="https://onlyfans.com/sugardotdom" target="_blank" rel="noopener">OnlyFans</a>
+            <a href="https://x.com/sugardotdom" target="_blank" rel="noopener">X</a>
+            <a href="https://snapchat.com/add/sugardotdom" target="_blank" rel="noopener">Snapchat</a>
+            <a href="https://instagram.com/sugardotdom" target="_blank" rel="noopener">Instagram</a>
+        </div>
     </div>
+
+    <div id="stream-overlay">
+        <div id="stream-container">
+            <iframe src='https://cbxyz.com/in/?tour=SHBY&campaign=wYpu7&track=embed&room=sugargay222' style='border: none;'></iframe>
+        </div>
+        <div id="close-stream">Close Stream</div>
+    </div>
+
+    <script>
+        const trigger = document.getElementById('stream-trigger');
+        const overlay = document.getElementById('stream-overlay');
+        const closer = document.getElementById('close-stream');
+
+        trigger.addEventListener('click', (e) => {
+            e.preventDefault();
+            overlay.style.display = 'flex';
+        });
+
+        closer.addEventListener('click', () => {
+            overlay.style.display = 'none';
+        });
+    </script>
 </body>
 </html>
