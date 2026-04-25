@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photography - Sugar.Dom</title>
+    <style>
+        :root {
+            --bg-color: #0c0c0c;
+            --text-color: #efefef;
+            --accent-color: #777777;
+            --font-main: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: var(--font-main);
+            margin: 0;
+            padding: 2rem;
+            line-height: 1.6;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        h1 {
+            font-weight: 300;
+            letter-spacing: 0.1rem;
+            text-transform: uppercase;
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        header a {
+            color: var(--accent-color);
+            text-decoration: none;
+            font-size: 0.8rem;
+            letter-spacing: 0.05rem;
+            text-transform: uppercase;
+        }
+        
+        header a:hover {
+            color: var(--text-color);
+        }
+
+        .filters {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-bottom: 3rem;
+        }
+
+        .filter-btn {
+            background: none;
+            border: 1px solid var(--accent-color);
+            color: var(--accent-color);
+            padding: 0.4rem 1rem;
+            cursor: pointer;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05rem;
+            transition: all 0.3s ease;
+            border-radius: 20px;
+        }
+
+        .filter-btn:hover, .filter-btn.active {
+            color: var(--bg-color);
+            background-color: var(--text-color);
+            border-color: var(--text-color);
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 2px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .photo-card {
+            position: relative;
+            overflow: hidden;
+            aspect-ratio: 4 / 5;
+            background-color: #1a1a1a;
+            cursor: pointer;
+        }
+
+        /* Optimize low res: slight contrast boost and a grainy overlay to make it look intentional */
+        .photo-card img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            filter: contrast(1.1) grayscale(0.1);
+            transition: transform 0.5s ease, filter 0.5s ease;
+            user-select: none;
+            -webkit-user-drag: none;
+            pointer-events: none;
+        }
+
+        .photo-card:hover img {
+            transform: scale(1.05);
+            filter: contrast(1.2) grayscale(0);
+        }
+
+        .tags-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 1rem;
+            background: linear-gradient(transparent, rgba(0,0,0,0.8));
+            color: #fff;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1rem;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .photo-card:hover .tags-overlay {
+            opacity: 1;
+        }
+
+    </style>
+</head>
+<body oncontextmenu="return false;">
+
+    <header>
+        <h1>Photography</h1>
+        <a href="index.html">← Back to Foundation</a>
+    </header>
+
+    <div class="filters" id="filters">
+        <!-- Filters populated via JS -->
+    </div>
+
+    <div class="gallery" id="gallery">
+        <!-- Images populated via JS -->
+    </div>
+
+    <script>
+        let allImages = [];
+
+        async function init() {
+            try {
+                const response = await fetch('pics_data.json');
+                allImages = await response.json();
+                
+                // Extract unique tags
+                const tagSet = new Set();
+                allImages.forEach(img => img.tags.forEach(t => tagSet.add(t)));
+                const uniqueTags = ["All", ...Array.from(tagSet).sort()];
+
+                renderFilters(uniqueTags);
+                renderGallery(allImages);
+
+            } catch (error) {
+                console.error("Error loading images data:", error);
+                document.getElementById('gallery').innerHTML = "<p>Unable to load photography collection at this moment.</p>";
+            }
+        }
+
+        function renderFilters(tags) {
+            const filterContainer = document.getElementById('filters');
+            tags.forEach(tag => {
+                const btn = document.createElement('button');
+                btn.className = 'filter-btn' + (tag === 'All' ? ' active' : '');
+                btn.innerText = tag;
+                btn.onclick = () => {
+                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    filterGallery(tag);
+                };
+                filterContainer.appendChild(btn);
+            });
+        }
+
+        function filterGallery(tag) {
+            if (tag === 'All') {
+                renderGallery(allImages);
+            } else {
+                const filtered = allImages.filter(img => img.tags.includes(tag));
+                renderGallery(filtered);
+            }
+        }
+
+        function renderGallery(images) {
+            const gallery = document.getElementById('gallery');
+            gallery.innerHTML = '';
+            images.forEach(img => {
+                const card = document.createElement('div');
+                card.className = 'photo-card';
+                card.innerHTML = `
+                    <img src="pics/${img.filename}" alt="${img.tags.join(', ')}" loading="lazy" draggable="false">
+                    <div class="tags-overlay">${img.tags.join(' • ')}</div>
+                `;
+                gallery.appendChild(card);
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>
