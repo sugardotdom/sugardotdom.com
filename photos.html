@@ -90,7 +90,7 @@
         }
 
         /* Optimize low res: slight contrast boost and a grainy overlay to make it look intentional */
-        .photo-card img {
+        .photo-card img, .photo-card video {
             width: 100%;
             height: 100%;
             object-fit: cover;
@@ -101,7 +101,8 @@
             pointer-events: none;
         }
 
-        .photo-card:hover img, .photo-card.in-view img {
+        .photo-card:hover img, .photo-card.in-view img,
+        .photo-card:hover video, .photo-card.in-view video {
             transform: scale(1.05);
             filter: contrast(1.2) grayscale(0);
         }
@@ -214,8 +215,14 @@
             images.forEach(img => {
                 const card = document.createElement('div');
                 card.className = 'photo-card';
+                
+                const isVideo = img.type === 'video' || img.filename.endsWith('.mp4') || img.filename.endsWith('.webm');
+                const mediaElement = isVideo 
+                    ? `<video src="pics/${img.filename}" autoplay loop muted playsinline disablePictureInPicture draggable="false"></video>` 
+                    : `<img src="pics/${img.filename}" alt="${img.tags.join(', ')}" loading="lazy" draggable="false">`;
+
                 card.innerHTML = `
-                    <img src="pics/${img.filename}" alt="${img.tags.join(', ')}" loading="lazy" draggable="false">
+                    ${mediaElement}
                     <div class="tags-overlay">
                         <div>${img.tags.join(' • ')}</div>
                         ${img.camera ? `<div class="meta-data">${img.camera.focalLength} • ${img.camera.fstop} • ${img.camera.iso}</div>` : ''}

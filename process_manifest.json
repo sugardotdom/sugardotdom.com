@@ -1,0 +1,7475 @@
+{
+  "b558e0bd95dea2f402fe200061839d39f026735619497af5169dd8f64db6b4d5": {
+    "type": "image",
+    "original_filename": "0095c2b0-ebb2-4228-a6fb-12ed4ed917f9.jpg",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "0095c2b0-ebb2-4228-a6fb-12ed4ed917f9.jpg",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 26,
+      "s": 0.2,
+      "l": 0.42
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "30mm",
+      "iso": "ISO 1900"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "8361249b029ea1f9e06a3012ef8a49a7f14b2c4c07c4419b33a85671cefac12a": {
+    "type": "image",
+    "original_filename": "02b54ba6-bd26-46c5-a71b-9c37c0b40909.jpg",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "02b54ba6-bd26-46c5-a71b-9c37c0b40909.jpg",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 24,
+      "s": 0.16,
+      "l": 0.49
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "36mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Monaco"
+  },
+  "44393ab6b26fdb71490994781026ff4fa70f5f472f5cd95b3c93ba76be9a7a6a": {
+    "type": "image",
+    "original_filename": "0517887c-afce-410b-9583-631c797eced7.jpg",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "0517887c-afce-410b-9583-631c797eced7.jpg",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 11,
+      "s": 0.05,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "32mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Monaco"
+  },
+  "7cb7ee5332677c05771dd739d4dc7be2721af7b9d1730e825bae2d53ab5dcf1e": {
+    "type": "image",
+    "original_filename": "064026a5-eaf7-4621-8e50-2875252f16a2.jpg",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Golden"
+    ],
+    "filename": "064026a5-eaf7-4621-8e50-2875252f16a2.jpg",
+    "width": 1168,
+    "height": 784,
+    "aspectRatio": "1.49",
+    "stats": {
+      "h": 31,
+      "s": 0.19,
+      "l": 0.5
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "40mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "31e7656f404bc90b7628dc3f05619929780ba89414babfd8d44fb73b8979abd7": {
+    "type": "image",
+    "original_filename": "098f4bca-72e3-448c-8c7c-c56414de46cb.jpg",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "098f4bca-72e3-448c-8c7c-c56414de46cb.jpg",
+    "width": 1280,
+    "height": 720,
+    "aspectRatio": "1.78",
+    "stats": {
+      "h": 89,
+      "s": 0.08,
+      "l": 0.14
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "36mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Paris, France"
+  },
+  "1bf1e367e100318cc74ff2a8ff0949f8e2f0fecb028b5c26592abeabbbc9206a": {
+    "type": "image",
+    "original_filename": "1d30d560-416d-4e44-9e8a-d98518c229c8.jpg",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "1d30d560-416d-4e44-9e8a-d98518c229c8.jpg",
+    "width": 1168,
+    "height": 784,
+    "aspectRatio": "1.49",
+    "stats": {
+      "h": 25,
+      "s": 0.13,
+      "l": 0.44
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "28mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "54654f7e6d841522b2e451df0986a3a77b99159ccd29c95d45d05f8c4f69d4f9": {
+    "type": "image",
+    "original_filename": "258dc63d-0e44-442b-aa96-bbd2b3ce204e.jpg",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "258dc63d-0e44-442b-aa96-bbd2b3ce204e.jpg",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 22,
+      "s": 0.14,
+      "l": 0.58
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "40mm",
+      "iso": "ISO 1300"
+    },
+    "location": "New York, New York"
+  },
+  "ccd4cd49abe646854bd4fc3f9341be658d8caefd9e95be4de91614b43277697f": {
+    "type": "image",
+    "original_filename": "3808ab1a-e629-4661-846d-0dcde4c23352.jpg",
+    "tags": [
+      "Noir",
+      "Muted",
+      "Golden",
+      "Foundational"
+    ],
+    "filename": "3808ab1a-e629-4661-846d-0dcde4c23352.jpg",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 34,
+      "s": 0.18,
+      "l": 0.32
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "34mm",
+      "iso": "ISO 2200"
+    },
+    "location": "New York, New York"
+  },
+  "8090073ea4cce848b719f7355a3a544aa53146d9533dd3736d340fa6cffcb394": {
+    "type": "image",
+    "original_filename": "409ace6f-3aaa-406b-805c-2b9a068c24c8.jpg",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "409ace6f-3aaa-406b-805c-2b9a068c24c8.jpg",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 28,
+      "s": 0.11,
+      "l": 0.61
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "32mm",
+      "iso": "ISO 1200"
+    },
+    "location": "Berlin, Germany"
+  },
+  "e3639db844bc6f261c98b30fe3b457367ee08b7294706d95ceaa21e595bb4fbd": {
+    "type": "image",
+    "original_filename": "583a1e5f-849c-4e5b-84be-479499b570f1.jpg",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "583a1e5f-849c-4e5b-84be-479499b570f1.jpg",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 26,
+      "s": 0.09,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "26mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "306d61d5020d0c20712ded3eedb708a1416eaf01d39cd5406feed22589846a3f": {
+    "type": "image",
+    "original_filename": "5ea6f680-c599-4910-9d9b-229ab78d1ea9.jpg",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "5ea6f680-c599-4910-9d9b-229ab78d1ea9.jpg",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 27,
+      "s": 0.14,
+      "l": 0.39
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "36mm",
+      "iso": "ISO 2000"
+    },
+    "location": "Paris, France"
+  },
+  "477f7ee188d10d23741b2603f5df31a9fcdbdc47b0b07a885eb6ea372c541656": {
+    "type": "image",
+    "original_filename": "637f3fae-16e1-4136-9906-90dec0065eaa.jpg",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "637f3fae-16e1-4136-9906-90dec0065eaa.jpg",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 19,
+      "s": 0.08,
+      "l": 0.51
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "29mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Milan, Italy"
+  },
+  "90d60748e552c7f0b4ceac87658315f94a4b1326d103c063b7ca22fc5f9ff317": {
+    "type": "image",
+    "original_filename": "70509178-f7ab-4046-96dd-197fa772c547.jpg",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "70509178-f7ab-4046-96dd-197fa772c547.jpg",
+    "width": 1280,
+    "height": 720,
+    "aspectRatio": "1.78",
+    "stats": {
+      "h": 72,
+      "s": 0.08,
+      "l": 0.19
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "29mm",
+      "iso": "ISO 2600"
+    },
+    "location": "Munich, Germany"
+  },
+  "2a1bebbc37950f2f0dbd02cb290854729b33a393fea2b71d97dba3576901d187": {
+    "type": "image",
+    "original_filename": "7166e4d1-9861-4d82-b1e5-635bd1710436.jpg",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "7166e4d1-9861-4d82-b1e5-635bd1710436.jpg",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 15,
+      "s": 0.12,
+      "l": 0.57
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "34mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "4034b517f4f5719761b750b104e9921aada73168177add6175e396367aef4f24": {
+    "type": "image",
+    "original_filename": "73831194-81e6-40a0-91d6-72cb1aea91ad.jpg",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "73831194-81e6-40a0-91d6-72cb1aea91ad.jpg",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 19,
+      "s": 0.09,
+      "l": 0.45
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "25mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Milan, Italy"
+  },
+  "11f8d4c824311757072f92001df9290c7419e985d6e71c150154a34d2062a687": {
+    "type": "image",
+    "original_filename": "IMG_9133.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9133.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 20,
+      "s": 0.14,
+      "l": 0.54
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "28mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Los Angeles, California"
+  },
+  "2ab28255e2ce19e49ad6aad88379b050ccd9d8884f866918648ed975ba080e9b": {
+    "type": "image",
+    "original_filename": "IMG_9134.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9134.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 27,
+      "s": 0.11,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "28mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Munich, Germany"
+  },
+  "4b2993c7d4339283717a14aa4a9f856a67a7475239edc733b5feb06e9cb8a5aa": {
+    "type": "image",
+    "original_filename": "IMG_9135.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9135.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.2,
+      "l": 0.42
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "35mm",
+      "iso": "ISO 1900"
+    },
+    "location": "Monaco"
+  },
+  "9152bd5b33bcb5dad3d3bffd7286d394ef0c2537c61a13f887214af9f690592a": {
+    "type": "image",
+    "original_filename": "IMG_9136.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9136.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 26,
+      "s": 0.05,
+      "l": 0.6
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "29mm",
+      "iso": "ISO 1300"
+    },
+    "location": "Milan, Italy"
+  },
+  "53ea30a0a79678fc95c794eb33cd27c390ab3a0ec417c60389027c2872c80cc7": {
+    "type": "image",
+    "original_filename": "IMG_9137.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9137.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 22,
+      "s": 0.12,
+      "l": 0.62
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "29mm",
+      "iso": "ISO 1200"
+    },
+    "location": "New York, New York"
+  },
+  "413ad9f403cf453f4d2b68e6df1c5a21251843447122664fbb8d68203f3958f1": {
+    "type": "image",
+    "original_filename": "IMG_9138.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9138.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.07,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "32mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "0860d47c32d7895cded888405699b3c348d9df76c3649a4590a684849d5e65b1": {
+    "type": "image",
+    "original_filename": "IMG_9139.JPG",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9139.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 21,
+      "s": 0.14,
+      "l": 0.33
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "40mm",
+      "iso": "ISO 2200"
+    },
+    "location": "Los Angeles, California"
+  },
+  "4a98a6e682e6f1d08ce6d76bc8d060c29a04d657de70d418cb96b0f95577ee66": {
+    "type": "image",
+    "original_filename": "IMG_9140.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9140.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 55,
+      "s": 0.08,
+      "l": 0.54
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "40mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Monaco"
+  },
+  "820b6635a97dcccef9a7b4871b2c94dcdb49e31eac1ab86a5700c2d5d2450048": {
+    "type": "image",
+    "original_filename": "IMG_9141.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9141.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 18,
+      "s": 0.09,
+      "l": 0.48
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "27mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "2a91e5cabd2c034befdd7bb903024821fe1d04cae4ea203630d544b78dba0c33": {
+    "type": "image",
+    "original_filename": "IMG_9142.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9142.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 18,
+      "s": 0.08,
+      "l": 0.55
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "38mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Berlin, Germany"
+  },
+  "152f9dea86d30b02c365e94312c03c3edf5e8f0850ce8347de5fce61570c42e7": {
+    "type": "image",
+    "original_filename": "IMG_9143.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9143.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 28,
+      "s": 0.07,
+      "l": 0.55
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "26mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Los Angeles, California"
+  },
+  "9edd4bd3419b072208cf8494e5203c5d19ec29eb16e9c845f436db7d2439feeb": {
+    "type": "image",
+    "original_filename": "IMG_9144.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9144.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 20,
+      "s": 0.11,
+      "l": 0.56
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "33mm",
+      "iso": "ISO 1400"
+    },
+    "location": "New York, New York"
+  },
+  "fe5091b8c07102a82f7acb4aed6b1f40fd80fa1e7b049eede99a99b6d07eb66e": {
+    "type": "image",
+    "original_filename": "IMG_9146.JPG",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9146.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.1,
+      "l": 0.25
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "33mm",
+      "iso": "ISO 2400"
+    },
+    "location": "Los Angeles, California"
+  },
+  "2c89881202f2ccd7428a28f403a658272d8048977b6364b9eaa8a2406e2eff01": {
+    "type": "image",
+    "original_filename": "IMG_9147.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9147.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 29,
+      "s": 0.16,
+      "l": 0.43
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "34mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Berlin, Germany"
+  },
+  "61f7dc60188f5339b4b3433704045b7819331db377a69299b4428d0de34782db": {
+    "type": "image",
+    "original_filename": "IMG_9148.JPG",
+    "tags": [
+      "Noir",
+      "Muted",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "IMG_9148.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 27,
+      "s": 0.17,
+      "l": 0.32
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "36mm",
+      "iso": "ISO 2200"
+    },
+    "location": "Milan, Italy"
+  },
+  "b644ebd89ec011418ee475000961ddf86111941a24606cd5b53ca5401d278f4f": {
+    "type": "image",
+    "original_filename": "IMG_9149.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9149.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 38,
+      "s": 0.13,
+      "l": 0.39
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "36mm",
+      "iso": "ISO 2000"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "01b9c8db5e2303617961eb6cf1d7bb026aff24e03991f169109959c9ff7eb3b6": {
+    "type": "image",
+    "original_filename": "IMG_9150.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9150.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 25,
+      "s": 0.2,
+      "l": 0.36
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "40mm",
+      "iso": "ISO 2100"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "f0f4243eef993b2fb6d498c8b4cadf887a3aace643b40976cd756910cff7811f": {
+    "type": "image",
+    "original_filename": "IMG_9151.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9151.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.04,
+      "l": 0.49
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "26mm",
+      "iso": "ISO 1600"
+    },
+    "location": "New York, New York"
+  },
+  "9c03cf41b3749763ecc6250ca43833c63cb983ff08c5ed91fde0199ae348c33d": {
+    "type": "image",
+    "original_filename": "IMG_9152.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9152.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 20,
+      "s": 0.14,
+      "l": 0.42
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "32mm",
+      "iso": "ISO 1900"
+    },
+    "location": "Munich, Germany"
+  },
+  "42a7a8acc4b621cbf09efb6fb05eca3a57e4637d689f0a7996c4e74dd5633fcf": {
+    "type": "image",
+    "original_filename": "IMG_9154.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9154.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 6,
+      "s": 0.03,
+      "l": 0.59
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "37mm",
+      "iso": "ISO 1300"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "1332a7e54dde0832461d31c25bf759f8355b0d45b91206f18c40a9b4c64f5ab3": {
+    "type": "image",
+    "original_filename": "IMG_9155.JPG",
+    "tags": [
+      "Noir",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "IMG_9155.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.32,
+      "l": 0.19
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "28mm",
+      "iso": "ISO 2600"
+    },
+    "location": "New York, New York"
+  },
+  "7b25f2674912c2d6fe53ca1692f1c94fbdd5843bb34a79d779ba0f40847129a9": {
+    "type": "image",
+    "original_filename": "IMG_9156.JPG",
+    "tags": [
+      "Noir",
+      "Muted",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "IMG_9156.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.19,
+      "l": 0.31
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "32mm",
+      "iso": "ISO 2200"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "a76ed428cfc20387f610c090a516d7faf18ac9cbcf603ecf3883f5f89866a589": {
+    "type": "image",
+    "original_filename": "IMG_9157.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9157.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 20,
+      "s": 0.11,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "29mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "737bed2656af112ee4ea9fa54e39e2551978ece73f3ee33400f8759e29421ff8": {
+    "type": "image",
+    "original_filename": "IMG_9158.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9158.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 20,
+      "s": 0.15,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "35mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Monaco"
+  },
+  "0d5c416d0248abcf3022145545b46365b521776e14224c32b3b4f6e3b153d7ed": {
+    "type": "image",
+    "original_filename": "IMG_9159.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9159.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 27,
+      "s": 0.08,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "38mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Paris, France"
+  },
+  "f63eed58e94c9aecb4be07ee05fdc93113ae10eeb8ca7791067dc0320512054a": {
+    "type": "image",
+    "original_filename": "IMG_9160.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9160.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 8,
+      "s": 0.07,
+      "l": 0.37
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "36mm",
+      "iso": "ISO 2000"
+    },
+    "location": "Berlin, Germany"
+  },
+  "727bbb39f8fb373677f89dbc9b97432dce746242edc945bc19dda22caa5ecf4a": {
+    "type": "image",
+    "original_filename": "IMG_9161.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9161.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.16,
+      "l": 0.44
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "26mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "00a58d1c1b6b7ce2480f9831f5accadfdf9710182aa4bf4375ff73fd03c9b90a": {
+    "type": "image",
+    "original_filename": "IMG_9162.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9162.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 37,
+      "s": 0.13,
+      "l": 0.57
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "32mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Paris, France"
+  },
+  "7de825e1b082df6c2a7ead3385971b86977764b6eb7fa234c960604592103461": {
+    "type": "image",
+    "original_filename": "IMG_9163.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9163.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 15,
+      "s": 0.1,
+      "l": 0.49
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "36mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Milan, Italy"
+  },
+  "63b45347560fb9fa498021d9186fd6727e718e7588d92b5c12c6f5b965e262db": {
+    "type": "image",
+    "original_filename": "IMG_9164.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9164.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.18,
+      "l": 0.48
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "33mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Milan, Italy"
+  },
+  "e4de7c08600f6609803b99fe1c97af523799240edf3324eb372413db93cb18fa": {
+    "type": "image",
+    "original_filename": "IMG_9165.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9165.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 22,
+      "s": 0.08,
+      "l": 0.47
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "38mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Munich, Germany"
+  },
+  "3f668d67f0ddcdcc9cbfbef8c29e21f17a40c70ed64edf73a1b2b08c7e0d2f37": {
+    "type": "image",
+    "original_filename": "IMG_9167.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9167.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 15,
+      "s": 0.05,
+      "l": 0.44
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "28mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "3432dd2997b03eeb2a0bfc1bac84973fefb548aa5c67bebb5dde89915c95e3db": {
+    "type": "image",
+    "original_filename": "IMG_9168.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9168.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.19,
+      "l": 0.58
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "29mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Los Angeles, California"
+  },
+  "ced22952e0e33e76465496ff5d787652cc9411d779b52ee457bd4d586f4cf4af": {
+    "type": "image",
+    "original_filename": "IMG_9169.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Golden"
+    ],
+    "filename": "IMG_9169.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 31,
+      "s": 0.19,
+      "l": 0.57
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "31mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Munich, Germany"
+  },
+  "eef799c709ea7f4ac18e1c32af86654fc20a6b6e670ed451a0ef83462eb5b888": {
+    "type": "image",
+    "original_filename": "IMG_9170.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9170.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 3,
+      "s": 0.02,
+      "l": 0.49
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "25mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Monaco"
+  },
+  "41380eff4806e6d485587532405015c39a48193007cb933adbb66ae819f08ee9": {
+    "type": "image",
+    "original_filename": "IMG_9171.JPG",
+    "tags": [
+      "Noir",
+      "Muted",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "IMG_9171.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.17,
+      "l": 0.2
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "27mm",
+      "iso": "ISO 2600"
+    },
+    "location": "New York, New York"
+  },
+  "8d890ce9441932bf550179d43c8fc64980c5e67d186d21251b634b4e3292e68c": {
+    "type": "image",
+    "original_filename": "IMG_9172.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9172.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 359,
+      "s": 0.04,
+      "l": 0.49
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "28mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Monaco"
+  },
+  "02cc397133ae5450a5ce46e0d1517aca1b51a0ab00ad509c1238e5b2bc0e757a": {
+    "type": "image",
+    "original_filename": "IMG_9173.JPG",
+    "tags": [
+      "Noir",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "IMG_9173.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.31,
+      "l": 0.3
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "39mm",
+      "iso": "ISO 2200"
+    },
+    "location": "Monaco"
+  },
+  "d22ba19ec3c3d23a68133ad6588851956c6593d19c4531281eee92ec2f15940b": {
+    "type": "image",
+    "original_filename": "IMG_9174.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9174.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 21,
+      "s": 0.19,
+      "l": 0.39
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "35mm",
+      "iso": "ISO 2000"
+    },
+    "location": "New York, New York"
+  },
+  "782b3c8a4f26c0c95da534af9fb109cbdb4bac90674586b4c59bc02d85dcc43b": {
+    "type": "image",
+    "original_filename": "IMG_9175.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9175.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.08,
+      "l": 0.57
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "37mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Berlin, Germany"
+  },
+  "734de3334dbfe936c68a0a6b258d4dac06f4d34b6dcbfee5de634a39be90e26f": {
+    "type": "image",
+    "original_filename": "IMG_9176.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9176.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 34,
+      "s": 0.06,
+      "l": 0.48
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "35mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "7c5877412c26f4e071cd04e560d5a86b7c3df31d34ad656503338c1fe915425e": {
+    "type": "image",
+    "original_filename": "IMG_9177.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9177.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 343,
+      "s": 0.06,
+      "l": 0.48
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "30mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Milan, Italy"
+  },
+  "695c630bf7b1cbdbd219aad4316b7fed113919b581710dd888f7ee6db7eaecf8": {
+    "type": "image",
+    "original_filename": "IMG_9178.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9178.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 47,
+      "s": 0.05,
+      "l": 0.62
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "33mm",
+      "iso": "ISO 1200"
+    },
+    "location": "Monaco"
+  },
+  "a08052b1a8df57626ebe0fd2f26b547699f45afbad9c0da5baeb366c5c376867": {
+    "type": "image",
+    "original_filename": "IMG_9179.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9179.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.02,
+      "l": 0.44
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "33mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Milan, Italy"
+  },
+  "d5713a2603355fd267bc966410cce5ace90fb33ee520459bd986e936d15ac1e4": {
+    "type": "image",
+    "original_filename": "IMG_9180.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9180.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 31,
+      "s": 0.13,
+      "l": 0.54
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "36mm",
+      "iso": "ISO 1500"
+    },
+    "location": "New York, New York"
+  },
+  "c4a017863830d9898c6487c21601df220259602c8f446c382c4f976ce73a3337": {
+    "type": "image",
+    "original_filename": "IMG_9181.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9181.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 14,
+      "s": 0.1,
+      "l": 0.43
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "25mm",
+      "iso": "ISO 1800"
+    },
+    "location": "New York, New York"
+  },
+  "22b4ac4b9d1aaf78efd483cb95228dd9ec5831aa705d59795fc5febecac445b9": {
+    "type": "image",
+    "original_filename": "IMG_9182.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9182.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.17,
+      "l": 0.61
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "37mm",
+      "iso": "ISO 1300"
+    },
+    "location": "Paris, France"
+  },
+  "642877225fc05b717032cc710988478d2125b51974cfd99be255730d62376982": {
+    "type": "image",
+    "original_filename": "IMG_9183.JPG",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9183.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 356,
+      "s": 0.06,
+      "l": 0.2
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "39mm",
+      "iso": "ISO 2500"
+    },
+    "location": "Monaco"
+  },
+  "2982d55919e6e6216203e49fca9fb135590520803976c4b2aa31280ea8a9840e": {
+    "type": "image",
+    "original_filename": "IMG_9184.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9184.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 27,
+      "s": 0.07,
+      "l": 0.64
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "38mm",
+      "iso": "ISO 1100"
+    },
+    "location": "Monaco"
+  },
+  "2afefc74b6673c7ce5e11d03dd9fc81b18d9e0e46dfff8305631c76bb37a4f19": {
+    "type": "image",
+    "original_filename": "IMG_9185.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9185.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 15,
+      "s": 0.19,
+      "l": 0.41
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "33mm",
+      "iso": "ISO 1900"
+    },
+    "location": "New York, New York"
+  },
+  "3f56d052a556736e91f48b71d4232d12273cd743d125ba3fbac183ed9ad2ce08": {
+    "type": "image",
+    "original_filename": "IMG_9186.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9186.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.1,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "29mm",
+      "iso": "ISO 1500"
+    },
+    "location": "London, UK"
+  },
+  "c3c0e862a615ef2ee9bc5cf0c71ca7fcc5fe259ee90a299ed9b8546de20d1de4": {
+    "type": "image",
+    "original_filename": "IMG_9187.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Golden"
+    ],
+    "filename": "IMG_9187.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 31,
+      "s": 0.16,
+      "l": 0.57
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "37mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Munich, Germany"
+  },
+  "8c39efa18ca557c9c33bd22a5ea347ded5a171d2b3780ee2af1c6856d64746f6": {
+    "type": "image",
+    "original_filename": "IMG_9188.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9188.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.12,
+      "l": 0.64
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "39mm",
+      "iso": "ISO 1100"
+    },
+    "location": "Munich, Germany"
+  },
+  "234954018b2db101c3a4a484a5ec58acbdc9bfe42075beed6a0848633aa837fc": {
+    "type": "image",
+    "original_filename": "IMG_9189.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9189.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.13,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "34mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "a1c09b6a9b2c8892fc3666b1783c5571fa8a43faaf6c801c9ca551f77affe69a": {
+    "type": "image",
+    "original_filename": "IMG_9190.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9190.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 13,
+      "s": 0.07,
+      "l": 0.56
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "27mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Berlin, Germany"
+  },
+  "6c257db2e484528cbf6f9c8f3cc9e29b507a6444b9d4e5cd0e65a7e16d110451": {
+    "type": "image",
+    "original_filename": "IMG_9191.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9191.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 21,
+      "s": 0.13,
+      "l": 0.48
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "40mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Monaco"
+  },
+  "f730c1873d446624ad5cee5d070eea3a1775bb8e46c27e234f144cea21adaeca": {
+    "type": "image",
+    "original_filename": "IMG_9192.JPG",
+    "tags": [
+      "Noir",
+      "Muted",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "IMG_9192.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 26,
+      "s": 0.28,
+      "l": 0.18
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "38mm",
+      "iso": "ISO 2600"
+    },
+    "location": "Berlin, Germany"
+  },
+  "3d702e4f13ea770e447aed641b80e66abd6c83b03ec486d6fea6a67200705c24": {
+    "type": "image",
+    "original_filename": "IMG_9193.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9193.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.15,
+      "l": 0.4
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "25mm",
+      "iso": "ISO 1900"
+    },
+    "location": "London, UK"
+  },
+  "ae38b7a72d0e800c0c83e02b318915d77d96a3f5ff9b38f1eef673280985989a": {
+    "type": "image",
+    "original_filename": "IMG_9194.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9194.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 22,
+      "s": 0.12,
+      "l": 0.58
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "36mm",
+      "iso": "ISO 1300"
+    },
+    "location": "Milan, Italy"
+  },
+  "d6a5e8eb2b09b15a665baca292ee7fa96d1c7265b3118b2ffb783b9445480791": {
+    "type": "image",
+    "original_filename": "IMG_9195.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9195.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 11,
+      "s": 0.12,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "27mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Monaco"
+  },
+  "6b512a7d2539a9f3327db76a4b3913164a1ddb8e69b1ee09ee91bff082455463": {
+    "type": "image",
+    "original_filename": "IMG_9196.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9196.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 19,
+      "s": 0.15,
+      "l": 0.52
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "37mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Los Angeles, California"
+  },
+  "5e7249e067e38a0774be486ceff6414a1fbe39e907dc6c49d869fcad6b6e60a7": {
+    "type": "image",
+    "original_filename": "IMG_9197.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9197.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 6,
+      "s": 0.06,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "29mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Munich, Germany"
+  },
+  "ba4757cd52fb4449add88426286b75a64c582dfb34715c4d1e71b83b92cee5c0": {
+    "type": "image",
+    "original_filename": "IMG_9198.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9198.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 24,
+      "s": 0.14,
+      "l": 0.48
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "26mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Monaco"
+  },
+  "8f1d874a866cd557a965f532a706c066d1fac868c93ca655e65c4023b9c36d5c": {
+    "type": "image",
+    "original_filename": "IMG_9199.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9199.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 4,
+      "s": 0.06,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "37mm",
+      "iso": "ISO 1700"
+    },
+    "location": "London, UK"
+  },
+  "b9a76eceb53b603014165635a0466da932b5e02451b83d48682050c3caed3ede": {
+    "type": "image",
+    "original_filename": "IMG_9200.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9200.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 15,
+      "s": 0.08,
+      "l": 0.49
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "39mm",
+      "iso": "ISO 1600"
+    },
+    "location": "New York, New York"
+  },
+  "049ec39d9aaf3ebb662e18bbdeabbea4752bfd4008e9e22c806d2e1c93e7a400": {
+    "type": "image",
+    "original_filename": "IMG_9201.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9201.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 3,
+      "s": 0.07,
+      "l": 0.56
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "38mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Berlin, Germany"
+  },
+  "43468f2327780cd6eb8f6ec893763106ad8a1f21e07c513722a3620ac429d837": {
+    "type": "image",
+    "original_filename": "IMG_9202.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9202.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.19,
+      "l": 0.55
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "25mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Paris, France"
+  },
+  "a175835088598df7167162483cf18b5a72e00025838b91d48cf5acda8be0ed15": {
+    "type": "image",
+    "original_filename": "IMG_9203.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9203.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 26,
+      "s": 0.16,
+      "l": 0.56
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "29mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Munich, Germany"
+  },
+  "38003c08add84ae800ebaa4b87174893b355ba6cb0790c42ee3e22b92f9f31f6": {
+    "type": "image",
+    "original_filename": "IMG_9204.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9204.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 18,
+      "s": 0.07,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "40mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Monaco"
+  },
+  "0eba963648d95b66ccc2bebebc991c2fcd5f94ccf038ca8134f01c738e257c46": {
+    "type": "image",
+    "original_filename": "IMG_9205.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9205.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 35,
+      "s": 0.04,
+      "l": 0.51
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "33mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Paris, France"
+  },
+  "f39a0043c9800af77e3fe5eb936e2d57fb3d6bba50818c54315d4f82a2475e7c": {
+    "type": "image",
+    "original_filename": "IMG_9206.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9206.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.13,
+      "l": 0.43
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "26mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Milan, Italy"
+  },
+  "48184364adcc5a5eea68d7a0203408cacda9557cf72739954159365913d62895": {
+    "type": "image",
+    "original_filename": "IMG_9207.JPG",
+    "tags": [
+      "Noir",
+      "Muted",
+      "Golden",
+      "Foundational"
+    ],
+    "filename": "IMG_9207.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 40,
+      "s": 0.24,
+      "l": 0.26
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "39mm",
+      "iso": "ISO 2400"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "572ad0e8b88342ca62eeaa40949156272c893c38ca20818a78ad379b25810522": {
+    "type": "image",
+    "original_filename": "IMG_9208.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9208.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 13,
+      "s": 0.07,
+      "l": 0.61
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "31mm",
+      "iso": "ISO 1200"
+    },
+    "location": "Milan, Italy"
+  },
+  "cd10ee8c86b5aa616a3f9710692e775564a17b3ffdb6417ddf425849fcabf174": {
+    "type": "image",
+    "original_filename": "IMG_9209.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9209.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.13,
+      "l": 0.6
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "33mm",
+      "iso": "ISO 1300"
+    },
+    "location": "London, UK"
+  },
+  "56fca68c55cfb9bbc48843fa1a34624b6dfd205d06e29b3de1fc4b4cf58a2997": {
+    "type": "image",
+    "original_filename": "IMG_9210.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9210.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 28,
+      "s": 0.08,
+      "l": 0.49
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "33mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Milan, Italy"
+  },
+  "34cb96681617d2af3bceb7e391fae0d3423594abf2afdff297fc867fd533dda9": {
+    "type": "image",
+    "original_filename": "IMG_9211.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "IMG_9211.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 25,
+      "s": 0.18,
+      "l": 0.69
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "32mm",
+      "iso": "ISO 1000"
+    },
+    "location": "Munich, Germany"
+  },
+  "d8874e84ea239f3c59269b59879e148e32466d47b5ccbb683fe957adbae7df6b": {
+    "type": "image",
+    "original_filename": "IMG_9212.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9212.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 14,
+      "s": 0.08,
+      "l": 0.51
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "29mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Los Angeles, California"
+  },
+  "cb7a0c6044cf4ab2d45fe5c2ae369297c506ac325b1bea1eed0fd1e3eb447113": {
+    "type": "image",
+    "original_filename": "IMG_9213.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9213.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 14,
+      "s": 0.1,
+      "l": 0.52
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "28mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "81bcd614d160241158351492094a5b62f8d4719f6a357651daa19ac432d38da2": {
+    "type": "image",
+    "original_filename": "IMG_9214.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9214.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.1,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "29mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Paris, France"
+  },
+  "5af3cd62f8b7e2b2759c7711175d56a85c0d6666aaf43026e630b5d3a231fbb2": {
+    "type": "image",
+    "original_filename": "IMG_9215.JPG",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9215.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 22,
+      "s": 0.14,
+      "l": 0.33
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "37mm",
+      "iso": "ISO 2100"
+    },
+    "location": "Los Angeles, California"
+  },
+  "f3fc41314c7413df785422fd3be6beb0ab030bb60be9fb6491507ce4417fea0a": {
+    "type": "image",
+    "original_filename": "IMG_9216.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9216.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.13,
+      "l": 0.38
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "25mm",
+      "iso": "ISO 2000"
+    },
+    "location": "Paris, France"
+  },
+  "559ff88d3e7c842a0beb3c3f9eccdbd0afbdb28647a3b1a938b26880ccb9fb63": {
+    "type": "image",
+    "original_filename": "IMG_9217.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9217.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 348,
+      "s": 0.04,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "34mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Milan, Italy"
+  },
+  "6181cb1dd0cec821f5b2c62016cf41f91fe18f81be28051d70dc70efe2f19718": {
+    "type": "image",
+    "original_filename": "IMG_9218.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9218.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 11,
+      "s": 0.05,
+      "l": 0.4
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "30mm",
+      "iso": "ISO 1900"
+    },
+    "location": "Milan, Italy"
+  },
+  "9a9daf195e29025fbe57bea4f90bff695fab15b856b5819f1e0dc92eea630498": {
+    "type": "image",
+    "original_filename": "IMG_9219.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9219.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.14,
+      "l": 0.58
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "25mm",
+      "iso": "ISO 1300"
+    },
+    "location": "New York, New York"
+  },
+  "67fd04213787f934ffb0f8005990edb3943b606fd01df8f00c0a5828040e2042": {
+    "type": "image",
+    "original_filename": "IMG_9220.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9220.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.12,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "36mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "cc9a2e238cec6c6706cf1dbce3041f50c9ef6de911d635419b5a6319ea9206c8": {
+    "type": "image",
+    "original_filename": "IMG_9221.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9221.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 30,
+      "s": 0.1,
+      "l": 0.47
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "38mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "081f2f1af8a2a270c662d16691a75e98af4e010f5b1e8ab79357850bab74bbf4": {
+    "type": "image",
+    "original_filename": "IMG_9222.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9222.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 25,
+      "s": 0.06,
+      "l": 0.5
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "34mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Monaco"
+  },
+  "0fdad4430d239abb6ad7195f53c939cbfe0fc793a4f9d68179a2b8b7d1d3c9a2": {
+    "type": "image",
+    "original_filename": "IMG_9223.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9223.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.07,
+      "l": 0.57
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "28mm",
+      "iso": "ISO 1400"
+    },
+    "location": "New York, New York"
+  },
+  "fd575a7e2b7f2e577027181675aa9eb61257802c49a6ad2c097f689aefbe7a7d": {
+    "type": "image",
+    "original_filename": "IMG_9224.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9224.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 21,
+      "s": 0.12,
+      "l": 0.45
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "31mm",
+      "iso": "ISO 1800"
+    },
+    "location": "New York, New York"
+  },
+  "16531fe9008c0ebf55e6354044285923cc341042c5adb2f3e671de6b5db6d9ba": {
+    "type": "image",
+    "original_filename": "IMG_9225.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9225.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 20,
+      "s": 0.12,
+      "l": 0.5
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "35mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "993577701b54fed1567e5835ffeb0980d953175d2cb41ab6945d1712411bb68d": {
+    "type": "image",
+    "original_filename": "IMG_9226.JPG",
+    "tags": [
+      "Noir",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "IMG_9226.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.38,
+      "l": 0.19
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "33mm",
+      "iso": "ISO 2600"
+    },
+    "location": "Los Angeles, California"
+  },
+  "f491f29d3870680c978170cff6eb3eeeddf35a58c7eae60c878c6d7ee9110ed8": {
+    "type": "image",
+    "original_filename": "IMG_9227.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9227.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 40,
+      "s": 0.07,
+      "l": 0.44
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "26mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Los Angeles, California"
+  },
+  "8115a0f796f1238aee48b62b46c2d13a5ba66aac3bd2404114e528b9b9fb2f2d": {
+    "type": "image",
+    "original_filename": "IMG_9228.JPG",
+    "tags": [
+      "Noir",
+      "Muted",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "IMG_9228.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 26,
+      "s": 0.2,
+      "l": 0.3
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "36mm",
+      "iso": "ISO 2300"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "fcb297eacc8e297cfab0d55e6aa69e68902041403000fd72db8e600436b4e1e9": {
+    "type": "image",
+    "original_filename": "IMG_9231.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9231.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.06,
+      "l": 0.45
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "39mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "8d11bcedfd847778cc0c2e719fe2df27be67a648cd08aafe79befec93a6dcd1e": {
+    "type": "image",
+    "original_filename": "IMG_9232.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9232.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 20,
+      "s": 0.13,
+      "l": 0.36
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "39mm",
+      "iso": "ISO 2100"
+    },
+    "location": "Milan, Italy"
+  },
+  "2b9d596c276d35431ce54e228b105ae66d2901f1dc9a607f8e5ef7d21bae4c6a": {
+    "type": "image",
+    "original_filename": "IMG_9233.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9233.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 29,
+      "s": 0.12,
+      "l": 0.37
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "31mm",
+      "iso": "ISO 2000"
+    },
+    "location": "New York, New York"
+  },
+  "e1e515be6258b63e8b57999684464f661eec9ed452fb36e6d084ac488577a90c": {
+    "type": "image",
+    "original_filename": "IMG_9234.JPG",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "IMG_9234.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 11,
+      "s": 0.09,
+      "l": 0.37
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "38mm",
+      "iso": "ISO 2000"
+    },
+    "location": "Berlin, Germany"
+  },
+  "017b2fd7f248c7b5be483ce0c1196fab5b0c8f20de9c5bdb4aecaac326c3a86c": {
+    "type": "image",
+    "original_filename": "IMG_9235.JPG",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Golden"
+    ],
+    "filename": "IMG_9235.JPG",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 32,
+      "s": 0.21,
+      "l": 0.43
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "29mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "a76fd88ad749c80e39a280ec19aecf809bfcd7a767454af3fb3167c9d81f2185": {
+    "type": "image",
+    "original_filename": "b61a53ef-1646-4462-9219-3f321d104f20.jpg",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "b61a53ef-1646-4462-9219-3f321d104f20.jpg",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 31,
+      "s": 0.1,
+      "l": 0.28
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "30mm",
+      "iso": "ISO 2300"
+    },
+    "location": "London, UK"
+  },
+  "dad20b08a3ec6c68d9eaf3b0a39d3d19272d314013c694346f7d0a8a11b16e36": {
+    "type": "image",
+    "original_filename": "b7194831-c507-4cac-a475-bce5e6a3ea5e.jpg",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "b7194831-c507-4cac-a475-bce5e6a3ea5e.jpg",
+    "width": 1168,
+    "height": 784,
+    "aspectRatio": "1.49",
+    "stats": {
+      "h": 27,
+      "s": 0.08,
+      "l": 0.47
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "31mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "2966666a6cba1c76d54e81ac43efb9aee8bb896aaaad6b4a4a50ccf329acb75b": {
+    "type": "image",
+    "original_filename": "cd031a5e-2b8c-4dc3-9363-af8930fd0767.jpg",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "cd031a5e-2b8c-4dc3-9363-af8930fd0767.jpg",
+    "width": 1168,
+    "height": 784,
+    "aspectRatio": "1.49",
+    "stats": {
+      "h": 27,
+      "s": 0.1,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "39mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Los Angeles, California"
+  },
+  "a6f543e9429a7a952fba0d2a11e772414cd56be63dbba7d455bbd2aeea4b0943": {
+    "type": "image",
+    "original_filename": "e349e0bc-b729-46c1-abc7-da4cf100f1ee.jpg",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "e349e0bc-b729-46c1-abc7-da4cf100f1ee.jpg",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 26,
+      "s": 0.07,
+      "l": 0.4
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "39mm",
+      "iso": "ISO 1900"
+    },
+    "location": "London, UK"
+  },
+  "ef0c3dc9666c11330c1ce17182518bd54eef3ae4137f70b272d9831cbea91ccc": {
+    "type": "video",
+    "original_filename": "grok-video-136edf0a-b6e5-4c4c-a390-62b83559a941.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "ef0c3dc9666c11330c1ce17182518bd54eef3ae4137f70b272d9831cbea91ccc.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "28mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Milan, Italy"
+  },
+  "e2861507a3df8787d56582098cb4531831e8e810ba93d548afd1f55ac7cabfdd": {
+    "type": "video",
+    "original_filename": "grok-video-1cd99828-4468-42e5-8801-6af341f81c64.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "e2861507a3df8787d56582098cb4531831e8e810ba93d548afd1f55ac7cabfdd.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "39mm",
+      "iso": "ISO 2700"
+    },
+    "location": "New York, New York"
+  },
+  "886b51b7a256ed96d1617fe15e5660369ed9840f8aa11d6522e6d036216ac935": {
+    "type": "video",
+    "original_filename": "grok-video-4a95d473-d42c-4bbb-952f-fcd74c634a49.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "886b51b7a256ed96d1617fe15e5660369ed9840f8aa11d6522e6d036216ac935.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "29mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Milan, Italy"
+  },
+  "335b0d2cd376838320f25a56c67675e278af01ca137dc54bd73170b36984e7d1": {
+    "type": "video",
+    "original_filename": "grok-video-4ae8d9e8-d104-4ae8-a6d9-cc7cb334fcba.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "335b0d2cd376838320f25a56c67675e278af01ca137dc54bd73170b36984e7d1.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "37mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Monaco"
+  },
+  "4a8db2352a98852009cc876212eef152cc7201afbe9977a9214fdbe305fa6a3b": {
+    "type": "video",
+    "original_filename": "grok-video-63f7cd27-7565-4e5d-a63d-75f4ce58b42b.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "4a8db2352a98852009cc876212eef152cc7201afbe9977a9214fdbe305fa6a3b.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "38mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Munich, Germany"
+  },
+  "eeba25e1be6999168aec686990ae80b310c8d9a680c67fba9b688f2bc5a79c7e": {
+    "type": "video",
+    "original_filename": "grok-video-8b334d05-e30e-4215-8a35-fa08c117f26c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "eeba25e1be6999168aec686990ae80b310c8d9a680c67fba9b688f2bc5a79c7e.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "30mm",
+      "iso": "ISO 2700"
+    },
+    "location": "New York, New York"
+  },
+  "af78d2706bafa6c0ff0d34d311a5c6b73e3a61b71166fbacf379fb9f8b040b1b": {
+    "type": "video",
+    "original_filename": "grok-video-8ebe8036-5730-4500-8998-57570e03a927.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "af78d2706bafa6c0ff0d34d311a5c6b73e3a61b71166fbacf379fb9f8b040b1b.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "38mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "ecb1b68d101713a20cd25e1484e93aa370802f20a674517edb1a9f96ed4b5485": {
+    "type": "video",
+    "original_filename": "grok-video-9e3a3731-8515-442d-a827-8b9a2b1a5ce6.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "ecb1b68d101713a20cd25e1484e93aa370802f20a674517edb1a9f96ed4b5485.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "29mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "45e313ca727082df8fd5216bd34bea04c8b708e44bb37a57df98ea55ebe23562": {
+    "type": "video",
+    "original_filename": "grok-video-b61a53ef-1646-4462-9219-3f321d104f20.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "45e313ca727082df8fd5216bd34bea04c8b708e44bb37a57df98ea55ebe23562.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "35mm",
+      "iso": "ISO 2700"
+    },
+    "location": "London, UK"
+  },
+  "97d6b56e93e97109ce305b8dbe8165fa1437f75e364aaedbf8a58a1f8ffba54b": {
+    "type": "video",
+    "original_filename": "grok-video-cf3a4376-4fc9-46c4-8a65-13938d458e48.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "97d6b56e93e97109ce305b8dbe8165fa1437f75e364aaedbf8a58a1f8ffba54b.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "31mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "1879037ee855a452b878b1ff97e03f12b36f08a4d22403d5ec1b7f8d806ca928": {
+    "type": "video",
+    "original_filename": "grok-video-dbf8b3dd-a11c-44fc-b339-d0b7a87322a4.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "1879037ee855a452b878b1ff97e03f12b36f08a4d22403d5ec1b7f8d806ca928.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "35mm",
+      "iso": "ISO 2700"
+    },
+    "location": "London, UK"
+  },
+  "77c62dc13c8a853b4c95d83a7cee7bb773a55f14573375d1c7e4d738d35c188e": {
+    "type": "video",
+    "original_filename": "grok-video-ff500191-7bb0-4f9b-9dde-af6df061558b.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "77c62dc13c8a853b4c95d83a7cee7bb773a55f14573375d1c7e4d738d35c188e.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "25mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "68a629ff902aeb4868382ebabe82e015a9086a8b673725ef3a60444f41789045": {
+    "type": "image",
+    "original_filename": "imagine-004755e4.png",
+    "tags": [
+      "Noir",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "imagine-004755e4.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.38,
+      "l": 0.19
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "37mm",
+      "iso": "ISO 2600"
+    },
+    "location": "Munich, Germany"
+  },
+  "b6913cb7e42e028aa1a677ec993f3848fa5a6a81998fa725986f081bd2c334ca": {
+    "type": "image",
+    "original_filename": "imagine-01072e74.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-01072e74.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 28,
+      "s": 0.08,
+      "l": 0.49
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "28mm",
+      "iso": "ISO 1600"
+    },
+    "location": "London, UK"
+  },
+  "7e7741adacac92de707544fcd4376f0f4d95ac066589b11d9ebb8e9ba73facbb": {
+    "type": "video",
+    "original_filename": "imagine-028df70d.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "7e7741adacac92de707544fcd4376f0f4d95ac066589b11d9ebb8e9ba73facbb.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "29mm",
+      "iso": "ISO 2700"
+    },
+    "location": "London, UK"
+  },
+  "e7c7fb7d5ff54868c72aaad2f2942fa717d7271bcf962ac603cba0969a3aa5f5": {
+    "type": "video",
+    "original_filename": "imagine-03104d2e.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "e7c7fb7d5ff54868c72aaad2f2942fa717d7271bcf962ac603cba0969a3aa5f5.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "25mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "06df97c2949fe0d395c18add25dc2c053d2e7d8ecc73813eac61758f6612d783": {
+    "type": "image",
+    "original_filename": "imagine-038872f1.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-038872f1.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.1,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "33mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Berlin, Germany"
+  },
+  "6aae64451a18418b8739333e84be54f72c5aaa7724db966794bb5e1499befdd2": {
+    "type": "video",
+    "original_filename": "imagine-04d9b01f.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "6aae64451a18418b8739333e84be54f72c5aaa7724db966794bb5e1499befdd2.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "38mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Monaco"
+  },
+  "8184395eae955c38de74f5ccb040e00f99fbffafcdbb4cc169ad75d9ef344ebd": {
+    "type": "image",
+    "original_filename": "imagine-0653b736.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-0653b736.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.02,
+      "l": 0.44
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "32mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "e88eb90f6000c181bbade9bc3de6ac74d3cb5db8b19c52c4a5dcd0737ea8fd8c": {
+    "type": "video",
+    "original_filename": "imagine-07bb2c7c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "e88eb90f6000c181bbade9bc3de6ac74d3cb5db8b19c52c4a5dcd0737ea8fd8c.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "35mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Milan, Italy"
+  },
+  "21c10fb7ac365f8ac213a1121724328af8d9c479cc9191cb7de04b336d23835d": {
+    "type": "image",
+    "original_filename": "imagine-08695295.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-08695295.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 25,
+      "s": 0.18,
+      "l": 0.69
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "28mm",
+      "iso": "ISO 1000"
+    },
+    "location": "Paris, France"
+  },
+  "3d09e3f5cbf1fd649ef22fc6a949ef32c509a80ab3d219589d475434e8a16c89": {
+    "type": "image",
+    "original_filename": "imagine-08c74906.png",
+    "tags": [
+      "Noir",
+      "Muted",
+      "Golden",
+      "Foundational"
+    ],
+    "filename": "imagine-08c74906.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 40,
+      "s": 0.24,
+      "l": 0.26
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "26mm",
+      "iso": "ISO 2400"
+    },
+    "location": "Paris, France"
+  },
+  "bd91a3d80b89070e752072a0f376a80382802df701d09f3b8c61e115f5d74e80": {
+    "type": "image",
+    "original_filename": "imagine-09b7bc18.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-09b7bc18.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 25,
+      "s": 0.06,
+      "l": 0.5
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "38mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Paris, France"
+  },
+  "8fb46f6e080f46ae051a4682409122d1cbc839f6e20ba15a01acb22dfb30c162": {
+    "type": "image",
+    "original_filename": "imagine-0c03b672.png",
+    "tags": [
+      "Noir",
+      "Muted",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "imagine-0c03b672.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 27,
+      "s": 0.17,
+      "l": 0.32
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "34mm",
+      "iso": "ISO 2200"
+    },
+    "location": "Berlin, Germany"
+  },
+  "0c8d1a3e0094e3096becda20b62175929a0be9bc4c2cbbdf9b8efba742d7a7db": {
+    "type": "video",
+    "original_filename": "imagine-0d5c6b55.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "0c8d1a3e0094e3096becda20b62175929a0be9bc4c2cbbdf9b8efba742d7a7db.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "28mm",
+      "iso": "ISO 2700"
+    },
+    "location": "London, UK"
+  },
+  "547c1403ecbef6675353bcc9e78a53bf29ba7285db0ad00363cf5faf91d7d100": {
+    "type": "image",
+    "original_filename": "imagine-0e18c772.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-0e18c772.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 47,
+      "s": 0.05,
+      "l": 0.62
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "39mm",
+      "iso": "ISO 1200"
+    },
+    "location": "Monaco"
+  },
+  "93d53e9b68e912904459316a25c119c43f4979df75425c53a1ee11bbf5cc46d6": {
+    "type": "image",
+    "original_filename": "imagine-0ea25214.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-0ea25214.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 15,
+      "s": 0.19,
+      "l": 0.41
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "35mm",
+      "iso": "ISO 1900"
+    },
+    "location": "London, UK"
+  },
+  "86038fd982cac283f9100ef3fdb960ba9c0586200c33ede35853b1f08f8bf5d6": {
+    "type": "video",
+    "original_filename": "imagine-131b0452.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "86038fd982cac283f9100ef3fdb960ba9c0586200c33ede35853b1f08f8bf5d6.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "34mm",
+      "iso": "ISO 2700"
+    },
+    "location": "New York, New York"
+  },
+  "b3356b9868688f1278b2bb56feccbe58376bccbab2f50c012bca76657fd860f1": {
+    "type": "video",
+    "original_filename": "imagine-13e72824.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b3356b9868688f1278b2bb56feccbe58376bccbab2f50c012bca76657fd860f1.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "37mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "4ed1b554de3f6bdae5b5847d3d73e37118676afcc42bbe6d5bd6d8ab1d6d1fbc": {
+    "type": "image",
+    "original_filename": "imagine-15ef75c3.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-15ef75c3.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 20,
+      "s": 0.11,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "30mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Paris, France"
+  },
+  "c86d26507a79d0169b39dd26508cbddc19c09fee7347032d7aacace276bb39cd": {
+    "type": "image",
+    "original_filename": "imagine-1618628e.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-1618628e.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 20,
+      "s": 0.15,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "30mm",
+      "iso": "ISO 1500"
+    },
+    "location": "New York, New York"
+  },
+  "a78ac17523d6f01d20a5521d1723a0388c121f3dfe4b19b85a1f7e758106c873": {
+    "type": "image",
+    "original_filename": "imagine-1777db3e.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-1777db3e.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 11,
+      "s": 0.05,
+      "l": 0.4
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "27mm",
+      "iso": "ISO 1900"
+    },
+    "location": "London, UK"
+  },
+  "97dec4d6c9cd010660a1f5817b520ea13d8ffe2297966723ed1aaa148ac7b872": {
+    "type": "video",
+    "original_filename": "imagine-1cf9a4d3.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "97dec4d6c9cd010660a1f5817b520ea13d8ffe2297966723ed1aaa148ac7b872.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "39mm",
+      "iso": "ISO 2700"
+    },
+    "location": "New York, New York"
+  },
+  "1cc45b224b6d32d35a2b4df2cfaa815fa858436762d3f7d4d8b3dd1b4235856d": {
+    "type": "video",
+    "original_filename": "imagine-1d30d560.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "1cc45b224b6d32d35a2b4df2cfaa815fa858436762d3f7d4d8b3dd1b4235856d.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "35mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Paris, France"
+  },
+  "390abc426db885c9e7bab4f3f29d634c3387204ea3e08b5df82a83d656527062": {
+    "type": "image",
+    "original_filename": "imagine-1ee248e9.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-1ee248e9.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 26,
+      "s": 0.11,
+      "l": 0.37
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "38mm",
+      "iso": "ISO 2000"
+    },
+    "location": "London, UK"
+  },
+  "f0eab96e509b322dd269cc9c6b31f1fb0932cec522eb9aa820ca086ba37e35df": {
+    "type": "image",
+    "original_filename": "imagine-1f024091.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-1f024091.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.15,
+      "l": 0.4
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "39mm",
+      "iso": "ISO 1900"
+    },
+    "location": "Monaco"
+  },
+  "c18be5e1397897262b3244885b76ebff5298c92b75c02c1cbcdd55561a08a373": {
+    "type": "video",
+    "original_filename": "imagine-223e8a80.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "c18be5e1397897262b3244885b76ebff5298c92b75c02c1cbcdd55561a08a373.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "30mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "2ea97b701c85644c9ddd37894a63c3db43728fbc2b4a501e8b9b5c6febbe7170": {
+    "type": "video",
+    "original_filename": "imagine-24c5b79d.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "2ea97b701c85644c9ddd37894a63c3db43728fbc2b4a501e8b9b5c6febbe7170.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "31mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Paris, France"
+  },
+  "0194733a76a432e41bef4127e5536c6383018286c92b582e1421b898aac555df": {
+    "type": "image",
+    "original_filename": "imagine-25a1a95c.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-25a1a95c.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 27,
+      "s": 0.08,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "31mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Munich, Germany"
+  },
+  "27e91abfc87ea16ce38b6c829963e909df20f91ff1a31b6e2cbfea26631c1f87": {
+    "type": "image",
+    "original_filename": "imagine-263d3c3f.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-263d3c3f.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 18,
+      "s": 0.09,
+      "l": 0.48
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "34mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Munich, Germany"
+  },
+  "a4047b470ddb4ffb512336d308b1a909f491c6d8ae1ce8397da5ded7dc731c8e": {
+    "type": "video",
+    "original_filename": "imagine-2949907f.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "a4047b470ddb4ffb512336d308b1a909f491c6d8ae1ce8397da5ded7dc731c8e.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "33mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "9af41fa5402f72c3936c75edeed5ef257d295b383e591c2f1f4cb87f889c798d": {
+    "type": "image",
+    "original_filename": "imagine-2982c3a5.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-2982c3a5.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.19,
+      "l": 0.58
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "35mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Los Angeles, California"
+  },
+  "69207b6eb2948b89fc805bd14f0b2643e31b369941a02dba27d65d2c5638edf2": {
+    "type": "video",
+    "original_filename": "imagine-2a3404e5.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "69207b6eb2948b89fc805bd14f0b2643e31b369941a02dba27d65d2c5638edf2.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "40mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Monaco"
+  },
+  "7081900d92c7a4f8cea79c25793a8882a91af33d395b46442c8d57c5fc1a43d8": {
+    "type": "video",
+    "original_filename": "imagine-2b5afee4.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "7081900d92c7a4f8cea79c25793a8882a91af33d395b46442c8d57c5fc1a43d8.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "26mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "37add688ead31429c28446ed8f3687bc28e3a01d3a63f454667def0bb7f562ea": {
+    "type": "image",
+    "original_filename": "imagine-310d9313.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-310d9313.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.11,
+      "l": 0.54
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "28mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Monaco"
+  },
+  "f29e08094df16e5caf36b91b79d15d9b2da992ad8bf1b39e5b083b3a7a1a1be1": {
+    "type": "video",
+    "original_filename": "imagine-32442689.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "f29e08094df16e5caf36b91b79d15d9b2da992ad8bf1b39e5b083b3a7a1a1be1.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "25mm",
+      "iso": "ISO 2700"
+    },
+    "location": "New York, New York"
+  },
+  "7cfc857a008543f8818f0f5baa5f7712032b05030607f4d8edd2c3d0ade8d2b4": {
+    "type": "video",
+    "original_filename": "imagine-33acf7c1.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "7cfc857a008543f8818f0f5baa5f7712032b05030607f4d8edd2c3d0ade8d2b4.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "33mm",
+      "iso": "ISO 2700"
+    },
+    "location": "London, UK"
+  },
+  "e57bdb0d2c7169cca7f1bc0992e99f395674126d638ca02c4b9c994b2fe19634": {
+    "type": "image",
+    "original_filename": "imagine-37b1fcbf.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-37b1fcbf.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 22,
+      "s": 0.08,
+      "l": 0.47
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "37mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "ca41e647e540a7801bc806f2e941404b026d0eae60b6a368e04fee88a2124fd5": {
+    "type": "video",
+    "original_filename": "imagine-37fcd95c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "ca41e647e540a7801bc806f2e941404b026d0eae60b6a368e04fee88a2124fd5.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "29mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Munich, Germany"
+  },
+  "b0ceae37d5cf34a87328013211222bad1a7c899207cbfd1cdca97d4ec67182b3": {
+    "type": "image",
+    "original_filename": "imagine-38df9018.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-38df9018.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.13,
+      "l": 0.38
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "38mm",
+      "iso": "ISO 2000"
+    },
+    "location": "Munich, Germany"
+  },
+  "e508fdffbdf3edf70594853bdc8220405c364759732f8a71054dd39aa9cf7d6d": {
+    "type": "video",
+    "original_filename": "imagine-3a2bab8b.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "e508fdffbdf3edf70594853bdc8220405c364759732f8a71054dd39aa9cf7d6d.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "33mm",
+      "iso": "ISO 2700"
+    },
+    "location": "New York, New York"
+  },
+  "089754bdd1f3f2191d30825dbcc927d49f8f0a469a879e6761cef909101fbbdd": {
+    "type": "image",
+    "original_filename": "imagine-3b09f489.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-3b09f489.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.17,
+      "l": 0.61
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "29mm",
+      "iso": "ISO 1300"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "4668fee0588b94e7adb0d87f71326b06185f07fe678e8fd69502cca8a45da0a9": {
+    "type": "video",
+    "original_filename": "imagine-3d4d4c5c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "4668fee0588b94e7adb0d87f71326b06185f07fe678e8fd69502cca8a45da0a9.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "29mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Paris, France"
+  },
+  "50da7f1b66f397768c14a79fd77971ebb62a34264f6e5d850735808c3bc3220f": {
+    "type": "video",
+    "original_filename": "imagine-3d866a6c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "50da7f1b66f397768c14a79fd77971ebb62a34264f6e5d850735808c3bc3220f.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "30mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Munich, Germany"
+  },
+  "c3866ce324f25615f0688bc495830222670aca71052b866ced64877763d97e57": {
+    "type": "video",
+    "original_filename": "imagine-3ec96fae.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "c3866ce324f25615f0688bc495830222670aca71052b866ced64877763d97e57.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "30mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "b26da2a0b3b0b5ea54482f193c74ea7aad0aa0b4cb2bd4e10b138c188f5c192a": {
+    "type": "video",
+    "original_filename": "imagine-3fd5e866.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b26da2a0b3b0b5ea54482f193c74ea7aad0aa0b4cb2bd4e10b138c188f5c192a.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "38mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "7b43e4894cf065b534c67ea091dd570e3b224e81f25366005ad1a9bf869e7266": {
+    "type": "image",
+    "original_filename": "imagine-401c29b3.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-401c29b3.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 27,
+      "s": 0.11,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "32mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Milan, Italy"
+  },
+  "de7ab17d10bb2f90eea669dfc2060f38951513338bc47747efda24cf281ee6ef": {
+    "type": "video",
+    "original_filename": "imagine-42ad8862.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "de7ab17d10bb2f90eea669dfc2060f38951513338bc47747efda24cf281ee6ef.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "36mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "bf2445e20bd423809c5f472fc5b5048bdc4fab73381025c3e6d12d6b045bc050": {
+    "type": "image",
+    "original_filename": "imagine-447b709b.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-447b709b.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 11,
+      "s": 0.12,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "34mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "881b05bf7f505be5502be233aa2ec67cfcabe23688870d6857843978b5b6ced2": {
+    "type": "image",
+    "original_filename": "imagine-461811b6.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-461811b6.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 27,
+      "s": 0.07,
+      "l": 0.64
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "34mm",
+      "iso": "ISO 1100"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "a149eaaa1d763a50e9a0d841714cf64d28ad2a848d11eb795cac89464b0f73d7": {
+    "type": "image",
+    "original_filename": "imagine-465835b0.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-465835b0.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 29,
+      "s": 0.12,
+      "l": 0.37
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "26mm",
+      "iso": "ISO 2000"
+    },
+    "location": "New York, New York"
+  },
+  "6d4d8d2e6cac2222285bcb5fc943a50bb80ffd6d1a9fd8ad4573e777b9c231da": {
+    "type": "video",
+    "original_filename": "imagine-47b92d1a.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "6d4d8d2e6cac2222285bcb5fc943a50bb80ffd6d1a9fd8ad4573e777b9c231da.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "26mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Munich, Germany"
+  },
+  "6f4a98a6e430953670ae651b033287103d8b9f1bec7d5bdcbfbafbaf8839a400": {
+    "type": "image",
+    "original_filename": "imagine-485957f5.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-485957f5.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 28,
+      "s": 0.07,
+      "l": 0.55
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "38mm",
+      "iso": "ISO 1500"
+    },
+    "location": "New York, New York"
+  },
+  "bfbe4a84cac92f88bc2b127da6a167126a39b55bc6acbe781a8bea9b13512b25": {
+    "type": "video",
+    "original_filename": "imagine-4ab9294c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "bfbe4a84cac92f88bc2b127da6a167126a39b55bc6acbe781a8bea9b13512b25.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "38mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Monaco"
+  },
+  "a83f46174bed703ca1c1f3c3a71486a8be74f6f4f09a11fefb03af0dc193544c": {
+    "type": "video",
+    "original_filename": "imagine-4b38a2d1.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "a83f46174bed703ca1c1f3c3a71486a8be74f6f4f09a11fefb03af0dc193544c.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "27mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Munich, Germany"
+  },
+  "e9d95d851309003edcc2adf36741082f1313a4119ae9f7094a4c8014462cf19c": {
+    "type": "image",
+    "original_filename": "imagine-4cf0f2cc.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-4cf0f2cc.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 22,
+      "s": 0.12,
+      "l": 0.58
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "27mm",
+      "iso": "ISO 1300"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "1fcc6ee9b26e1d972151f07c04a9f5754694e16693282ab2cb22a497257b0604": {
+    "type": "image",
+    "original_filename": "imagine-4d2b3757.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-4d2b3757.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 20,
+      "s": 0.11,
+      "l": 0.56
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "29mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Berlin, Germany"
+  },
+  "9b99b77a6befa5f2811ddbce1a4acac4f1f046bcaaa9fa79d6ee0f5ba0a7133f": {
+    "type": "video",
+    "original_filename": "imagine-4e6831fa.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "9b99b77a6befa5f2811ddbce1a4acac4f1f046bcaaa9fa79d6ee0f5ba0a7133f.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "38mm",
+      "iso": "ISO 2700"
+    },
+    "location": "London, UK"
+  },
+  "facdf010f3b5fc758a553c5dc7b87737dd68d9f2a2d21766da47433915f15b9b": {
+    "type": "image",
+    "original_filename": "imagine-502b7e30.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-502b7e30.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 4,
+      "s": 0.06,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "39mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Milan, Italy"
+  },
+  "8519721937a419fd9582f276f28f89a88823708625d8825f5f7ab71c6c156597": {
+    "type": "video",
+    "original_filename": "imagine-521533e6.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "8519721937a419fd9582f276f28f89a88823708625d8825f5f7ab71c6c156597.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "32mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "b6abe500f17a5717ce4e6d8aab9644601fecdb5177c62732c53453a51dddca71": {
+    "type": "video",
+    "original_filename": "imagine-53bdb497.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b6abe500f17a5717ce4e6d8aab9644601fecdb5177c62732c53453a51dddca71.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "33mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "1e4ba6ae205d2d2090195e7fb551e90ef44bf78c3c6ed9936b357d8e30369c4e": {
+    "type": "image",
+    "original_filename": "imagine-5ab37b4c.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-5ab37b4c.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 40,
+      "s": 0.07,
+      "l": 0.44
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "33mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Paris, France"
+  },
+  "f9f9586d81ff48646750c30cd1be31a07a80ad8ebf9f3a335190a89f770d72f9": {
+    "type": "video",
+    "original_filename": "imagine-5b63199c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "f9f9586d81ff48646750c30cd1be31a07a80ad8ebf9f3a335190a89f770d72f9.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "39mm",
+      "iso": "ISO 2700"
+    },
+    "location": "London, UK"
+  },
+  "4c18ffe760d58b597c33263455ea48e6c31ceb6c3936063ff8899761b51255b4": {
+    "type": "image",
+    "original_filename": "imagine-5c60ff2c.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-5c60ff2c.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 348,
+      "s": 0.04,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "37mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Monaco"
+  },
+  "10545e6a19a8cab6e96508cf2481c2804aabbc9ccdb5ab9b6364475e62069915": {
+    "type": "video",
+    "original_filename": "imagine-5d237898.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "10545e6a19a8cab6e96508cf2481c2804aabbc9ccdb5ab9b6364475e62069915.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "40mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "9447f78bc0a4b8970d04e98ceb25946ba2635065ec5b2c91c548b4e179355bb0": {
+    "type": "image",
+    "original_filename": "imagine-5d70f5d4.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-5d70f5d4.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.07,
+      "l": 0.57
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "34mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Munich, Germany"
+  },
+  "461b0d06be76cc7aac14b547404b2e14535775c392213879c19f16675315410a": {
+    "type": "image",
+    "original_filename": "imagine-6161cc17.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-6161cc17.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.13,
+      "l": 0.6
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "25mm",
+      "iso": "ISO 1300"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "bb10b584e40e8bd842184ca2cc16ccb116e62a3b2de203f1a3529c63a18f7778": {
+    "type": "image",
+    "original_filename": "imagine-61ef0903.png",
+    "tags": [
+      "Noir",
+      "Muted",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "imagine-61ef0903.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 26,
+      "s": 0.28,
+      "l": 0.18
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "33mm",
+      "iso": "ISO 2600"
+    },
+    "location": "Paris, France"
+  },
+  "689cf1b180c99d7307e34caacad87bc33f7547fa7e69c1bb293aa5e3227411ef": {
+    "type": "video",
+    "original_filename": "imagine-631708b2.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "689cf1b180c99d7307e34caacad87bc33f7547fa7e69c1bb293aa5e3227411ef.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "29mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "7d6c72def88b450c68047019dba6347990b2395cfbc013a4d70a83cfaabe395b": {
+    "type": "video",
+    "original_filename": "imagine-631b5d15.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "7d6c72def88b450c68047019dba6347990b2395cfbc013a4d70a83cfaabe395b.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "37mm",
+      "iso": "ISO 2700"
+    },
+    "location": "London, UK"
+  },
+  "d619ea6d042d126672b42e7611d467376ad6f57be4893706fdcdcdc5197ba96c": {
+    "type": "image",
+    "original_filename": "imagine-63c224e4.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-63c224e4.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.13,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "30mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Milan, Italy"
+  },
+  "67d7d3bda4c99cfb0e4853ac900cf01868297f23d9c6a804374f1fe905741b3c": {
+    "type": "image",
+    "original_filename": "imagine-6430f70b.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-6430f70b.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 8,
+      "s": 0.07,
+      "l": 0.37
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "33mm",
+      "iso": "ISO 2000"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "28b1e54e73df3d05a87723f3e9201e55c5be879c3422f27abc81d2e8a6c8b86a": {
+    "type": "video",
+    "original_filename": "imagine-644ff859.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "28b1e54e73df3d05a87723f3e9201e55c5be879c3422f27abc81d2e8a6c8b86a.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "35mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Munich, Germany"
+  },
+  "c4fdab238e196e7150d01444cbfd6cec61cb57fcadd504cdd66007eb4da841c1": {
+    "type": "image",
+    "original_filename": "imagine-6597f39a.png",
+    "tags": [
+      "Noir",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "imagine-6597f39a.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.31,
+      "l": 0.3
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "30mm",
+      "iso": "ISO 2200"
+    },
+    "location": "Los Angeles, California"
+  },
+  "c835036b83c65ab51563a396e7328babace1cd4bcc7a988ccbfd6056f431ae2c": {
+    "type": "video",
+    "original_filename": "imagine-6ace733e.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "c835036b83c65ab51563a396e7328babace1cd4bcc7a988ccbfd6056f431ae2c.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "30mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "8831434aaaf38669e3d5a166b9837d03507a1a6870495f30406cbbca9e3e3296": {
+    "type": "image",
+    "original_filename": "imagine-6caca3cb.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-6caca3cb.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 14,
+      "s": 0.1,
+      "l": 0.43
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "28mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Paris, France"
+  },
+  "d0bd5d75b1b4c87c15fb90b1ac1e63ddc4014c52be22bef9ac8d665c257c6ab7": {
+    "type": "image",
+    "original_filename": "imagine-6d140ac4.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-6d140ac4.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 3,
+      "s": 0.07,
+      "l": 0.56
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "29mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Los Angeles, California"
+  },
+  "fd40cec7c88de4d57bab70bb93fbd3d6ede85acd219a5faf88c0a20f666db2a6": {
+    "type": "video",
+    "original_filename": "imagine-6dc55353.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "fd40cec7c88de4d57bab70bb93fbd3d6ede85acd219a5faf88c0a20f666db2a6.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "31mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "ae11ad7c501c5d69dc001c057f0b8f763420d6cb7e95b915aebc043aa8cb654d": {
+    "type": "video",
+    "original_filename": "imagine-6fe9df21.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "ae11ad7c501c5d69dc001c057f0b8f763420d6cb7e95b915aebc043aa8cb654d.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "28mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "556e494cf9e5b6d77d2155ea5b03de353b9269b3629bba63133a37110661af77": {
+    "type": "image",
+    "original_filename": "imagine-7266d1ba.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-7266d1ba.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 15,
+      "s": 0.08,
+      "l": 0.49
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "27mm",
+      "iso": "ISO 1600"
+    },
+    "location": "London, UK"
+  },
+  "862a52a19ba09a8c7520eeea8d97397266a3fba3ce609c7507f52ef7f812eaeb": {
+    "type": "image",
+    "original_filename": "imagine-72c8c3fa.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-72c8c3fa.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 37,
+      "s": 0.13,
+      "l": 0.57
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "35mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Munich, Germany"
+  },
+  "57bcadfa3546ee512fa5c116ae5ac39e03337acdbbfdd0ad845bc3468e272897": {
+    "type": "image",
+    "original_filename": "imagine-7368ee2a.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-7368ee2a.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 15,
+      "s": 0.1,
+      "l": 0.49
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "27mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Monaco"
+  },
+  "ecdb10bf0cf92ebf3633097c0122d9ee7fe237dfcd82109cdd7ae1b5ec295afa": {
+    "type": "image",
+    "original_filename": "imagine-77654c6f.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-77654c6f.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 20,
+      "s": 0.14,
+      "l": 0.42
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "40mm",
+      "iso": "ISO 1900"
+    },
+    "location": "Los Angeles, California"
+  },
+  "9cfddf1e398dd6ca2c75e777a5d3559d7108b04ddd8d56c83a6a1ca2250bd83a": {
+    "type": "video",
+    "original_filename": "imagine-79094d7d.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "9cfddf1e398dd6ca2c75e777a5d3559d7108b04ddd8d56c83a6a1ca2250bd83a.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "26mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "bc8c96ec54fc6297ecd74bcc7437c591aa03f6d9471a50e0ccf003904c0f267d": {
+    "type": "image",
+    "original_filename": "imagine-790e4739.png",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-790e4739.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 22,
+      "s": 0.14,
+      "l": 0.33
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "37mm",
+      "iso": "ISO 2100"
+    },
+    "location": "Milan, Italy"
+  },
+  "c97cf474fd84d02fcd4aad7dab2dab59ba7027c6194feb60d852347f0cd5da63": {
+    "type": "image",
+    "original_filename": "imagine-79540cc5.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-79540cc5.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 343,
+      "s": 0.06,
+      "l": 0.48
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "37mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Monaco"
+  },
+  "5d5de84df759646d0f6a0c44dd8f339681924ac4a326e4c6b0bc4669391b936f": {
+    "type": "image",
+    "original_filename": "imagine-7a74eb4c.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-7a74eb4c.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 6,
+      "s": 0.06,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "40mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Monaco"
+  },
+  "a22c4c7228d18df131042fde7448d4d1ff9fe56a0b92259087d5f86d5bf19310": {
+    "type": "video",
+    "original_filename": "imagine-7ad1f3b5.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "a22c4c7228d18df131042fde7448d4d1ff9fe56a0b92259087d5f86d5bf19310.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "35mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Monaco"
+  },
+  "5b2d1b8c7820dfcd3df77cdd3f254344d8466adbda06be474ead999af8a01603": {
+    "type": "image",
+    "original_filename": "imagine-7cd5134d.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-7cd5134d.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 38,
+      "s": 0.13,
+      "l": 0.39
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "40mm",
+      "iso": "ISO 2000"
+    },
+    "location": "New York, New York"
+  },
+  "8e03b34f8c52481adb90f5d508562287317b71410a3bfdd15a4c87a3410f150c": {
+    "type": "video",
+    "original_filename": "imagine-7d597488.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "8e03b34f8c52481adb90f5d508562287317b71410a3bfdd15a4c87a3410f150c.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "39mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "5a70ceed8b1f18bee4729c671777d44e638fa6fa5af5a5a575cb0bc150d5aa7a": {
+    "type": "video",
+    "original_filename": "imagine-7eda21ea.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "5a70ceed8b1f18bee4729c671777d44e638fa6fa5af5a5a575cb0bc150d5aa7a.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "31mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "a8d2eec5288290fb17615ef425521be69fb573696993135e6d9eee7c13c0c7e7": {
+    "type": "video",
+    "original_filename": "imagine-7f15c858.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "a8d2eec5288290fb17615ef425521be69fb573696993135e6d9eee7c13c0c7e7.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "26mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "bb8b6c6b931776f783a4ed0ac0c7a6fe316dd07553978b1ab3ba3c5f7b44bb70": {
+    "type": "image",
+    "original_filename": "imagine-80b065d3.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Golden"
+    ],
+    "filename": "imagine-80b065d3.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 31,
+      "s": 0.16,
+      "l": 0.57
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "38mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Berlin, Germany"
+  },
+  "701bed03192cef375c7afe7eb70786fc048c7dc6c32c54a8ff5ff23e220b85b9": {
+    "type": "image",
+    "original_filename": "imagine-810b4401.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-810b4401.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.06,
+      "l": 0.45
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "26mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Monaco"
+  },
+  "186086e5c7a90b1c481260139dc4123756fe74e88b1b9c68f100316cb7bac112": {
+    "type": "video",
+    "original_filename": "imagine-81fb3074.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "186086e5c7a90b1c481260139dc4123756fe74e88b1b9c68f100316cb7bac112.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "38mm",
+      "iso": "ISO 2700"
+    },
+    "location": "London, UK"
+  },
+  "c55e3889cb68fa8f2a90b069626ea2352c2e16c3aabe7eaee1e80bf7594df9b0": {
+    "type": "image",
+    "original_filename": "imagine-83cb2f94.png",
+    "tags": [
+      "Noir",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "imagine-83cb2f94.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.32,
+      "l": 0.19
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "40mm",
+      "iso": "ISO 2600"
+    },
+    "location": "Milan, Italy"
+  },
+  "ba48659ed8e1535122d8491fe461715be21b8d4a2274c396645cb0c481628434": {
+    "type": "image",
+    "original_filename": "imagine-83e7afef.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-83e7afef.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 20,
+      "s": 0.12,
+      "l": 0.5
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "29mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Berlin, Germany"
+  },
+  "fb5ea7867892303e09a970d3f010d26b39264e5aa6caa933efba4c54a10f3a54": {
+    "type": "image",
+    "original_filename": "imagine-8480085b.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-8480085b.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.2,
+      "l": 0.42
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "25mm",
+      "iso": "ISO 1900"
+    },
+    "location": "London, UK"
+  },
+  "6eebd20df6cdba265120d2286490c238787bc76512b52422df6af6b9764077d2": {
+    "type": "video",
+    "original_filename": "imagine-89f99129.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "6eebd20df6cdba265120d2286490c238787bc76512b52422df6af6b9764077d2.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "25mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "f90c8c86ea172b837b9ba2b7bbb44059ccb4225de261e5371ab29e9ac5b69d78": {
+    "type": "image",
+    "original_filename": "imagine-8a56503e.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-8a56503e.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.14,
+      "l": 0.58
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "27mm",
+      "iso": "ISO 1300"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "8bf3a41ef2974ae5ae1dcc7f9fe309d3344500b3d5da1a289020eb88ca2b038f": {
+    "type": "video",
+    "original_filename": "imagine-8b2c7e93.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "8bf3a41ef2974ae5ae1dcc7f9fe309d3344500b3d5da1a289020eb88ca2b038f.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "38mm",
+      "iso": "ISO 2700"
+    },
+    "location": "New York, New York"
+  },
+  "e274051b0ba417d31b4907ab605b9759dc641625db78cd97338d1115282d61f4": {
+    "type": "image",
+    "original_filename": "imagine-8eeb041e.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-8eeb041e.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 29,
+      "s": 0.16,
+      "l": 0.43
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "25mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Munich, Germany"
+  },
+  "02e5f99bc910f142ca2a9344fc8f39e02caf7ed5d3ee6e59e52ee28f806c6515": {
+    "type": "video",
+    "original_filename": "imagine-8ef6d53b.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "02e5f99bc910f142ca2a9344fc8f39e02caf7ed5d3ee6e59e52ee28f806c6515.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "30mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Paris, France"
+  },
+  "82cb4a2bac4c28f2d73478a78cf33f4d94a11217b89ed789975d6c5a590ae589": {
+    "type": "video",
+    "original_filename": "imagine-90a74f83.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "82cb4a2bac4c28f2d73478a78cf33f4d94a11217b89ed789975d6c5a590ae589.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "25mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "ebbc2178da9037dcb1d7655cada19e5237d478d689b6140b8ed9bbfc8fb6bfba": {
+    "type": "image",
+    "original_filename": "imagine-929863af.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-929863af.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 22,
+      "s": 0.12,
+      "l": 0.62
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "25mm",
+      "iso": "ISO 1200"
+    },
+    "location": "Berlin, Germany"
+  },
+  "1c3f5f301d57a0ff4f2f7fae36e0443649d887cf0959498c3736eba5f8d73f69": {
+    "type": "video",
+    "original_filename": "imagine-94206068.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "1c3f5f301d57a0ff4f2f7fae36e0443649d887cf0959498c3736eba5f8d73f69.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "32mm",
+      "iso": "ISO 2700"
+    },
+    "location": "London, UK"
+  },
+  "6861b36df75cd37f4a400945adc0ad33ca2d06478e30a70b3f23afc7086e7575": {
+    "type": "video",
+    "original_filename": "imagine-94f0e407.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "6861b36df75cd37f4a400945adc0ad33ca2d06478e30a70b3f23afc7086e7575.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "25mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Munich, Germany"
+  },
+  "3311b0c474c7b0d3b015f7cc4c98934185acd5ced47237ff37dd9d3f2f9b9114": {
+    "type": "image",
+    "original_filename": "imagine-957f5fdd.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-957f5fdd.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 15,
+      "s": 0.05,
+      "l": 0.44
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "32mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Milan, Italy"
+  },
+  "7fac2b7e106ec9d372c324b14ea17d38f981fe66cc788aa769b0369acd3c07ec": {
+    "type": "image",
+    "original_filename": "imagine-9a601be0.png",
+    "tags": [
+      "Noir",
+      "Muted",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "imagine-9a601be0.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.17,
+      "l": 0.2
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "36mm",
+      "iso": "ISO 2600"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "b8279557e35deb9810a76c37cbe835ef653e64690b9fe34c0e68c15e0daf98ac": {
+    "type": "video",
+    "original_filename": "imagine-9be0a3e1.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "b8279557e35deb9810a76c37cbe835ef653e64690b9fe34c0e68c15e0daf98ac.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "38mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Munich, Germany"
+  },
+  "57b92ae5e0915b04213033dd045a74df32e79c3d24c7f026e188483265789f6f": {
+    "type": "image",
+    "original_filename": "imagine-9cd5c4da.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-9cd5c4da.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 25,
+      "s": 0.2,
+      "l": 0.36
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "40mm",
+      "iso": "ISO 2100"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "c85aeecc0a0a895942d12e819682b7ad8234c9761abc819bff72b0a65bd146c5": {
+    "type": "image",
+    "original_filename": "imagine-9dbb7e3e.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-9dbb7e3e.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 3,
+      "s": 0.02,
+      "l": 0.49
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "27mm",
+      "iso": "ISO 1600"
+    },
+    "location": "London, UK"
+  },
+  "d0a1dd963f01fffcbae1f49a8d37a0866a3d26e9f61b864efe4f82a0aa0edee7": {
+    "type": "video",
+    "original_filename": "imagine-9dc67811.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "d0a1dd963f01fffcbae1f49a8d37a0866a3d26e9f61b864efe4f82a0aa0edee7.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "35mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "e758d912ab27f749a23bef34a7874a8b1bf2654f927c9d0af2e1eb03c6d9d593": {
+    "type": "image",
+    "original_filename": "imagine-a0b2ab6f.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-a0b2ab6f.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 21,
+      "s": 0.12,
+      "l": 0.45
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "30mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Berlin, Germany"
+  },
+  "481a113dc1e04982ae01220eaadabffeda917cd61a95a7145c8533e83d79308e": {
+    "type": "video",
+    "original_filename": "imagine-a21374d8.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "481a113dc1e04982ae01220eaadabffeda917cd61a95a7145c8533e83d79308e.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "39mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Milan, Italy"
+  },
+  "9e62244e5ef81006aeb98228916fdd03577764a1b0c8c1cabea8119dafe29517": {
+    "type": "video",
+    "original_filename": "imagine-a2b2e07f.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "9e62244e5ef81006aeb98228916fdd03577764a1b0c8c1cabea8119dafe29517.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "30mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "656e8e839d2e2b9222114799deed330d1bc1b0e567abc313036adcc25bd11853": {
+    "type": "image",
+    "original_filename": "imagine-a3cc5dfe.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-a3cc5dfe.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 359,
+      "s": 0.04,
+      "l": 0.49
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "35mm",
+      "iso": "ISO 1600"
+    },
+    "location": "New York, New York"
+  },
+  "b396eea197de96137500c35357dabde37cae308d37a539924be5947480c7c220": {
+    "type": "image",
+    "original_filename": "imagine-a4818232.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-a4818232.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.19,
+      "l": 0.55
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "31mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "afbbe99a415d7259b56ece0b5622514d3aeeffa7040ddcb07f985edec6775785": {
+    "type": "image",
+    "original_filename": "imagine-a9f5eeca.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-a9f5eeca.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 18,
+      "s": 0.08,
+      "l": 0.55
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "32mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Los Angeles, California"
+  },
+  "2bb61d79fa46d1d7068109953dcc8cde8dbd815ff30d59c8aec5ee031f7e0df5": {
+    "type": "image",
+    "original_filename": "imagine-aa8ffa89.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-aa8ffa89.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 30,
+      "s": 0.1,
+      "l": 0.47
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "30mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "276198d0d3c4d07cc942d6e793dd65d80b325b02cd1c57f8b4e80a8497c09d61": {
+    "type": "image",
+    "original_filename": "imagine-ab5a0502.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-ab5a0502.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.13,
+      "l": 0.43
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "40mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "db4e66c34b012d4ab361e92906498c7a28730fdd573bf0a1e6bd50572b6041df": {
+    "type": "image",
+    "original_filename": "imagine-ae6530e6.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-ae6530e6.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 31,
+      "s": 0.13,
+      "l": 0.54
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "30mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Paris, France"
+  },
+  "d56838b6a07eace5d58a71c08523972e563f6b56f7033b5d4d7042e83562d3e1": {
+    "type": "image",
+    "original_filename": "imagine-ae6d54aa.png",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-ae6d54aa.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 21,
+      "s": 0.14,
+      "l": 0.33
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "39mm",
+      "iso": "ISO 2200"
+    },
+    "location": "Berlin, Germany"
+  },
+  "5f14453b411f6dbd31d2f466d86742a0ca8894919205e7349dcfbd9b411e432f": {
+    "type": "image",
+    "original_filename": "imagine-aff6b6fc.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-aff6b6fc.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.12,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "28mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "c326871e8b2ff96e23d80a266088a8f0ff8535c372f25e352a17e0e723be2ec9": {
+    "type": "image",
+    "original_filename": "imagine-b0032497.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-b0032497.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 21,
+      "s": 0.19,
+      "l": 0.39
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "29mm",
+      "iso": "ISO 2000"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "5654d28809a97168286d55d7762bd45df6a42a21a12edc92c7eeacbf484f2d39": {
+    "type": "video",
+    "original_filename": "imagine-b0803c17.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "5654d28809a97168286d55d7762bd45df6a42a21a12edc92c7eeacbf484f2d39.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "39mm",
+      "iso": "ISO 2700"
+    },
+    "location": "New York, New York"
+  },
+  "a4bac80ca6bbcb755229e004ffa8a86e456068af86cbb4cf92cb53f1dd4c7150": {
+    "type": "image",
+    "original_filename": "imagine-b2f26535.png",
+    "tags": [
+      "Noir",
+      "Muted",
+      "Crimson",
+      "Foundational"
+    ],
+    "filename": "imagine-b2f26535.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 26,
+      "s": 0.2,
+      "l": 0.3
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "30mm",
+      "iso": "ISO 2300"
+    },
+    "location": "Paris, France"
+  },
+  "d524c07ed15139b5a13d1351e499a5ffc08bb74875648c1d8ea924c1caad4195": {
+    "type": "image",
+    "original_filename": "imagine-b4447c57.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-b4447c57.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.16,
+      "l": 0.44
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "31mm",
+      "iso": "ISO 1800"
+    },
+    "location": "Munich, Germany"
+  },
+  "39aee61d2c6655bcf6cec8f001825acc0d18890d6517fd3103629bbd587d593f": {
+    "type": "image",
+    "original_filename": "imagine-b4c8edd7.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-b4c8edd7.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 34,
+      "s": 0.06,
+      "l": 0.48
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "34mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Milan, Italy"
+  },
+  "93989f7f71b2a1d114a848180942a83bf03a416ea64403036d9c03fe12677ba0": {
+    "type": "video",
+    "original_filename": "imagine-b5e4ec84.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "93989f7f71b2a1d114a848180942a83bf03a416ea64403036d9c03fe12677ba0.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "32mm",
+      "iso": "ISO 2700"
+    },
+    "location": "New York, New York"
+  },
+  "10aeae574b496e266295a6dd6e75fbb661e15da9f53e5615a864dec09ab283bb": {
+    "type": "image",
+    "original_filename": "imagine-b7c9fe94.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-b7c9fe94.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 6,
+      "s": 0.03,
+      "l": 0.59
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "26mm",
+      "iso": "ISO 1300"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "4a1977f0aa780e935df8f60f1f61541ab54a241eddf0549a56f0fb9b6a4e083e": {
+    "type": "image",
+    "original_filename": "imagine-b88e5d20.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-b88e5d20.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 20,
+      "s": 0.13,
+      "l": 0.36
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "32mm",
+      "iso": "ISO 2100"
+    },
+    "location": "Milan, Italy"
+  },
+  "ad46f0bd9ee4a19f07a80a564c6d9a375da31eb4103a8ffca02994c387a6bfb1": {
+    "type": "video",
+    "original_filename": "imagine-bbee048e.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "ad46f0bd9ee4a19f07a80a564c6d9a375da31eb4103a8ffca02994c387a6bfb1.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "36mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Monaco"
+  },
+  "842865bc936bb621af1a724fa680f03ee5f6d914eaeadd8c7db716539ff6c840": {
+    "type": "video",
+    "original_filename": "imagine-bc7afde3.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "842865bc936bb621af1a724fa680f03ee5f6d914eaeadd8c7db716539ff6c840.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.9",
+      "focalLength": "33mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Munich, Germany"
+  },
+  "064b6c3b102a3025a8912e44dc5b2e4ecd4a39baa57308d5d7933891a4767480": {
+    "type": "image",
+    "original_filename": "imagine-bf621c20.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-bf621c20.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 24,
+      "s": 0.14,
+      "l": 0.48
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "28mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Paris, France"
+  },
+  "a847c3a13f49ef6e758e6215557b160ad902018ea5d72b954c73a4a9628976f1": {
+    "type": "video",
+    "original_filename": "imagine-bf839914.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "a847c3a13f49ef6e758e6215557b160ad902018ea5d72b954c73a4a9628976f1.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "38mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "528c64125817d12181af979d6633dd3ac32825a6f90e2a4bfbe9544ad32e6188": {
+    "type": "video",
+    "original_filename": "imagine-bfcccf2b.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "528c64125817d12181af979d6633dd3ac32825a6f90e2a4bfbe9544ad32e6188.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "34mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "d8f385a3afd94b728f6f4e3954f9ee1fbd2578db03d102454ed4640acd09fa55": {
+    "type": "image",
+    "original_filename": "imagine-bfd95d3e.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-bfd95d3e.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 13,
+      "s": 0.07,
+      "l": 0.61
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "31mm",
+      "iso": "ISO 1200"
+    },
+    "location": "London, UK"
+  },
+  "d10d8ec2fac6e39aa409febd3cbc59bc5358c2a2796be7fc9f741bfc7eda5fd8": {
+    "type": "image",
+    "original_filename": "imagine-c06a0405.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-c06a0405.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 21,
+      "s": 0.13,
+      "l": 0.48
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "30mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "a3a6c7907178865b7a449b12ae69be8a109ac05765d8a94e5a01e758b62a3c54": {
+    "type": "image",
+    "original_filename": "imagine-c1a42c05.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-c1a42c05.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 13,
+      "s": 0.07,
+      "l": 0.56
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "35mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "9801824d84a3be2e6b364cb45162406faaa2a8faf49b6b1444e1abffef470b7c": {
+    "type": "video",
+    "original_filename": "imagine-c3673980.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "9801824d84a3be2e6b364cb45162406faaa2a8faf49b6b1444e1abffef470b7c.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "29mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "d775958365b60af06ab9c3e150f28f10668c785fc2480091a1ed1d366e912748": {
+    "type": "image",
+    "original_filename": "imagine-c6280af6.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-c6280af6.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 55,
+      "s": 0.08,
+      "l": 0.54
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "31mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Berlin, Germany"
+  },
+  "168379d7c4a611ffd29d01e91a887c960a6002b3568a8d2f86fb3f598f21182b": {
+    "type": "image",
+    "original_filename": "imagine-c7f89868.png",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-c7f89868.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.1,
+      "l": 0.25
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "32mm",
+      "iso": "ISO 2400"
+    },
+    "location": "London, UK"
+  },
+  "a33a7e0875da27b86c4a48d8c036408d9ad8d130347ec160c8edbb25cfe55802": {
+    "type": "image",
+    "original_filename": "imagine-ca3d2f11.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-ca3d2f11.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.18,
+      "l": 0.48
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "35mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Milan, Italy"
+  },
+  "cdb713d63901a0e1062e5aa19b722012ec5d44850eacb6cd65789462c5ba9d53": {
+    "type": "video",
+    "original_filename": "imagine-cd934023.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "cdb713d63901a0e1062e5aa19b722012ec5d44850eacb6cd65789462c5ba9d53.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "28mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Monaco"
+  },
+  "e58c554defc72dcff1f48aebf8effc42346876b09472270d3f6252ea78239dd3": {
+    "type": "image",
+    "original_filename": "imagine-d0876bf6.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-d0876bf6.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.04,
+      "l": 0.49
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "34mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Monaco"
+  },
+  "71d83b8e4b3ce35567664359e165feffd5cf406696df3fcb102ea7c60bbcbb23": {
+    "type": "video",
+    "original_filename": "imagine-d08f027b.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "71d83b8e4b3ce35567664359e165feffd5cf406696df3fcb102ea7c60bbcbb23.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.7",
+      "focalLength": "36mm",
+      "iso": "ISO 2700"
+    },
+    "location": "London, UK"
+  },
+  "160dbce99b8a593e3bd8238dade54837b6ffe32c978136ea36607e858e85e483": {
+    "type": "video",
+    "original_filename": "imagine-d236af7c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "160dbce99b8a593e3bd8238dade54837b6ffe32c978136ea36607e858e85e483.mp4",
+    "width": 672,
+    "height": 448,
+    "aspectRatio": "1.50",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "34mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Monaco"
+  },
+  "847bd3cb33799b9a446eaac0db1447c8eae627ab2af87107e0439d6dacac93d2": {
+    "type": "image",
+    "original_filename": "imagine-d28b6949.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-d28b6949.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 19,
+      "s": 0.15,
+      "l": 0.52
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "28mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Monaco"
+  },
+  "f9483d9140a2da22a9c46a2317c30196b55aeb24cdee43280d121ef174c5a201": {
+    "type": "video",
+    "original_filename": "imagine-d4424029.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "f9483d9140a2da22a9c46a2317c30196b55aeb24cdee43280d121ef174c5a201.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "29mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Monaco"
+  },
+  "c3de498ff6ad9da52f84402f26ff6bcd46e3c0f818e403e1f5c8ef54bc78fff2": {
+    "type": "video",
+    "original_filename": "imagine-d4c2131a.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "c3de498ff6ad9da52f84402f26ff6bcd46e3c0f818e403e1f5c8ef54bc78fff2.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "28mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Munich, Germany"
+  },
+  "de29f97a3a92ed8b64acb436cd2e0fb6a1a81c5878a6af594f071b34bee9dfa2": {
+    "type": "video",
+    "original_filename": "imagine-d677ba98.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "de29f97a3a92ed8b64acb436cd2e0fb6a1a81c5878a6af594f071b34bee9dfa2.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "31mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Munich, Germany"
+  },
+  "52d113d57ba071d43bf0c8d094bb08e981b0631de486b7f7db79990ec00525e1": {
+    "type": "image",
+    "original_filename": "imagine-d7c98e5c.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-d7c98e5c.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 18,
+      "s": 0.07,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "31mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Munich, Germany"
+  },
+  "9b8ddfc6918c9246fa2b8454610262d9cbd927db8c38f8ea5c297e426929f049": {
+    "type": "image",
+    "original_filename": "imagine-d8ee029b.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Crimson"
+    ],
+    "filename": "imagine-d8ee029b.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 26,
+      "s": 0.16,
+      "l": 0.56
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "35mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "3b2fa8c5c03c991472c838b4c7c9f5045d1963266dc96a1c9144e6e4f0ce05f3": {
+    "type": "video",
+    "original_filename": "imagine-d9fc1d35.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "3b2fa8c5c03c991472c838b4c7c9f5045d1963266dc96a1c9144e6e4f0ce05f3.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "37mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "391ff139f63a423bd8c44d8230136142b75797edc827b331288eaf9fea1845cb": {
+    "type": "video",
+    "original_filename": "imagine-dab07e11.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "391ff139f63a423bd8c44d8230136142b75797edc827b331288eaf9fea1845cb.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.8",
+      "focalLength": "27mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "f39ea42631a761a8ccc7d0fa59d654a067f273ed9d33aa96165a228941d7eb81": {
+    "type": "image",
+    "original_filename": "imagine-daf8b4d1.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-daf8b4d1.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 23,
+      "s": 0.08,
+      "l": 0.57
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "28mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Paris, France"
+  },
+  "d9c9fee371172217d9992902324eea137beeea7db8226df5b1b0854e43bd76da": {
+    "type": "video",
+    "original_filename": "imagine-e13494ba.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "d9c9fee371172217d9992902324eea137beeea7db8226df5b1b0854e43bd76da.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "31mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Berlin, Germany"
+  },
+  "8350552968931873348b232028f2449860c8afa18dad350d51a27bb1bf9bed0f": {
+    "type": "image",
+    "original_filename": "imagine-e18b2aa1.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-e18b2aa1.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 26,
+      "s": 0.05,
+      "l": 0.6
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "34mm",
+      "iso": "ISO 1300"
+    },
+    "location": "Berlin, Germany"
+  },
+  "56399578260fc1e2b171eafab35acffdd3eba3c183002111d9b75ecf51fc9bd3": {
+    "type": "image",
+    "original_filename": "imagine-e3a4bb75.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-e3a4bb75.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 14,
+      "s": 0.1,
+      "l": 0.52
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "32mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Tokyo, Japan"
+  },
+  "499b54b9d4c0be93560623c3a6a0f51ac344dbbfb3949e988da7e9b92fa9392a": {
+    "type": "video",
+    "original_filename": "imagine-e3cf56c9.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "499b54b9d4c0be93560623c3a6a0f51ac344dbbfb3949e988da7e9b92fa9392a.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "33mm",
+      "iso": "ISO 2700"
+    },
+    "location": "London, UK"
+  },
+  "5a0e992793f7148eb932dd3438d1c49ffe8fb82b4cd895a63e3a36260e978794": {
+    "type": "video",
+    "original_filename": "imagine-e46c3c79.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "5a0e992793f7148eb932dd3438d1c49ffe8fb82b4cd895a63e3a36260e978794.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "39mm",
+      "iso": "ISO 2700"
+    },
+    "location": "London, UK"
+  },
+  "72cc6ca89542e9d40978c51f15128d03ca898a556656c853cd7d1daa61a327c6": {
+    "type": "image",
+    "original_filename": "imagine-e59e9307.png",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-e59e9307.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 356,
+      "s": 0.06,
+      "l": 0.2
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "25mm",
+      "iso": "ISO 2500"
+    },
+    "location": "Milan, Italy"
+  },
+  "83e44495722b0e67f306ccb8414571b3bf195f8f55b0b889165629e728cd860a": {
+    "type": "image",
+    "original_filename": "imagine-e8668a99.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-e8668a99.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 11,
+      "s": 0.09,
+      "l": 0.37
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "40mm",
+      "iso": "ISO 2000"
+    },
+    "location": "Los Angeles, California"
+  },
+  "327563a311a887607e424b76a0d4977dfe1267319300fd65a0b98e67a421ba17": {
+    "type": "image",
+    "original_filename": "imagine-eac16104.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-eac16104.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 35,
+      "s": 0.04,
+      "l": 0.51
+    },
+    "camera": {
+      "fstop": "f/2.2",
+      "focalLength": "30mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Milan, Italy"
+  },
+  "c670c00b6b4ee9d01e6e168df66786a3ae198f5e45177073958db1269264a36d": {
+    "type": "image",
+    "original_filename": "imagine-eb4635ff.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-eb4635ff.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 16,
+      "s": 0.1,
+      "l": 0.53
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "27mm",
+      "iso": "ISO 1500"
+    },
+    "location": "Berlin, Germany"
+  },
+  "8ed46f6b1cb2f28427ef5302582fa07893280d84dbb392e0b93a59d75a37d215": {
+    "type": "video",
+    "original_filename": "imagine-ebd71603.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "8ed46f6b1cb2f28427ef5302582fa07893280d84dbb392e0b93a59d75a37d215.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.0",
+      "focalLength": "40mm",
+      "iso": "ISO 2700"
+    },
+    "location": "New York, New York"
+  },
+  "2af3623ae85b4606e558c30e1b5e1598a63356877770515bf563715bbc3235fc": {
+    "type": "video",
+    "original_filename": "imagine-ed1bb4f5.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "2af3623ae85b4606e558c30e1b5e1598a63356877770515bf563715bbc3235fc.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "39mm",
+      "iso": "ISO 2700"
+    },
+    "location": "New York, New York"
+  },
+  "4c41769492b1a99c5c77c756e01203f4f6ed6f755ad969749a1ca46706c7dc59": {
+    "type": "video",
+    "original_filename": "imagine-ed73ab8f.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "4c41769492b1a99c5c77c756e01203f4f6ed6f755ad969749a1ca46706c7dc59.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.5",
+      "focalLength": "27mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "e023eed6529f69a1f5108022847e9464396869bae9655a7daef9b0e60d527423": {
+    "type": "video",
+    "original_filename": "imagine-ee6bd2a1.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "e023eed6529f69a1f5108022847e9464396869bae9655a7daef9b0e60d527423.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.6",
+      "focalLength": "35mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Monaco"
+  },
+  "55628135088386e8cbc6ecaa63f8070988076336aefe5e6ebbe42a0c69ca784c": {
+    "type": "image",
+    "original_filename": "imagine-ef365762.png",
+    "tags": [
+      "Balanced",
+      "Muted",
+      "Golden"
+    ],
+    "filename": "imagine-ef365762.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 31,
+      "s": 0.19,
+      "l": 0.57
+    },
+    "camera": {
+      "fstop": "f/2.3",
+      "focalLength": "27mm",
+      "iso": "ISO 1400"
+    },
+    "location": "Berlin, Germany"
+  },
+  "a03af726a5b226b0c3199c10848a054e0ad3e91d78881abf493d1ac4b319a150": {
+    "type": "video",
+    "original_filename": "imagine-efc1b6b7.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "a03af726a5b226b0c3199c10848a054e0ad3e91d78881abf493d1ac4b319a150.mp4",
+    "width": 544,
+    "height": 544,
+    "aspectRatio": "1.00",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.8",
+      "focalLength": "38mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "51b741a3d0129b4cdd3412caf979c0dce067e721e6181e0b04b6b3b83c056f22": {
+    "type": "image",
+    "original_filename": "imagine-f221dc55.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-f221dc55.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.07,
+      "l": 0.46
+    },
+    "camera": {
+      "fstop": "f/2.1",
+      "focalLength": "40mm",
+      "iso": "ISO 1700"
+    },
+    "location": "Los Angeles, California"
+  },
+  "5986d8275f3ef8dbf5e78bee11998524c3f45698f56a6a173e600fad3a115b9e": {
+    "type": "image",
+    "original_filename": "imagine-f2d80de4.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-f2d80de4.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 14,
+      "s": 0.08,
+      "l": 0.51
+    },
+    "camera": {
+      "fstop": "f/1.6",
+      "focalLength": "28mm",
+      "iso": "ISO 1600"
+    },
+    "location": "Berlin, Germany"
+  },
+  "3fb99264786fc655fd3a284698c25626e00acc8e6ae371dc591ec802975e7e80": {
+    "type": "image",
+    "original_filename": "imagine-f39ed778.png",
+    "tags": [
+      "Balanced",
+      "Monochrome",
+      "Foundational"
+    ],
+    "filename": "imagine-f39ed778.png",
+    "width": 784,
+    "height": 1168,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 17,
+      "s": 0.12,
+      "l": 0.64
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "30mm",
+      "iso": "ISO 1100"
+    },
+    "location": "Munich, Germany"
+  },
+  "1e482c0937a6beeaf663404dc8e32767d6816f480e85a9493c87022c6b538f56": {
+    "type": "video",
+    "original_filename": "imagine-fabea420.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "1e482c0937a6beeaf663404dc8e32767d6816f480e85a9493c87022c6b538f56.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.5",
+      "focalLength": "30mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "a61b63d734cc08a4fa999742e3052da5c0ee8822458dab2eeb1046df321f7dc5": {
+    "type": "video",
+    "original_filename": "imagine-fae10e4a.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "a61b63d734cc08a4fa999742e3052da5c0ee8822458dab2eeb1046df321f7dc5.mp4",
+    "width": 448,
+    "height": 672,
+    "aspectRatio": "0.67",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.7",
+      "focalLength": "38mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "678e7ce4d4ad3ae8756ed4fa84b1709af8ab9dff984993a144247e3f79ee3a53": {
+    "type": "video",
+    "original_filename": "imagine-fc4d868c.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "678e7ce4d4ad3ae8756ed4fa84b1709af8ab9dff984993a144247e3f79ee3a53.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/2.4",
+      "focalLength": "40mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Barcelona, Spain"
+  },
+  "aeb5dbc65ee703284084844f3babdc4a7386ce963880ebe295120e29e97d2636": {
+    "type": "video",
+    "original_filename": "imagine-febcc113.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "aeb5dbc65ee703284084844f3babdc4a7386ce963880ebe295120e29e97d2636.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "33mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Munich, Germany"
+  },
+  "58929a754c4916b59184c619ab8089e5bfde937325219a03eee5d9fca0f4c8db": {
+    "type": "video",
+    "original_filename": "imagine-fed79837.mp4",
+    "tags": [
+      "Noir",
+      "Monochrome",
+      "Foundational",
+      "Motion"
+    ],
+    "filename": "58929a754c4916b59184c619ab8089e5bfde937325219a03eee5d9fca0f4c8db.mp4",
+    "width": 736,
+    "height": 400,
+    "aspectRatio": "1.84",
+    "stats": {
+      "h": 0,
+      "s": 0,
+      "l": 0.16
+    },
+    "camera": {
+      "fstop": "f/1.9",
+      "focalLength": "39mm",
+      "iso": "ISO 2700"
+    },
+    "location": "Monaco"
+  }
+}
