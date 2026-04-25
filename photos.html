@@ -137,13 +137,32 @@
             justify-content: flex-start;
             gap: 0.3rem;
             margin-top: 0.6rem;
+            pointer-events: auto;
         }
 
         .color-swatch {
-            width: 10px;
-            height: 10px;
+            width: 16px;
+            height: 16px;
+            border-radius: 3px;
+            border: 1px solid rgba(255,255,255,0.3);
+            padding: 0;
+            cursor: pointer;
+            background: none;
+            -webkit-appearance: none;
+            transition: transform 0.2s ease;
+        }
+        
+        .color-swatch:hover {
+            transform: scale(1.2);
+        }
+
+        .color-swatch::-webkit-color-swatch-wrapper {
+            padding: 0;
+        }
+
+        .color-swatch::-webkit-color-swatch {
+            border: none;
             border-radius: 2px;
-            border: 1px solid rgba(255,255,255,0.15);
         }
 
         .meta-data {
@@ -230,6 +249,13 @@
             }
         }
 
+        function rgbToHex(rgb) {
+            if (rgb.startsWith('#')) return rgb;
+            const match = rgb.match(/rgb\((\d+),\s*(\d+),\s*(\d+)\)/);
+            if (!match) return '#000000';
+            return '#' + match.slice(1, 4).map(x => parseInt(x).toString(16).padStart(2, '0')).join('');
+        }
+
         function renderGallery(images) {
             const gallery = document.getElementById('gallery');
             gallery.innerHTML = '';
@@ -254,8 +280,8 @@
                     ? `<video src="pics/${img.filename}" autoplay loop muted playsinline disablePictureInPicture draggable="false"></video>` 
                     : `<img src="pics/${img.filename}" alt="${img.tags.join(', ')}" loading="lazy" draggable="false">`;
 
-                const paletteHtml = img.palette ? `<div class="palette">
-                    ${img.palette.map(c => `<div class="color-swatch" style="background-color: ${c}"></div>`).join('')}
+                const paletteHtml = img.palette ? `<div class="palette" title="Open Color Picker">
+                    ${img.palette.map(c => `<input type="color" class="color-swatch" value="${rgbToHex(c)}" aria-label="Color Swatch">`).join('')}
                 </div>` : '';
 
                 card.innerHTML = `
