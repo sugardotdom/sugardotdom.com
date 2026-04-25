@@ -85,12 +85,26 @@
             -o-user-select: none;
             user-select: none;
             pointer-events: auto;
+            /* Force disable dragging */
+            -webkit-user-drag: none;
+            user-drag: none;
         }
 
-        /* Prevent context menu on images */
+        /* Prevent image saving - Global */
         .mosaic-item img {
             -webkit-touch-callout: none;
-            -webkit-user-select: none;
+        }
+
+        /* Mobile specific - overlay capture */
+        .mosaic-item {
+            position: relative;
+        }
+        .mosaic-item::after {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: transparent;
+            z-index: 5;
         }
 
         /* Focused View State */
@@ -131,30 +145,26 @@
             container.classList.toggle('force-color');
         }
 
-        // Handle focused view on click for mobile
+        // Optimized Touch/Click handler
         const items = document.querySelectorAll('.mosaic-item');
-        items.forEach(item => {
+        
+        const showImage = (item) => {
+            items.forEach(i => i.querySelector('img').classList.remove('focused'));
             const img = item.querySelector('img');
-            
-            // Toggle focus on click
-            item.addEventListener('click', () => {
-                items.forEach(i => i.querySelector('img').classList.remove('focused'));
-                img.classList.add('focused');
+            img.classList.add('focused');
+            img.style.objectFit = 'contain';
+            img.style.backgroundColor = 'black';
+        };
+
+        items.forEach(item => {
+            // Click/Tap handler
+            item.addEventListener('click', (e) => {
+                e.preventDefault();
+                showImage(item);
             });
-            
-            // Handle long-press (prevent native save, reveal full image)
-            let timer;
-            item.addEventListener('touchstart', (e) => {
-                timer = setTimeout(() => {
-                    img.classList.add('focused');
-                    img.style.objectFit = 'contain'; // Reveal without crop
-                    img.style.backgroundColor = 'black'; // Padding
-                }, 500); // 500ms for long-press
-            });
-            
-            item.addEventListener('touchend', () => {
-                clearTimeout(timer);
-            });
+
+            // Prevent drag
+            item.addEventListener('dragstart', (e) => e.preventDefault());
         });
     </script>
     <style>
