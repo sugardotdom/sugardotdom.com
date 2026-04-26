@@ -76,7 +76,7 @@
             margin-top: 3rem;
             display: flex;
             justify-content: center;
-            gap: 1.5rem;
+            align-items: center;
             flex-wrap: wrap;
         }
 
@@ -87,6 +87,19 @@
             letter-spacing: 0.1rem;
             text-transform: uppercase;
             transition: color 0.3s ease;
+            display: flex;
+            align-items: center;
+        }
+
+        .socials a:not(:last-child):after {
+            content: "";
+            display: inline-block;
+            width: 1px;
+            height: 12px;
+            background-color: var(--accent-color);
+            margin-left: 1.2rem;
+            margin-right: 1.2rem;
+            opacity: 0.3;
         }
 
         .socials a:hover {
@@ -141,10 +154,10 @@
         </nav>
 
         <div class="socials">
-            <a href="https://onlyfans.com/sugardotdom" target="_blank" rel="noopener">OnlyFans</a> | 
-            <a href="https://x.com/sugardotdom" target="_blank" rel="noopener">X</a> | 
-            <a href="https://snapchat.com/add/sugardotdom" target="_blank" rel="noopener">Snapchat</a> | 
-            <a href="https://instagram.com/sugardotdom" target="_blank" rel="noopener">Instagram</a> | 
+            <a href="https://onlyfans.com/sugardotdom" target="_blank" rel="noopener">OnlyFans</a>
+            <a href="https://x.com/sugardotdom" target="_blank" rel="noopener">X</a>
+            <a href="https://snapchat.com/add/sugardotdom" target="_blank" rel="noopener">Snapchat</a>
+            <a href="https://instagram.com/sugardotdom" target="_blank" rel="noopener">Instagram</a>
             <a href="https://tiktok.com/@sugardotdom" target="_blank" rel="noopener">TikTok</a>
         </div>
     </div>
