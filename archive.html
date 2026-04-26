@@ -77,7 +77,8 @@
 
         .controls {
             display: flex;
-            justify-content: space-between;
+            flex-direction: column;
+            gap: 1rem;
             font-size: 0.8rem;
             text-transform: uppercase;
             letter-spacing: 0.05rem;
@@ -89,7 +90,9 @@
 
         .controls-group {
             display: flex;
+            justify-content: space-between;
             gap: 1rem;
+            width: 100%;
         }
 
         .controls span {
@@ -185,7 +188,7 @@
                 <span onclick="sortArchive('impact')">By Impact</span>
                 <span onclick="sortArchive('themes')">Themes</span>
             </div>
-            <div class="controls-group">
+            <div class="controls-group" style="justify-content: flex-end;">
                 <span id="sort-order" onclick="toggleSortOrder()">Newest First ↓</span>
             </div>
         </div>
@@ -204,14 +207,11 @@
                 return isNewestFirst ? dateB - dateA : dateA - dateB;
             });
             
-            // Keep year markers? For now, we will hide them when sorting 
-            // as this requires a more complex grouping engine.
+            // Remove markers and existing posts
             document.querySelectorAll('.year-marker').forEach(m => m.style.display = 'none');
-            
-            // Remove existing posts from container
             posts.forEach(post => post.remove());
             
-            // Append sorted posts
+            // Re-append sorted posts
             posts.forEach(post => container.appendChild(post));
             console.log("Archive re-sorted by: " + criteria);
         }
